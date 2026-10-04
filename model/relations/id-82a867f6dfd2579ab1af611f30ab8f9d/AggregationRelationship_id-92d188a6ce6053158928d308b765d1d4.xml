@@ -1,0 +1,26 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-92d188a6ce6053158928d308b765d1d4">
+  <properties
+      key="wiki-gemma-model id"
+      value="burgemeester#Doelgroepindeling"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Doelgroepindeling"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-17a7441705094ba9b385c25497844778.xml#id-17a7441705094ba9b385c25497844778"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-ab1fb457a4585841b98353e315234233.xml#id-ab1fb457a4585841b98353e315234233"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vervult"
+    id="id-0b55f5b6f8c3571e925659ae0445a207">
+  <properties
+      key="wiki-gemma-model id"
+      value="gemeente#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 33, 39 lid 2"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-62d468135540549c9c9e83c9551de3c9.xml#id-62d468135540549c9c9e83c9551de3c9"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-77e415928f565e74b91359fde6ad9da7.xml#id-77e415928f565e74b91359fde6ad9da7"/>
+</archimate:AssignmentRelationship>

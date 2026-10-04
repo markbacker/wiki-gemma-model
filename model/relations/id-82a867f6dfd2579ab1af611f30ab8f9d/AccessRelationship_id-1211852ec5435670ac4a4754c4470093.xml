@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bepaalt wie begraven wordt in (algemeen graf)"
+    id="id-1211852ec5435670ac4a4754c4470093"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="houder-van-de-begraafplaats#6"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Wlb art. 23 lid 2; Groningen art. 13 lid 1"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-77e415928f565e74b91359fde6ad9da7.xml#id-77e415928f565e74b91359fde6ad9da7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0c4079e5f4ac5b43b4ff3c59b6ce6ae8.xml#id-0c4079e5f4ac5b43b4ff3c59b6ce6ae8"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ziet toe op"
+    id="id-c553c787bb8b503fa59b6dfdc9bc9550">
+  <properties
+      key="wiki-gemma-model id"
+      value="beheerder-van-de-begraafplaats#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 27 lid 2"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0b6bb452a0fc5152a59a86b77fe09422.xml#id-0b6bb452a0fc5152a59a86b77fe09422"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2de444e3552c5f908f12c6a6868cadfa.xml#id-2de444e3552c5f908f12c6a6868cadfa"/>
+</archimate:AssignmentRelationship>

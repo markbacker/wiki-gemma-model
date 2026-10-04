@@ -1,0 +1,36 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-7ee515504f47563ba40d5c4eb7006c58">
+  <properties
+      key="wiki-gemma-model id"
+      value="exploiteren-van-begraafplaatsen#5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2010-vng-model-beheersverordening-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="toelichting § 2 (dienstverlening op begraafplaatsen, voorzieningenpakket)"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Functie-indeling naar domein"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-30deba14-c60a-49b2-b6d2-740a6d2539f5.xml#id-30deba14-c60a-49b2-b6d2-740a6d2539f5"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-dd3cb81e680059828143496df77fbbd1.xml#id-dd3cb81e680059828143496df77fbbd1"/>
+</archimate:AggregationRelationship>

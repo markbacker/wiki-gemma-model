@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beheert"
+    id="id-f5a46ae013495438a7531d1627dfa840"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="beheren-crematoria#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 50, 51, 54"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-df39047cb6b35de2925edbb67e10e4a0.xml#id-df39047cb6b35de2925edbb67e10e4a0"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b1adea73dd0d54d490565e755aefcc6a.xml#id-b1adea73dd0d54d490565e755aefcc6a"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,45 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoering Publieksdiensten"
+    id="id-f54b116c-22f4-4f01-bf6d-997debf536c3"
+    documentation="Het leveren van gemeentelijke producten en diensten die tot het domein publieksdiensten worden gerekend.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie domein"/>
+  <properties
+      key="Object ID"
+      value="f54b116c-22f4-4f01-bf6d-997debf536c3"/>
+  <properties
+      key="Toelichting"
+      value="Bijv. klachtenafhandeling, subsidiering, burgelijke stand diensten en belastingoplegging."/>
+  <properties
+      key="wiki-gemma-model id"
+      value="uitvoering-publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="exact"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-vng-gemma-2026-10-02; 2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De uitvoerende functies van het domein Publieksdiensten in het GEMMA-bedrijfsfunctiemodel, tussen de laag Uitvoering en de functies per soort werk."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsfuncties/publieksdiensten/uitvoering-publieksdiensten.md"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+</archimate:BusinessFunction>

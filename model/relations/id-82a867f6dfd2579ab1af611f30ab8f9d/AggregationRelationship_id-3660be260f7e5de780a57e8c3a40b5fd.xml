@@ -1,0 +1,33 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-3660be260f7e5de780a57e8c3a40b5fd">
+  <properties
+      key="wiki-gemma-model id"
+      value="gemeente#5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-rijk-gemeentewet-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 6"/>
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-62d468135540549c9c9e83c9551de3c9.xml#id-62d468135540549c9c9e83c9551de3c9"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-b69cb101-8708-47de-9ac1-e138f205a49f.xml#id-b69cb101-8708-47de-9ac1-e138f205a49f"/>
+</archimate:AggregationRelationship>

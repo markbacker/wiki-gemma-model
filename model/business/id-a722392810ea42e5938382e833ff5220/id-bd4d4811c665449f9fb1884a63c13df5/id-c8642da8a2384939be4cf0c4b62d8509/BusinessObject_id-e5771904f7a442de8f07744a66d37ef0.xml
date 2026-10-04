@@ -1,0 +1,63 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regeling"
+    id="id-e5771904f7a442de8f07744a66d37ef0"
+    documentation="Algemeen verbindend voorschrift van een overheid, zoals een wet, algemene maatregel van bestuur of gemeentelijke verordening.">
+  <properties
+      key="GEMMA URL"
+      value="https://gemmaonline.nl/index.php/GEMMA/id-4613c364-53f2-445d-a392-3b6661533a71"/>
+  <properties
+      key="GGM-datum-tijd-export"
+      value="10122024-112046"/>
+  <properties
+      key="GGM-guid"
+      value="{C25455F3-FEB0-4c6d-9AA4-3B027718BEE3}"/>
+  <properties
+      key="GGM-uml-type"
+      value="Class"/>
+  <properties
+      key="Let op"
+      value="&quot;ggm-&quot; properties worden beheerd in het GGM informatiemodel"/>
+  <properties
+      key="Object ID"
+      value="4613c364-53f2-445d-a392-3b6661533a71"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="regeling"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="sterk"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-rijk-gemeentewet-wettekst; 2026-vng-wet-op-de-lijkbezorging; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een regeling bevat algemeen verbindende voorschriften van een overheid, zoals een wet, een algemene maatregel van bestuur of een gemeentelijke verordening. De gemeenteraad stelt de gemeentelijke verordeningen vast, voor zover die bevoegdheid niet bij het college of de burgemeester ligt (Gemeentewet art. 147, 149). Een concreet benoemde landelijke wet of VNG-modelverordening is daarnaast een beleidskader."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsobjecten/0-bestuur-en-ondersteuning/besluitvorming/regeling.md"/>
+  <properties
+      key="wiki-gemma-model objectniveau"
+      value="generiek"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+  <properties
+      key="wiki-gemma-model vorige definitie"
+      value="Verzamelnaam voor AMvB’s, Ministeriële regelingen, lokale verordeningen, etc. De regeling is de meest concrete uitleg van de wet."/>
+</archimate:BusinessObject>

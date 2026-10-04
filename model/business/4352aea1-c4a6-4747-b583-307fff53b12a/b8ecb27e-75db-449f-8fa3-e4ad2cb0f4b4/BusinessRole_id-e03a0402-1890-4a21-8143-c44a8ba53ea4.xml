@@ -1,0 +1,39 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ketenpartner"
+    id="id-e03a0402-1890-4a21-8143-c44a8ba53ea4"
+    documentation="Verantwoordelijkheid van een andere organisatie voor haar deel van een ketenproces dat zij met de gemeente uitvoert.">
+  <properties
+      key="Object ID"
+      value="e03a0402-1890-4a21-8143-c44a8ba53ea4"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="ketenpartner"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="exact"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-vng-gemma-2026-10-02; 2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een ketenpartner is een andere organisatie die een eigen deel van een ketenproces uitvoert, vanuit een eigen wettelijke taak, en niet als klant of alleen als adviseur. GEMMA kent de rol Ketenpartner in de procesarchitectuur en de doelgroep Ketenpartners."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/rollen/ketenpartner.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="ketenpartners"/>
+</archimate:BusinessRole>

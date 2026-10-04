@@ -1,0 +1,29 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1c4d5631bbb958e7aa47c28cd02304c6">
+  <properties
+      key="wiki-gemma-model id"
+      value="beheerder-van-de-begraafplaats#gemma_generiek"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Specialisatie van een generiek GEMMA-element"/>
+  <properties
+      key="wiki-gemma-model onderbouwing"
+      value="De beheerder van de begraafplaats is een beheerder met de dagelijkse leiding over de gemeentelijke begraafplaatsen (Groningen art. 1 e)."/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-0b6bb452a0fc5152a59a86b77fe09422.xml#id-0b6bb452a0fc5152a59a86b77fe09422"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-a96ec982-643b-4c36-aa13-f36a51b85694.xml#id-a96ec982-643b-4c36-aa13-f36a51b85694"/>
+</archimate:SpecializationRelationship>

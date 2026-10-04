@@ -1,0 +1,45 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="College van B&amp;W"
+    id="id-af1a85d2-b6d6-44da-b562-ef2ccd69108e"
+    documentation="Dagelijks bestuur van de gemeente, bestaande uit de burgemeester en de wethouders.">
+  <properties
+      key="Object ID"
+      value="af1a85d2-b6d6-44da-b562-ef2ccd69108e"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="college-van-b-w"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="exact"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-rijk-gemeentewet-wettekst; 2026-rijk-wet-op-de-lijkbezorging-wettekst; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het college bestaat uit de burgemeester, die voorzitter is, en de wethouders (Gemeentewet art. 34). Het voert het dagelijks bestuur van de gemeente, voor zover de wet dat niet aan de raad of de burgemeester opdraagt (art. 160)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Burgemeester en wethouders (wet); College (GEMMA)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/actoren/college-van-b-w.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="gemeente"/>
+  <properties
+      key="wiki-gemma-model vorige naam"
+      value="College"/>
+</archimate:BusinessActor>

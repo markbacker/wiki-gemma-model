@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="waarschuwt bij een niet-natuurlijke dood"
+    id="id-eea40eb8af75504fb3bf0fef9d609a94"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="gemeentelijke-lijkschouwer#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 10 lid 1"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-7a33463e2bb35989ab38d88aa0e2a173.xml#id-7a33463e2bb35989ab38d88aa0e2a173"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3b44289d234957ecad7e1c725acf246a.xml#id-3b44289d234957ecad7e1c725acf246a"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-800c6d1ea4325b28a722a2f8093019ce">
+  <properties
+      key="wiki-gemma-model id"
+      value="verlenen-grafrecht#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen; 2010-vng-model-beheersverordening-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Groningen art. 16; VNG-model art. 15"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-72c234ccca9b5464811e0474bcd782ce.xml#id-72c234ccca9b5464811e0474bcd782ce"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-dd3cb81e680059828143496df77fbbd1.xml#id-dd3cb81e680059828143496df77fbbd1"/>
+</archimate:RealizationRelationship>

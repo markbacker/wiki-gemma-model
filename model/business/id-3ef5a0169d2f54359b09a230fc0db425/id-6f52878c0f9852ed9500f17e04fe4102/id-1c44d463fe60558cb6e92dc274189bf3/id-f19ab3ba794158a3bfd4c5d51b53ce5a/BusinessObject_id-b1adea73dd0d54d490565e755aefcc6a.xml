@@ -1,0 +1,39 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crematorium"
+    id="id-b1adea73dd0d54d490565e755aefcc6a"
+    documentation="Inrichting waar lijken worden gecremeerd en de as wordt geborgen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="crematorium"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Crematoria zijn gemeentelijk of bijzonder (art. 51). Een bijzonder crematorium wordt gevestigd door een kerkgenootschap, rechtspersoon of natuurlijk persoon, met een vergunning van burgemeester en wethouders (art. 52, 53). De houder bergt de as, zorgt voor de bestemming ervan en houdt een openbaar register (art. 50, 58, 59)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsobjecten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/crematorium.md"/>
+  <properties
+      key="wiki-gemma-model objectniveau"
+      value="kernobject"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:BusinessObject>

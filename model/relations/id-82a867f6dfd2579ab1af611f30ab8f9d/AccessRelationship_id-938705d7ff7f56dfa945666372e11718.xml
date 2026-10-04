@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="heeft"
+    id="id-938705d7ff7f56dfa945666372e11718"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="rechthebbende-op-het-graf#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Wlb art. 28; Groningen art. 1 w"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-cb6de84aee08550d85ac3727aad8bec2.xml#id-cb6de84aee08550d85ac3727aad8bec2"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-f1059419577a5403a5d95aa332436032.xml#id-f1059419577a5403a5d95aa332436032"/>
+</archimate:AccessRelationship>

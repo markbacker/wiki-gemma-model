@@ -1,0 +1,36 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="besluit tot"
+    id="id-769e08df65f351c7964d2746c23a17f0">
+  <properties
+      key="wiki-gemma-model id"
+      value="sluiten-begraafplaats#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 43 lid 2, 44"/>
+  <properties
+      key="wiki-gemma-model specialisatie"
+      value="Sluiting van een begraafplaats"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-d0fd7ec403a853aa853532a68ae58530.xml#id-d0fd7ec403a853aa853532a68ae58530"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3d9b45d27b6840b39b99e8ede85db6f4.xml#id-3d9b45d27b6840b39b99e8ede85db6f4"/>
+</archimate:AccessRelationship>

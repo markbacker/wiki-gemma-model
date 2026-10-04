@@ -1,0 +1,42 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Model-beheersverordening begraafplaatsen"
+    id="id-698780f0d7a7536b9a3bd66c7edae03d"
+    documentation="Model van de VNG voor de verordening waarin een gemeente het beheer en het gebruik van haar begraafplaatsen regelt.">
+  <properties
+      key="wiki-gemma-model id"
+      value="model-beheersverordening-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2010-vng-model-beheersverordening-begraafplaatsen; 2026-vng-wet-op-de-lijkbezorging"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De raad stelt de beheersverordening vast op grond van art. 35 Wet op de lijkbezorging en art. 149 Gemeentewet; het model geeft de begripsbepalingen (particulier en algemeen graf, urnengraf, urnennis, gedenkplaats, rechthebbende, gebruiker, beheerder) en de regels voor uitgifte, termijnen, overschrijving, afstand, grafbedekking, onderhoud en ruiming (aanhef, art. 1–24).&#xA;&#xA;De openbare versie is die van 2010, met toelichting; nieuwere versies staan in de Kennisbank decentrale regelgeving van SDU. De toelichting citeert art. 28 lid 7 Wet op de lijkbezorging nog met een termijn van twintig jaar; de huidige wet zegt tien jaar (tegenspraak)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="VNG Model beheersverordening begraafplaatsen (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="motivatie/beleidskaders/model-beheersverordening-begraafplaatsen.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="VNG-model"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:Driver>

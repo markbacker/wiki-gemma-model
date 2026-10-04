@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betreft"
+    id="id-a65818101a685653856797c7c9b424f7"
+    accessType="1">
+  <properties
+      key="wiki-gemma-model id"
+      value="treffen-maatregel-bij-besmet-lijk#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 22a"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-80882f2992c259ec970fe9e268f3f946.xml#id-80882f2992c259ec970fe9e268f3f946"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a2c7cb8f384257778067e70f75d4f2c8.xml#id-a2c7cb8f384257778067e70f75d4f2c8"/>
+</archimate:AccessRelationship>

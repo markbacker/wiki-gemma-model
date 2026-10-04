@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-44cd85a9914e5715b12b3eed596e49f2"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="wet-op-de-lijkbezorging#11"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 53–55"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-58cba76204ce551b9650abf0d9fbf686.xml#id-58cba76204ce551b9650abf0d9fbf686"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c1affa7acf5353f9bc6f7eab26090146.xml#id-c1affa7acf5353f9bc6f7eab26090146"/>
+</archimate:AssociationRelationship>

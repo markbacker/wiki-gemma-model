@@ -1,0 +1,36 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arts"
+    id="id-22b4e0e7131557c791031332c5111c55"
+    documentation="Persoon die als arts mensen medisch onderzoekt en behandelt.">
+  <properties
+      key="wiki-gemma-model id"
+      value="arts"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst; 2026-rvo-aangifte-en-akte-van-overlijden"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Lijkschouwing gebeurt door de behandelende arts of door een gemeentelijke lijkschouwer (Wet op de lijkbezorging art. 3). Behandelend is de hoedanigheid: de arts die de overledene voor het overlijden behandelde. Is die ervan overtuigd dat de dood een natuurlijke oorzaak heeft, dan geeft hij een verklaring van overlijden af (art. 7). De nabestaanden hebben die nodig voor de aangifte (RVO), en zonder die verklaring verleent de ambtenaar van de burgerlijke stand geen verlof tot begraving of crematie (art. 12).&#xA;&#xA;Kan de behandelende arts geen verklaring afgeven, of gaat het om euthanasie of hulp bij zelfdoding, dan doet hij met een formulier mededeling aan de gemeentelijke lijkschouwer (art. 7 lid 2 en 6). Bij een overleden minderjarige geeft hij de verklaring pas af na overleg met de gemeentelijke lijkschouwer, en geeft hij die op verzoek de informatie voor een nader onderzoek naar de doodsoorzaak (art. 10a).&#xA;&#xA;Het college benoemt een of meer gemeentelijke lijkschouwers, uitsluitend artsen die als forensisch arts zijn ingeschreven (art. 4, 5). De medische behandeling zelf blijft buiten het model: die is de interne zaak van de arts als ketenpartner."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Behandelende arts (wet)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/actoren/arts.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="ketenpartners"/>
+</archimate:BusinessActor>

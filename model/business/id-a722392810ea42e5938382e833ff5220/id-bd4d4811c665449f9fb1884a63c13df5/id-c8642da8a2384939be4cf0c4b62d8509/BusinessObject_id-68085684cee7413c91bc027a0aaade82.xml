@@ -1,0 +1,63 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeentebegrafenis"
+    id="id-68085684cee7413c91bc027a0aaade82"
+    documentation="Lijkbezorging waarvoor de gemeente zorgt en betaalt omdat niemand anders daarin voorziet.">
+  <properties
+      key="GEMMA URL"
+      value="https://gemmaonline.nl/index.php/GEMMA/id-a0f96391-4935-4c7a-be2b-2fa1b00da57f"/>
+  <properties
+      key="GGM-datum-tijd-export"
+      value="10122024-112046"/>
+  <properties
+      key="GGM-guid"
+      value="{F2DBE01F-7535-4f26-9DF2-081EF8632F36}"/>
+  <properties
+      key="GGM-uml-type"
+      value="Class"/>
+  <properties
+      key="Let op"
+      value="&quot;ggm-&quot; properties worden beheerd in het GGM informatiemodel"/>
+  <properties
+      key="Object ID"
+      value="a0f96391-4935-4c7a-be2b-2fa1b00da57f"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="gemeentebegrafenis"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="sterk"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een gemeentebegrafenis is het geval dat ontstaat als de burgemeester de lijkbezorging op zich neemt (art. 21). De gemeente draagt de kosten en verhaalt die zo mogelijk op de nalatenschap, de onderhoudsplichtige verwanten of de werkgever (art. 22). Het GGM legt per geval onder meer de melder, de kosten en de datum van begrafenis en ruiming vast."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsobjecten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/gemeentebegrafenis.md"/>
+  <properties
+      key="wiki-gemma-model objectniveau"
+      value="kernobject"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+  <properties
+      key="wiki-gemma-model vorige definitie"
+      value="Teraardebestelling onder verantwoordelijjkheid van de gemeente."/>
+</archimate:BusinessObject>

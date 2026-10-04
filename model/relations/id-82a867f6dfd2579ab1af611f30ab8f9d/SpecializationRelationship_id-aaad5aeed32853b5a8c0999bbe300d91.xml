@@ -1,0 +1,33 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is een"
+    id="id-aaad5aeed32853b5a8c0999bbe300d91">
+  <properties
+      key="wiki-gemma-model id"
+      value="heffingsverordening#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-rijk-gemeentewet-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 216"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-b5f50c54f1cf45b8b7b61a5929035919.xml#id-b5f50c54f1cf45b8b7b61a5929035919"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e5771904f7a442de8f07744a66d37ef0.xml#id-e5771904f7a442de8f07744a66d37ef0"/>
+</archimate:SpecializationRelationship>

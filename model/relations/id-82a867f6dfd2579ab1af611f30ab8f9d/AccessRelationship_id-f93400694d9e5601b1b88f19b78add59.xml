@@ -1,0 +1,36 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt op"
+    id="id-f93400694d9e5601b1b88f19b78add59">
+  <properties
+      key="wiki-gemma-model id"
+      value="vervallen-verklaren-grafrecht#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 28 lid 4"/>
+  <properties
+      key="wiki-gemma-model specialisatie"
+      value="Verklaring van verwaarlozing"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-75a1ffb3a38f5ed482179917b41d5c97.xml#id-75a1ffb3a38f5ed482179917b41d5c97"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3d9b45d27b6840b39b99e8ede85db6f4.xml#id-3d9b45d27b6840b39b99e8ede85db6f4"/>
+</archimate:AccessRelationship>

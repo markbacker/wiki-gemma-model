@@ -1,0 +1,33 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Houder van een plaats van bijzetting"
+    id="id-f97e7a1412ff52749ee3016217299bdb"
+    documentation="Verantwoordelijkheid voor een plaats waar urnen worden bijgezet.">
+  <properties
+      key="wiki-gemma-model id"
+      value="houder-van-een-plaats-van-bijzetting"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De houder van een plaats van bijzetting houdt een openbaar register van de bijgezette asbussen, stelt ze op verzoek ter beschikking en ruimt ze door verstrooiing van de as (art. 63, 65, 66). Het register gaat bij opheffing naar het archief van de gemeente (art. 65 lid 3)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/rollen/houder-van-een-plaats-van-bijzetting.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="gemeente"/>
+</archimate:BusinessRole>

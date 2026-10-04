@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="werkt uit"
+    id="id-5de511da51c65bd7ab8a101d98f6fa9b"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="model-beheersverordening-begraafplaatsen#6"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2010-vng-model-beheersverordening-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="aanhef; toelichting 1.1, 3.1"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-698780f0d7a7536b9a3bd66c7edae03d.xml#id-698780f0d7a7536b9a3bd66c7edae03d"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-58cba76204ce551b9650abf0d9fbf686.xml#id-58cba76204ce551b9650abf0d9fbf686"/>
+</archimate:AssociationRelationship>

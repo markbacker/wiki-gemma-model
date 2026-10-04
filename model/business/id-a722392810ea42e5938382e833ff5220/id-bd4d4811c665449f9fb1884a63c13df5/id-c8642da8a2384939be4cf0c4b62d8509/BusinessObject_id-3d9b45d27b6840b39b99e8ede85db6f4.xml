@@ -1,0 +1,63 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikking"
+    id="id-3d9b45d27b6840b39b99e8ede85db6f4"
+    documentation="Besluit van een bestuursorgaan in een concreet geval, zoals het verlenen van een vergunning.">
+  <properties
+      key="GEMMA URL"
+      value="https://gemmaonline.nl/index.php/GEMMA/id-c481e8b8-f7d7-4979-b767-ebf2a9b04712"/>
+  <properties
+      key="GGM-datum-tijd-export"
+      value="10122024-112046"/>
+  <properties
+      key="GGM-guid"
+      value="{71D7E96D-641A-4b6a-A325-DED07C3B5836}"/>
+  <properties
+      key="GGM-uml-type"
+      value="Class"/>
+  <properties
+      key="Let op"
+      value="&quot;ggm-&quot; properties worden beheerd in het GGM informatiemodel"/>
+  <properties
+      key="Object ID"
+      value="c481e8b8-f7d7-4979-b767-ebf2a9b04712"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="beschikking"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-04T22:37:59"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="sterk"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst; 2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een beschikking is een besluit dat niet van algemene strekking is, met inbegrip van de afwijzing van een aanvraag daarvan (Awb art. 1:3 lid 2). Een toestemming voor een handeling is een vergunning. Het element is generiek en domeinoverstijgend: het hoort niet bij één beleidsdomein (besluit redacteur 2026-09-30)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsobjecten/0-bestuur-en-ondersteuning/besluitvorming/beschikking.md"/>
+  <properties
+      key="wiki-gemma-model objectniveau"
+      value="generiek"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+  <properties
+      key="wiki-gemma-model vorige definitie"
+      value="In het bestuursrecht: Een beslissing van een overheidsorgaan in een concreet geval, bijvoorbeeld het verlenen van een bouwvergunning. In het civiele recht: een rechterlijke uitspraak in een procedure die begint met een verzoekschrift."/>
+</archimate:BusinessObject>
