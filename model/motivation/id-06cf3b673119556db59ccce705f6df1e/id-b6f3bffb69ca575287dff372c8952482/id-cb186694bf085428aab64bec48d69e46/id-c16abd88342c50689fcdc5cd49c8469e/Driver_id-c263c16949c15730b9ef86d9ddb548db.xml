@@ -1,0 +1,39 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besluit op de lijkbezorging"
+    id="id-c263c16949c15730b9ef86d9ddb548db"
+    documentation="Algemene maatregel van bestuur die de Wet op de lijkbezorging uitwerkt, onder meer voor het vervoer van een stoffelijk overschot naar en uit het buitenland.">
+  <properties
+      key="wiki-gemma-model id"
+      value="besluit-op-de-lijkbezorging"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-besluit-op-de-lijkbezorging-wettekst; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het Besluit op de lijkbezorging (BWBR0009080) regelt de modellen van de verklaring van overlijden, de eisen aan kist, graf en grafkelder, de inhoud van de registers van crematorium en plaats van bijzetting en het vervoer naar en uit het buitenland (art. 2–11). Voor de gemeente gaat het vooral om het laissez-passer voor lijken (art. 11) en de beslistermijn voor het verlof tot ontleding (art. 17)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="motivatie/beleidskaders/besluit-op-de-lijkbezorging.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="rijk"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:Driver>

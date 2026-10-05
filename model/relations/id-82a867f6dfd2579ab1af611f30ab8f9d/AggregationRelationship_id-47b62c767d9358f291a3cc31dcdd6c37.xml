@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-47b62c767d9358f291a3cc31dcdd6c37">
+  <properties
+      key="wiki-gemma-model id"
+      value="beheren-graven#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Groningen art. 22"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar taak"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces → deelproces"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-33d71105e2d25cd892c59c94ec68d297.xml#id-33d71105e2d25cd892c59c94ec68d297"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-873fa38b3c5e556c9a1f0e7f5b577f7d.xml#id-873fa38b3c5e556c9a1f0e7f5b577f7d"/>
+</archimate:AggregationRelationship>

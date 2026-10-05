@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-6c49aabbfef359bba99f3bc8e54f897f">
+  <properties
+      key="wiki-gemma-model id"
+      value="bezorgen-stoffelijk-overschot#13"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 67, 68"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar taak"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="ketenproces → deelproces"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5be7592f534f5579bbc0e06512b526f1.xml#id-5be7592f534f5579bbc0e06512b526f1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3d946a179e735290aeea986a5aae209a.xml#id-3d946a179e735290aeea986a5aae209a"/>
+</archimate:AggregationRelationship>

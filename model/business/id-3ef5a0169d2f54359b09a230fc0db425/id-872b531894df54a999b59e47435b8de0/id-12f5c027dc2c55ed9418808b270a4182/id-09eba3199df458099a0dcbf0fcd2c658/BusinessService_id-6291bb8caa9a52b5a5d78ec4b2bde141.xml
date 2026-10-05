@@ -1,0 +1,42 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlof tot begraven"
+    id="id-6291bb8caa9a52b5a5d78ec4b2bde141"
+    documentation="Toestemming van de gemeente om een stoffelijk overschot te begraven of te cremeren.">
+  <properties
+      key="wiki-gemma-model id"
+      value="verlof-tot-begraven"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-wet-op-de-lijkbezorging-wettekst; 2010-vng-model-beheersverordening-begraafplaatsen; 2026-rvo-aangifte-en-akte-van-overlijden"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Geen begraving of crematie zonder schriftelijk verlof van de ambtenaar van de burgerlijke stand, dat kosteloos wordt afgegeven (Wet op de lijkbezorging art. 11). De UPL-naam noemt alleen begraven; het verlof geldt ook voor crematie. Voor vervoer over land naar België of Luxemburg volstaat het verlof (Besluit op de lijkbezorging art. 11 lid 3).&#xA;&#xA;De UPL rekent het product tot Iv3 0.2 (Burgerzaken) en het GEMMA-domein Fysieke leefomgeving (UPL). In dit model staat het bij de begraafplaatsen en crematoria, naast het deelproces dat het levert, en in de functie-indeling bij het domein van de UPL."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/verlof-tot-begraven.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Fysieke leefomgeving"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:BusinessService>

@@ -1,0 +1,45 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verlenen vergunning grafbedekking"
+    id="id-873fa38b3c5e556c9a1f0e7f5b577f7d"
+    documentation="Het beslissen op een aanvraag om een vergunning voor een gedenkteken of andere grafbedekking op een particulier graf.">
+  <properties
+      key="wiki-gemma-model id"
+      value="verlenen-vergunning-grafbedekking"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2010-vng-model-beheersverordening-begraafplaatsen; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De rechthebbende van een particulier graf vraagt de vergunning aan; het college beslist en kan de vergunning weigeren als niet wordt voldaan aan de nadere regels over de aard en de afmetingen van de grafbedekking (Groningen art. 22; VNG-model art. 19). Beslisser is het college."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/verlenen-vergunning-grafbedekking.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="deelproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="grafbedekking"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:BusinessProcess>

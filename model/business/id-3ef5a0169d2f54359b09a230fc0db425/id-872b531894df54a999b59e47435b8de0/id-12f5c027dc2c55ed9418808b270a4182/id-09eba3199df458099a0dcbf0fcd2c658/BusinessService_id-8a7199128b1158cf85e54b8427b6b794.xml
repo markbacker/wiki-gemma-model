@@ -1,0 +1,42 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bijzondere begraafplaats toestemming"
+    id="id-8a7199128b1158cf85e54b8427b6b794"
+    documentation="Toestemming van de gemeente om een bijzondere begraafplaats aan te leggen, uit te breiden of in gebruik te nemen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="bijzondere-begraafplaats-toestemming"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een bijzondere begraafplaats wordt aangelegd en in stand gehouden door een kerkgenootschap, een privaatrechtelijke rechtspersoon of een natuurlijk persoon (Wet op de lijkbezorging art. 37). Voor aanleg of uitbreiding wordt alleen grond gebruikt die de gemeenteraad heeft aangewezen (art. 40 lid 1); voor de ingebruikneming is toestemming van burgemeester en wethouders nodig, die alleen wordt geweigerd als niet aan de wettelijke voorschriften is voldaan (art. 41)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/bijzondere-begraafplaats-toestemming.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:BusinessService>

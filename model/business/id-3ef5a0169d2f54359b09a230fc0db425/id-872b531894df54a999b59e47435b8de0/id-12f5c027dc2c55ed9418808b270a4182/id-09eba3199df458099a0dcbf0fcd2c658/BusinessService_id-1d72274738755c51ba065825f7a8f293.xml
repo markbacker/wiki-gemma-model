@@ -1,17 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderhoud van graven"
+    name="Grafonderhoud"
     id="id-1d72274738755c51ba065825f7a8f293"
     documentation="Onderhoud van grafmonumenten en grafbeplanting door de gemeente, tegen betaling door de rechthebbende.">
   <properties
       key="wiki-gemma-model id"
-      value="onderhoud-van-graven"/>
+      value="grafonderhoud"/>
   <properties
       key="wiki-gemma-model herkomst"
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-04T22:37:59"/>
+      value="2026-10-05T09:06:41"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -25,8 +25,11 @@
       key="wiki-gemma-model beschrijving"
       value="Op verzoek van de rechthebbende, of op sommige begraafplaatsen altijd, onderhoudt de gemeente de grafbedekking tegen betaling van een recht uit de heffingsverordening (Groningen art. 23, 24; VNG retributies). Een retributie is een tegenprestatie voor zo'n dienst (VNG retributies)."/>
   <properties
+      key="wiki-gemma-model synoniemen"
+      value="Onderhoud van graven (beleid)"/>
+  <properties
       key="wiki-gemma-model pagina"
-      value="bedrijfsarchitectuur/diensten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/onderhoud-van-graven.md"/>
+      value="bedrijfsarchitectuur/diensten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/grafonderhoud.md"/>
   <properties
       key="wiki-gemma-model afnemer"
       value="extern"/>

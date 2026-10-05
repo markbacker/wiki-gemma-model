@@ -1,0 +1,42 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoering openbare orde en veiligheid"
+    id="id-de168a10-7030-4026-bd95-298e6a6cb3e2"
+    documentation="Het leveren van gemeentelijke producten en diensten die tot het domein openbare orde en veiligheid worden gerekend.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsfunctie domein"/>
+  <properties
+      key="Object ID"
+      value="de168a10-7030-4026-bd95-298e6a6cb3e2"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="uitvoering-openbare-orde-en-veiligheid"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="exact"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-vng-gemma-2026-10-02; 2025-vng-upl-producten-en-diensten-extern; 2025-groningen-algemene-plaatselijke-verordening"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De uitvoerende functies van het domein Openbare orde en veiligheid in het GEMMA-bedrijfsfunctiemodel, tussen de laag Uitvoering en de functies per soort werk."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsfuncties/openbare-orde-en-veiligheid/uitvoering-openbare-orde-en-veiligheid.md"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Openbare orde en veiligheid"/>
+</archimate:BusinessFunction>

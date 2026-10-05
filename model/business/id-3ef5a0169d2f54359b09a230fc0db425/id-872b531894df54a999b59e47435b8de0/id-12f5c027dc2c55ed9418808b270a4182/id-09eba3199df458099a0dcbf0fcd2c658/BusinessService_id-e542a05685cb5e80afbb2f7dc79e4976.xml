@@ -1,0 +1,42 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Herbegraven of alsnog cremeren"
+    id="id-e542a05685cb5e80afbb2f7dc79e4976"
+    documentation="Toestemming van de gemeente om een begraven stoffelijk overschot op te graven en elders te begraven of te cremeren.">
+  <properties
+      key="wiki-gemma-model id"
+      value="herbegraven-of-alsnog-cremeren"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-wet-op-de-lijkbezorging-wettekst; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een stoffelijk overschot wordt alleen opgegraven met vergunning van de burgemeester van de gemeente waar het is begraven en, bij een particulier graf, met toestemming van de rechthebbende (Wet op de lijkbezorging art. 29 lid 1). Een opgegraven stoffelijk overschot mag worden gecremeerd op verzoek van de persoon uit art. 18 (art. 29 lid 3). De rechthebbende dient de aanvraag in bij de burgemeester (Groningen art. 28 lid 1)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/herbegraven-of-alsnog-cremeren.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Fysieke leefomgeving"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:BusinessService>

@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-cb84b704cde55a5bab48a1d3170e02d3">
+  <properties
+      key="wiki-gemma-model id"
+      value="verlof-tot-begraven#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rvo-aangifte-en-akte-van-overlijden"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 438; RVO inleiding"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-6291bb8caa9a52b5a5d78ec4b2bde141.xml#id-6291bb8caa9a52b5a5d78ec4b2bde141"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-e816170ab8e354c192c34c534cfa3355.xml#id-e816170ab8e354c192c34c534cfa3355"/>
+</archimate:ServingRelationship>

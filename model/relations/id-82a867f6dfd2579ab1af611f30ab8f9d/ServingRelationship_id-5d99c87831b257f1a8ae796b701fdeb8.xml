@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-5d99c87831b257f1a8ae796b701fdeb8">
+  <properties
+      key="wiki-gemma-model id"
+      value="vervoersdocumenten-stoffelijk-overschot#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-05T09:06:41"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rvo-aangifte-en-akte-van-overlijden"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 445; RVO, Zie ook"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-373542f45c955ea3821e396811898f65.xml#id-373542f45c955ea3821e396811898f65"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-e816170ab8e354c192c34c534cfa3355.xml#id-e816170ab8e354c192c34c534cfa3355"/>
+</archimate:ServingRelationship>
