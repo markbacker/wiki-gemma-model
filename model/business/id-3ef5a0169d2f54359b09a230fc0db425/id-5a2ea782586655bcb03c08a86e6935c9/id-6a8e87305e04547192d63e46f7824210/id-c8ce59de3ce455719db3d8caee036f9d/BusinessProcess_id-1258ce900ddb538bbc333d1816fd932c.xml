@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen aanvraag reisdocument"
+    id="id-1258ce900ddb538bbc333d1816fd932c"
+    documentation="Het in ontvangst nemen en beoordelen van een aanvraag voor een paspoort, identiteitskaart of ander reisdocument, tot verstrekking of weigering.">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-reisdocument"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212; 2026-utrecht-burgerzaken-paspoort-of-identiteitskaart-aanvragen; 2026-rijk-paspoortbesluit-bwbr0044308; 2025-vng-upl-producten-en-diensten-extern; 2026-vng-gemma-2026-10-02"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De aanvrager verschijnt persoonlijk op afspraak aan de balie, met alle huidige reisdocumenten, ook verlopen, en een pasfoto; vanaf twaalf jaar worden twee vingerafdrukken opgenomen en de rechten worden bij de aanvraag betaald (Paspoortwet art. 28, 29, 33; Paspoortbesluit art. 3.6; Utrecht). De burgemeester verschaft zich zekerheid over de identiteit en de nationaliteit, uit het overgelegde reisdocument, de basisregistratie personen en het basisregister reisdocumenten; na vermissing of diefstal zonder ander reisdocument stelt hij de identiteit eerst vast (Paspoortbesluit art. 2.1; Utrecht).&#xA;&#xA;Voor een minderjarige geeft iedere persoon die het gezag uitoefent een verklaring van toestemming, online of op een formulier; de rechter kan haar vervangen (Paspoortwet art. 34; Utrecht). De burgemeester verstrekt binnen vier weken, tenzij er een mededeling van de minister over een signalering is; dan beslist hij of de gronden tot weigering nog bestaan (Paspoortwet art. 41, 44, 45). Een aanvraag kan ook de wijziging van gegevens in een eerder verstrekt reisdocument betreffen (art. 1 onder a, 43).&#xA;&#xA;Een vreemdelingenpaspoort wordt pas verstrekt nadat de minister van Justitie en Veiligheid heeft vastgesteld dat aan de voorwaarden is voldaan (Paspoortwet art. 40 lid 4; Utrecht: voorgelegd aan de IND en het ministerie van Buitenlandse Zaken). Een spoedaanvraag is een aanvraag met kortere levertijd tegen een hoger tarief (Utrecht).&#xA;&#xA;Voor personen die niet als ingezetene in de BRP staan, behandelen alleen aangewezen gemeenten de aanvraag: de specialisatie Behandelen aanvraag reisdocument niet-ingezetene (Paspoortbesluit art. 3.2, 4.2)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Verstrekken reisdocument (wet); Paspoort of identiteitskaart aanvragen (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/behandelen-aanvraag-reisdocument.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="deelproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="reisdocument"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessProcess>

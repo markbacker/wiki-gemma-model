@@ -1,0 +1,23 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d61f3ae4466955f5b6f5a9ceb8b66a7e">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel#id-81136"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-57b2814349e351d6b32a7bfb6e743f6b.xml#id-57b2814349e351d6b32a7bfb6e743f6b"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-81136.xml#id-81136"/>
+</archimate:AggregationRelationship>

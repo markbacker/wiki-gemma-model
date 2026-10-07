@@ -1,0 +1,29 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-195c088f1631521da68947d619f9d3b1">
+  <properties
+      key="wiki-gemma-model id"
+      value="opmaken-akte-van-overlijden#gemma_generiek"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar soort werk"/>
+  <properties
+      key="wiki-gemma-model onderbouwing"
+      value="Een aangifte van een gebeurtenis van de burgerlijke stand die de gemeente verwerkt (BW 1 art. 19h)."/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-be872e70cdcc5c8b9027a167096158da.xml#id-be872e70cdcc5c8b9027a167096158da"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1d4d0829-9ed4-49a3-a661-e91c2fc25072.xml#id-1d4d0829-9ed4-49a3-a661-e91c2fc25072"/>
+</archimate:SpecializationRelationship>

@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-a5601e32fc6f58baa2329135fa375375"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="wegenverkeerswet-1994#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wegenverkeerswet-1994-bwbr0006622"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 123 lid 1 onder h"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-1b68c2aca65650909771ad8c0d2bca52.xml#id-1b68c2aca65650909771ad8c0d2bca52"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-914a76cd8a4251f5899b3e226a484674.xml#id-914a76cd8a4251f5899b3e226a484674"/>
+</archimate:AssociationRelationship>

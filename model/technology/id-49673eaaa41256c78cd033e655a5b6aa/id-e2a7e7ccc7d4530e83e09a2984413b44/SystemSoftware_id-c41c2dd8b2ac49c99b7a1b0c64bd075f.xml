@@ -1,0 +1,24 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technologiecomponent"
+    id="id-c41c2dd8b2ac49c99b7a1b0c64bd075f"
+    documentation="Een type systeemsoftware dat een omgeving realiseert voor het draaien en ondersteunen van applicaties en technische services.">
+  <properties
+      key="Object ID"
+      value="a0824f48-49fc-41e5-8c9a-bcac280c492d"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-c41c2dd8b2ac49c99b7a1b0c64bd075f"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:SystemSoftware>

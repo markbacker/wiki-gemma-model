@@ -1,0 +1,30 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-71069a3dc87954c1b5f7368d917dd92a"
+    documentation="De wiki gebruikt deze relatie 2× tussen Groep en Product; het kennismodel heeft haar niet.">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#aggregation-relationship:grouping>product:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model gebruikt in"
+      value="2"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-bd33c6c868514f7780d80f62179cb315.xml#id-bd33c6c868514f7780d80f62179cb315"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_id-81174.xml#id-81174"/>
+</archimate:AggregationRelationship>

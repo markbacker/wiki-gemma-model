@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-04d514d31b5a5b3792f71a73cde793b9">
+  <properties
+      key="wiki-gemma-model id"
+      value="volmachtbewijs-verkiezingen#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. L 8"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-51096dd90f7e554a98c6519e9b0a787d.xml#id-51096dd90f7e554a98c6519e9b0a787d"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d649e10e-d9a6-4ac7-b436-2d659cb4fdbf.xml#id-d649e10e-d9a6-4ac7-b436-2d659cb4fdbf"/>
+</archimate:ServingRelationship>

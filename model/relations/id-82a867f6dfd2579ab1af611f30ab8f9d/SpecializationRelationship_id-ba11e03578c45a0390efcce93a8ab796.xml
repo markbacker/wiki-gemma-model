@@ -1,0 +1,29 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ba11e03578c45a0390efcce93a8ab796">
+  <properties
+      key="wiki-gemma-model id"
+      value="opmaken-akte-levenloos-geboren-kind#gemma_generiek"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar soort werk"/>
+  <properties
+      key="wiki-gemma-model onderbouwing"
+      value="Een aangifte van een gebeurtenis van de burgerlijke stand die de gemeente verwerkt (BW 1 art. 19i)."/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f5e749c5543b5dd5a9f75acd6bc1ec01.xml#id-f5e749c5543b5dd5a9f75acd6bc1ec01"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1d4d0829-9ed4-49a3-a661-e91c2fc25072.xml#id-1d4d0829-9ed4-49a3-a661-e91c2fc25072"/>
+</archimate:SpecializationRelationship>

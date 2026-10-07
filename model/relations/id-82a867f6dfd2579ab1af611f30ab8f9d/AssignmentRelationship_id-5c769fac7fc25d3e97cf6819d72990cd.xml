@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft toestemming voor een minderjarige"
+    id="id-5c769fac7fc25d3e97cf6819d72990cd">
+  <properties
+      key="wiki-gemma-model id"
+      value="ouder#5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212; 2026-utrecht-burgerzaken-paspoort-of-identiteitskaart-aanvragen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 34; Utrecht regel 131-185"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-02e3990e97385be4a5c95c41206d8973.xml#id-02e3990e97385be4a5c95c41206d8973"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1258ce900ddb538bbc333d1816fd932c.xml#id-1258ce900ddb538bbc333d1816fd932c"/>
+</archimate:AssignmentRelationship>

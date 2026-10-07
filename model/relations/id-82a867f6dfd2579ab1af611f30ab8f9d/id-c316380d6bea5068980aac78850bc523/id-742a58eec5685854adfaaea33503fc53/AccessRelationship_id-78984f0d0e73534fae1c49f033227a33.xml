@@ -1,0 +1,31 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-78984f0d0e73534fae1c49f033227a33"
+    documentation="De wiki gebruikt deze relatie 1× tussen Rol en Afspraak; het kennismodel heeft haar niet."
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#access-relationship:business-role>contract:3"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model gebruikt in"
+      value="1"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c2ebc94dbd2645608a4e789a014973eb.xml#id-c2ebc94dbd2645608a4e789a014973eb"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-8fcf2c9a1bb243fe8ca901b5f663ca5d.xml#id-8fcf2c9a1bb243fe8ca901b5f663ca5d"/>
+</archimate:AccessRelationship>

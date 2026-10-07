@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="staat op naam van"
+    id="id-0f100f53bc995a5f8127cfbcac64bafc"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="reisdocument#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212; 2026-rvig-hup-reisdocument"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Paspoortwet art. 1 onder f, 26; HUP Reisdocument"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-07cb7da54dac4181839b23d677fefd4e.xml#id-07cb7da54dac4181839b23d677fefd4e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8576c90ac5104cf8ade8acadf2764432.xml#id-8576c90ac5104cf8ade8acadf2764432"/>
+</archimate:AssociationRelationship>

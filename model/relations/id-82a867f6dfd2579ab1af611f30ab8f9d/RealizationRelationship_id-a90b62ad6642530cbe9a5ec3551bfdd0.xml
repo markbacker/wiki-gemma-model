@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-a90b62ad6642530cbe9a5ec3551bfdd0">
+  <properties
+      key="wiki-gemma-model id"
+      value="voltrekken-huwelijk#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-trouwen-in-utrecht"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 184"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-be2cfad6c4e850449c4b3888ad5c3db2.xml#id-be2cfad6c4e850449c4b3888ad5c3db2"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-b25c4119727655aaa461f148c0c892a8.xml#id-b25c4119727655aaa461f148c0c892a8"/>
+</archimate:RealizationRelationship>

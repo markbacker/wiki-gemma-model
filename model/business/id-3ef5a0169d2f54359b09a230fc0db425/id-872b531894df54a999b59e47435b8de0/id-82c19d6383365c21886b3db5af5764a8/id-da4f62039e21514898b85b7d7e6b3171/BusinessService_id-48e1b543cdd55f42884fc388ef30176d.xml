@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legalisatie handtekening"
+    id="id-48e1b543cdd55f42884fc388ef30176d"
+    documentation="Het bewijzen dat een handtekening echt is, doordat de gemeente haar vergelijkt met de handtekening op het identiteitsbewijs.">
+  <properties
+      key="wiki-gemma-model id"
+      value="legalisatie-handtekening"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-handtekening-laten-legaliseren-bewijzen-dat-de-handtekening-echt-is"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De aanvrager tekent bij voorkeur aan de balie met een ambtenaar erbij en kan niemand anders sturen; het tarief is € 21,20 per handtekening in 2026 (2026-utrecht-burgerzaken-handtekening-laten-legaliseren-bewijzen-dat-de-handtekening-echt-is). De UPL noemt art. 23 Wet griffierechten burgerlijke zaken als grondslag (2025-vng-upl-producten-en-diensten-extern, nr. 226), maar dat artikel stelt alleen het griffierecht vast (€ 25 per handtekening, meerdere handtekeningen van dezelfde persoon op hetzelfde stuk tellen als één; 2026-rijk-wet-griffierechten-burgerlijke-zaken-bwbr0028899, art. 23 lid 2) en geeft de gemeente geen taak of bevoegdheid: de wet is bron voor het tarief en geen beleidskader (besluit redacteur 2026-10-07). De bevoegdheidsgrondslag van de gemeentelijke legalisatie is in de wet niet gevonden (verificatie nodig): ook de Wet regels inzake heffing van rechten voor legalisatie van handtekeningen (BWBR0005125) en de O. en W.-regeling legalisatie handtekeningen (BWBR0005229) regelen alleen rechten voor het Rijk, en gemeenten mandateren het afgeven van legalisatieverklaringen aan ambtenaren zonder wetsartikel te noemen."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Handtekening legaliseren (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/legalisatie-handtekening.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

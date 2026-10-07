@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stempas ontvangen"
+    id="id-6b79cffa7a38592cabe771f4154fae9a"
+    documentation="Het als kiezer ontvangen van een stempas voor een verkiezing, en bij verlies of niet-ontvangst een nieuwe aanvragen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="stempas-ontvangen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Elke kiezer ontvangt ten minste veertien dagen voor de stemming een stempas van de burgemeester van de gemeente waar hij als kiezer is geregistreerd; wie haar kwijt is of niet heeft ontvangen, vraagt een nieuwe aan (Kieswet art. J 7, J 8). Grondslag art. J 7 Kieswet; doelgroep burger; niet digitaal (UPL nr. 397)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Stempas (UPL)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/stempas-ontvangen.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

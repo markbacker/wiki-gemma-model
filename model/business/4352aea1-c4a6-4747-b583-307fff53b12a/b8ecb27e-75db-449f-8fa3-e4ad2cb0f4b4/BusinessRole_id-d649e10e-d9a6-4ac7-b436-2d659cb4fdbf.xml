@@ -1,0 +1,45 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kiezer"
+    id="id-d649e10e-d9a6-4ac7-b436-2d659cb4fdbf"
+    documentation="Hoedanigheid van wie kiesgerechtigd en als kiezer geregistreerd is en bij een verkiezing mag stemmen.">
+  <properties
+      key="Object ID"
+      value="d649e10e-d9a6-4ac7-b436-2d659cb4fdbf"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kiezer"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="exact"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-kieswet-bwbr0004627; 2026-vng-gemma-2026-10-02; 2026-rvig-hup-europees-kiesrecht"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De kiezer ontvangt een stempas, kan een nieuwe stempas of een kiezerspas aanvragen en kan een andere kiezer machtigen om voor hem te stemmen; als volmachtgever wijst hij zelf een gemachtigde aan, die zelf als kiezer moet zijn geregistreerd (Kieswet art. J 7, J 8, K 3, L 2, L 8). GEMMA kent de rol Kiezer onder de rol Klant."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/rollen/kiezer.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="inwoners en ondernemers"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessRole>

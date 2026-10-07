@@ -1,0 +1,24 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Product"
+    id="id-81174"
+    documentation="Een Product is een gebundeld aanbod van diensten met bijbehorende afspraken, geleverd door een organisatie aan een afnemer en met waarde voor die afnemer.">
+  <properties
+      key="Object ID"
+      value="7a6deb3a-ba40-4081-98d9-4befa1db1919"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-81174"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:Product>

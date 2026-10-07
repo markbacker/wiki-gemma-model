@@ -1,0 +1,42 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Besluit basisregistratie personen"
+    id="id-a1295c99991754a891e3527247d98b99"
+    documentation="Algemene maatregel van bestuur die de Wet basisregistratie personen uitwerkt, onder meer voor inschrijving, aangifte, adresonderzoek en verstrekking.">
+  <properties
+      key="wiki-gemma-model id"
+      value="besluit-basisregistratie-personen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-besluit-brp-bwbr0034306"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het Besluit BRP (BWBR0034306) regelt wie niet als ingezetene wordt ingeschreven (art. 21, 22), de ondersteuning van het adresonderzoek met de Landelijke Aanpak Adreskwaliteit (art. 28a tot en met 28g), de aangifteplicht en het verschijnen in persoon (art. 29, 30), de verstrekking aan overheidsorganen en derden (hoofdstuk 3, art. 37 tot en met 46) en de beveiliging van de gemeentelijke voorziening (art. 6)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Besluit BRP (dagelijks gebruik)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="motivatie/beleidskaders/besluit-basisregistratie-personen.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="rijk"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:Driver>

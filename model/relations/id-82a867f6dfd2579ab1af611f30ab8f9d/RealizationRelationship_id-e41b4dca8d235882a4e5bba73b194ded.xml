@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-e41b4dca8d235882a4e5bba73b194ded">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-reisdocument-niet-ingezetene#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-paspoortbesluit-bwbr0044308"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 356, 357; Paspoortbesluit art. 3.2, 4.2"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-997e69d7689f50a89829fbc0085736ef.xml#id-997e69d7689f50a89829fbc0085736ef"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-263e3ad0178d5383a2b706ceefa4c30f.xml#id-263e3ad0178d5383a2b706ceefa4c30f"/>
+</archimate:RealizationRelationship>

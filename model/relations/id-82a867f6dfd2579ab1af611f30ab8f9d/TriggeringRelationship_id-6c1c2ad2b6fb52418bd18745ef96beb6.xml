@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-6c1c2ad2b6fb52418bd18745ef96beb6">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-omwisseling-buitenlands-rijbewijs#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-rijbewijs-buitenland-omwisselen; 2026-rijk-reglement-rijbewijzen-bwbr0008074"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Utrecht regel 47-49; Reglement art. 109"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-7580d648733e5be9baae8427b0ad99d2.xml#id-7580d648733e5be9baae8427b0ad99d2"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-76a79cd6465d5d94991c094b8e0e0064.xml#id-76a79cd6465d5d94991c094b8e0e0064"/>
+</archimate:TriggeringRelationship>

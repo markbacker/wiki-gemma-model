@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="besluit tot afgifte of weigering"
+    id="id-8e6b32f832985a169e2096026262135f">
+  <properties
+      key="wiki-gemma-model id"
+      value="beslisser#29"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wegenverkeerswet-1994-bwbr0006622; 2026-rijk-reglement-rijbewijzen-bwbr0008074"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="WVW art. 116, 118a; Reglement art. 27"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-8ee6ba79-47ed-47d5-8fc4-a707fbea233e.xml#id-8ee6ba79-47ed-47d5-8fc4-a707fbea233e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1eb41737dee15d44a95a29e5a9879969.xml#id-1eb41737dee15d44a95a29e5a9879969"/>
+</archimate:AssignmentRelationship>

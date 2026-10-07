@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doet een Nederlands reisdocument vervallen"
+    id="id-e613b70cac895ca7a641e8e99601b304">
+  <properties
+      key="wiki-gemma-model id"
+      value="verlies-van-het-nederlanderschap#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212; 2026-rvig-hup-nationaliteit"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Paspoortwet art. 47 lid 1 onder a; HUP Nationaliteit"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-68b64a5949d451b6b3aca3e716340fd5.xml#id-68b64a5949d451b6b3aca3e716340fd5"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-dab60a0503595700baf444cabf85f7c7.xml#id-dab60a0503595700baf444cabf85f7c7"/>
+</archimate:TriggeringRelationship>

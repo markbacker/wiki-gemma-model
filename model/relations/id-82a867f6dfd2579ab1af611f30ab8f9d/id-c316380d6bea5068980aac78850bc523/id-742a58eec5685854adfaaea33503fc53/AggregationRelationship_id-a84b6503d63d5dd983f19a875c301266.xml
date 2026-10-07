@@ -1,0 +1,30 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a84b6503d63d5dd983f19a875c301266"
+    documentation="De wiki gebruikt deze relatie 1× tussen Bedrijfsobject en Bedrijfsobject; het kennismodel heeft haar niet (Over GEMMA heeft haar wel in een andere view).">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#aggregation-relationship:business-object>business-object:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model gebruikt in"
+      value="1"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="ja, andere view"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-81158.xml#id-81158"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-81158.xml#id-81158"/>
+</archimate:AggregationRelationship>

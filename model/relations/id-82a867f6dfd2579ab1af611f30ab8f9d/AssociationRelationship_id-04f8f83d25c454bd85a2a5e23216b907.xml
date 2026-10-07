@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-04f8f83d25c454bd85a2a5e23216b907"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="kieswet#6"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. B 5, D 1-D 7"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-1cdc4a42201a5ac6bf454b017afc2b74.xml#id-1cdc4a42201a5ac6bf454b017afc2b74"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0099da24b2e55b4183614a535b8cd4b9.xml#id-0099da24b2e55b4183614a535b8cd4b9"/>
+</archimate:AssociationRelationship>

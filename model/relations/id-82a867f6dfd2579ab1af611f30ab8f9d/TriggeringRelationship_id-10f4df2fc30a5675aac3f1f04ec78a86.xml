@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-10f4df2fc30a5675aac3f1f04ec78a86">
+  <properties
+      key="wiki-gemma-model id"
+      value="vermissing-van-het-reisdocument#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212; 2026-utrecht-burgerzaken-paspoort-of-identiteitskaart-vermissing-of-diefstal-doorgeven"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Paspoortwet art. 5a; Utrecht regel 17-23"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-932248a453e75b42a5261530c20def91.xml#id-932248a453e75b42a5261530c20def91"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-238659a29542550eaf6538a6e367306b.xml#id-238659a29542550eaf6538a6e367306b"/>
+</archimate:TriggeringRelationship>

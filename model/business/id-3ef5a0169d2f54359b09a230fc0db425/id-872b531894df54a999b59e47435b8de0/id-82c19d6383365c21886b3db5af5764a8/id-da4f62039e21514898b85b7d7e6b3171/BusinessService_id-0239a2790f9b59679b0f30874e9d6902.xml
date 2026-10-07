@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Echtscheiding inschrijving"
+    id="id-0239a2790f9b59679b0f30874e9d6902"
+    documentation="Het laten inschrijven van een door de rechtbank uitgesproken echtscheiding in de registers van de burgerlijke stand.">
+  <properties
+      key="wiki-gemma-model id"
+      value="echtscheiding-inschrijving"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-scheiden-of-geregistreerd-partnerschap-beeindigen; 2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Scheiden gaat via de rechtbank; de gemeente schrijft de beschikking in (Utrecht). Grondslag art. 163 BW 1 (UPL nr. 122)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Scheiden (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/echtscheiding-inschrijving.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

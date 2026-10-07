@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-8fba2af8-119c-4bdd-b3eb-a0f18303b0ff">
+  <properties
+      key="Object ID"
+      value="8fba2af8-119c-4bdd-b3eb-a0f18303b0ff"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="producten-en-dienstenrealisatie-publieksdiensten#11"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-vng-gemma-2026-10-02"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="GEMMA-relatie id-8fba2af8-119c-4bdd-b3eb-a0f18303b0ff"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Functie-indeling naar domein"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-2b40d5bc-cd28-4b62-b0b1-a68f16b7aa64.xml#id-2b40d5bc-cd28-4b62-b0b1-a68f16b7aa64"/>
+  <target
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-78bbc144-8a22-43a4-8233-c4cfaf7b73c2.xml#id-78bbc144-8a22-43a4-8233-c4cfaf7b73c2"/>
+</archimate:AggregationRelationship>

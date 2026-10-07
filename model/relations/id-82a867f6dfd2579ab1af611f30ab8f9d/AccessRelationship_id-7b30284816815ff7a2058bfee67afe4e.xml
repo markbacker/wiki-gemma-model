@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verstrekt gegevens van"
+    id="id-7b30284816815ff7a2058bfee67afe4e"
+    accessType="1">
+  <properties
+      key="wiki-gemma-model id"
+      value="verstrekken-persoonsgegevens#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-nvvb-schema-schriftelijke-gegevensverstrekking-brp"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Schema 1 t/m 4"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f797baac19cd5ed9abdd82a96c2ba2ce.xml#id-f797baac19cd5ed9abdd82a96c2ba2ce"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8576c90ac5104cf8ade8acadf2764432.xml#id-8576c90ac5104cf8ade8acadf2764432"/>
+</archimate:AccessRelationship>

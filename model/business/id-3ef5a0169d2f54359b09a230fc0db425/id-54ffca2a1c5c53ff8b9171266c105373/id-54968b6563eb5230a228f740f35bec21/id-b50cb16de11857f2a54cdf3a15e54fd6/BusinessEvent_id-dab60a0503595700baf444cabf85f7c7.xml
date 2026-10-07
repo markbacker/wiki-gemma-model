@@ -1,0 +1,39 @@
+<archimate:BusinessEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verval van het reisdocument"
+    id="id-dab60a0503595700baf444cabf85f7c7"
+    documentation="Het ongeldig worden van een reisdocument zonder besluit, onder meer door verlopen geldigheid, gewijzigde persoonsgegevens, overlijden of vermissing.">
+  <properties
+      key="wiki-gemma-model id"
+      value="verval-van-het-reisdocument"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212; 2026-rvig-hup-van-rechtswege-vervallen-reisdocument"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een reisdocument vervalt van rechtswege als de houder het Nederlanderschap verliest, de geldigheidsduur verstrijkt, de geslachtsnaam, voornamen, geboortedatum, het geslacht of het burgerservicenummer van de houder wijzigen, de houder overlijdt, het document is ingenomen, bij de aanvraag onjuiste gegevens zijn gebruikt of de houder het als vermist heeft gemeld (Paspoortwet art. 47 lid 1). Ook de intrekking van de verklaring van toestemming kan het document van rechtswege doen vervallen (art. 48).&#xA;&#xA;De bijhoudingsgemeente registreert het verval alleen als het document niet al is ingehouden, ingeleverd of als vermist gemeld, en schrijft de houder aan om het in te leveren; bij overlijden en vermissing komen de gegevens automatisch in het basisregister reisdocumenten (HUP Van rechtswege vervallen). Levert de houder het niet in, dan deelt de burgemeester dat mee aan de minister, die hem in het register paspoortsignaleringen kan vermelden (Paspoortwet art. 47 lid 2; Paspoortbesluit art. 6.1)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Van rechtswege vervallen (wet); Ongeldig worden (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/gebeurtenissen/verval-van-het-reisdocument.md"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessEvent>

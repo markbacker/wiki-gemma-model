@@ -1,0 +1,42 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wet basisregistratie personen"
+    id="id-33d01296fc3c51c7ba551b7ad63d3675"
+    documentation="Wet die de basisregistratie personen regelt: de inschrijving en bijhouding van gegevens over ingezetenen en niet-ingezetenen en de verstrekking daarvan.">
+  <properties
+      key="wiki-gemma-model id"
+      value="wet-basisregistratie-personen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-brp-bwbr0033715; 2025-vng-upl-producten-en-diensten-extern; 2026-rijk-besluit-brp-bwbr0034306; 2026-rvig-hup-algemeen; 2026-rvig-hup-achtergronden-en-begrippen"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De Wet BRP wordt uitgewerkt in het Besluit BRP, de Regeling BRP en het Logisch Ontwerp BRP (Besluit BRP; LO BRP). Het college houdt de gegevens van de ingezetenen bij; de minister van BZK de RNI en de centrale voorzieningen (HUP Achtergronden). De UPL noemt de wet als grondslag van onder meer de BRP-inschrijving, de verhuismelding, de aangifte van vertrek, het briefadres, het uittreksel en de geheimhouding (UPL)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Wet BRP (dagelijks gebruik)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="motivatie/beleidskaders/wet-basisregistratie-personen.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="rijk"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:Driver>

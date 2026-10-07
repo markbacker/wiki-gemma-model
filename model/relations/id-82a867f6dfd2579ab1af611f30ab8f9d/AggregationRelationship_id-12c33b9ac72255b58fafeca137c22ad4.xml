@@ -1,0 +1,36 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-12c33b9ac72255b58fafeca137c22ad4">
+  <properties
+      key="wiki-gemma-model id"
+      value="bijhouden-persoonsgegevens#23"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rvig-hup-nederlands-kiesrecht"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="HUP Nederlands kiesrecht"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar taak"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1f731112e5db53e0a1d0cfb864edc17a.xml#id-1f731112e5db53e0a1d0cfb864edc17a"/>
+  <target
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-748f23acc02a5208b74179b565d05718.xml#id-748f23acc02a5208b74179b565d05718"/>
+</archimate:AggregationRelationship>

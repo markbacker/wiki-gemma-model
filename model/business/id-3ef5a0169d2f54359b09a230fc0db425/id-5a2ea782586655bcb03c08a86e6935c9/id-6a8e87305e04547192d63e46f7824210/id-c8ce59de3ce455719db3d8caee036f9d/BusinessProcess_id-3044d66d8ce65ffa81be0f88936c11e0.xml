@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijven ingezetene"
+    id="id-3044d66d8ce65ffa81be0f88936c11e0"
+    documentation="Het inschrijven van een persoon die zich vanuit het buitenland in de gemeente vestigt als ingezetene in de basisregistratie personen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="inschrijven-ingezetene"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-inschrijven-vanuit-het-buitenland; 2026-rvig-hup-immigratie; 2026-rvig-hup-hervestiging; 2026-rijk-besluit-brp-bwbr0034306; 2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-adoptie-kind-inschrijven"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Wie zich vanuit het buitenland in de gemeente vestigt, doet uiterlijk de vijfde dag na aanvang van het verblijf in persoon aangifte van verblijf en adres (HUP Immigratie). De gemeente stelt de identiteit vast, toetst de criteria (waaronder rechtmatig verblijf), gaat na of de persoon al in de BRP of RNI voorkomt, verifieert het adres en schrijft de persoon in met een A-nummer en een BSN; binnen vier weken stuurt zij een volledig overzicht van de persoonslijst (HUP Immigratie; Utrecht Inschrijven vanuit het buitenland). Kan de geboortedatum of de vreemde nationaliteit niet uit de gewone bronnen worden ontleend, dan vraagt de gemeente een mededeling ex artikel 2.17 Wet BRP op bij de IND (NVVB mededeling art. 2.17). Ontbreekt een brondocument, dan neemt de gemeente een verklaring onder eed of belofte af (HUP Immigratie; UPL nr. 335).&#xA;&#xA;Bij een hervestiging staat de persoon al in de RNI: de gemeente wordt bijhoudingsgemeente en stelt alle gegevens vast aan de hand van brondocumenten (HUP Hervestiging). Het college beslist over de inschrijving (Besluit BRP art. 24)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Eerste inschrijving (LO BRP)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/inschrijven-ingezetene.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="deelproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="ingeschreven-persoon"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,24 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Groep"
+    id="id-bd33c6c868514f7780d80f62179cb315"
+    documentation="The grouping element aggregates or composes concepts that belong together based on some common characteristic.">
+  <properties
+      key="Object ID"
+      value="25e9da3c-ac44-445b-b30a-478e5c0292b8"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-bd33c6c868514f7780d80f62179cb315"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:Grouping>

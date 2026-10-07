@@ -1,0 +1,29 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5db02961a1f65bd1a7e33ef62f7e0b7d">
+  <properties
+      key="wiki-gemma-model id"
+      value="verwerken-adreswijziging#gemma_generiek"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar soort werk"/>
+  <properties
+      key="wiki-gemma-model onderbouwing"
+      value="De verwerking volgt op een aangifte van adreswijziging die de basisregistratie bijwerkt (HUP Binnengemeentelijke adreswijziging)."/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8e8bd36b60d658e39e878025d8f3b7af.xml#id-8e8bd36b60d658e39e878025d8f3b7af"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1d4d0829-9ed4-49a3-a661-e91c2fc25072.xml#id-1d4d0829-9ed4-49a3-a661-e91c2fc25072"/>
+</archimate:SpecializationRelationship>

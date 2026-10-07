@@ -1,0 +1,24 @@
+<archimate:Contract
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afspraak"
+    id="id-8fcf2c9a1bb243fe8ca901b5f663ca5d"
+    documentation="Overeenkomst tussen meerdere partijen betreffende een bepaald onderwerp.">
+  <properties
+      key="Object ID"
+      value="1dbe4033-fd27-4008-a59d-6fd091e72658"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-8fcf2c9a1bb243fe8ca901b5f663ca5d"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:Contract>

@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0de0ed946a3c587a9ce5c1f27742d6fd"
+    documentation="De wiki gebruikt deze relatie 1× tussen Beleidskader en Product; het kennismodel heeft haar niet."
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#association-relationship:driver>product:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model gebruikt in"
+      value="1"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-906e3bfc38ef49ed86ea6cc9e8d7ba9f.xml#id-906e3bfc38ef49ed86ea6cc9e8d7ba9f"/>
+  <target
+      xsi:type="archimate:Product"
+      href="Product_id-81174.xml#id-81174"/>
+</archimate:AssociationRelationship>

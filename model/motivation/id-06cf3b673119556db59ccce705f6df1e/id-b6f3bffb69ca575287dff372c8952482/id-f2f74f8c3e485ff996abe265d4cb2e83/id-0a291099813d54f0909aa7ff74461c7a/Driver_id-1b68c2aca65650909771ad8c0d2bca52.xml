@@ -1,0 +1,39 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wegenverkeerswet 1994"
+    id="id-1b68c2aca65650909771ad8c0d2bca52"
+    documentation="Wet over het verkeer op de weg, met de regels voor de aanvraag, afgifte en geldigheid van rijbewijzen en de taken van de RDW en het CBR.">
+  <properties
+      key="wiki-gemma-model id"
+      value="wegenverkeerswet-1994"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wegenverkeerswet-1994-bwbr0006622; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De Wegenverkeerswet 1994 (BWBR0006622) regelt het verkeer op de weg. Voor Burgerzaken telt hoofdstuk VI: de rijbewijsplicht (art. 107), de voorwaarden voor afgifte (art. 111, 112), de aanvraag (art. 113), de afgifte door de burgemeester of de RDW (art. 116), het nieuwe en het vervangende rijbewijs (art. 119, 120), de uitreiking (art. 120a), de geldigheid en het verlies ervan (art. 122, 123) en het rijbewijzenregister van de RDW (art. 126). De RDW en het CBR zijn zelfstandige bestuursorganen (art. 4a, 4z). Kentekens, voertuigeisen, rijonderricht, het onderzoek naar rijvaardigheid en de maatregelen na overtredingen vallen buiten dit onderwerp."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="motivatie/beleidskaders/wegenverkeerswet-1994.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="rijk"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:Driver>

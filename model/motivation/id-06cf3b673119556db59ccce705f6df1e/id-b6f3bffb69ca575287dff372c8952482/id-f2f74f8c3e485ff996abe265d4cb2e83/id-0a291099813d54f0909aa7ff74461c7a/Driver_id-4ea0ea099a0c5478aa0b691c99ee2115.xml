@@ -1,0 +1,39 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rijkswet op het Nederlanderschap"
+    id="id-4ea0ea099a0c5478aa0b691c99ee2115"
+    documentation="Rijkswet over de verkrijging, het verlies en de vaststelling van het Nederlanderschap.">
+  <properties
+      key="wiki-gemma-model id"
+      value="rijkswet-op-het-nederlanderschap"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-rijkswet-op-het-nederlanderschap-bwbr0003738; 2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-nederlandse-nationaliteit-opgeven-of-verliezen; 2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De Rijkswet op het Nederlanderschap (BWBR0003738) regelt de verkrijging van rechtswege (art. 3-5), door optie (art. 6) en door verlening (art. 7-13), het verlies (art. 14-16), de vaststelling door de rechtbank Den Haag (art. 17-20) en het openbare register van de minister van Justitie en Veiligheid (art. 22). Ze noemt de gemeente niet: de autoriteiten die verzoeken en verklaringen in ontvangst nemen, worden bij algemene maatregel van rijksbestuur aangewezen (art. 21); het Besluit verkrijging en verlies Nederlanderschap wijst daarvoor de burgemeester aan."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="motivatie/beleidskaders/rijkswet-op-het-nederlanderschap.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="rijk"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:Driver>

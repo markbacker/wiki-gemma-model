@@ -1,0 +1,24 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienst"
+    id="id-81155"
+    documentation="Een afgebakende prestatie van een persoon of organisatie (de dienstverlener), die voorziet in een behoefte van haar omgeving (de dienstafnemer(s)).">
+  <properties
+      key="Object ID"
+      value="2648fc2f-5f28-40a2-8c66-838d956be736"/>
+  <properties
+      key="Bron"
+      value="NORA"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-81155"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:BusinessService>

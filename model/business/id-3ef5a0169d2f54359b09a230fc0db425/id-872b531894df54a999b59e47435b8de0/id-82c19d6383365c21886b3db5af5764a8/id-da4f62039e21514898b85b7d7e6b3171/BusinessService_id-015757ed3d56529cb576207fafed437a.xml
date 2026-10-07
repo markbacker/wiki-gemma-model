@@ -1,0 +1,42 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Achternaamwijziging"
+    id="id-015757ed3d56529cb576207fafed437a"
+    documentation="Het laten opnemen van een bij koninklijk besluit gewijzigde achternaam in de geboorteakte en de basisregistratie personen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="achternaamwijziging"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-voornaam-of-achternaam-veranderen; 2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het verzoek gaat via Justis; de gemeente heeft een eigen handeling na het besluit en het product wordt daarom opgenomen (besluit redacteur 2026-10-06). De UPL noemt een digitaal kanaal (nr. 5). Grondslag art. 7 BW 1."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/achternaamwijziging.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

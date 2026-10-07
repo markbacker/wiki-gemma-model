@@ -1,0 +1,33 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RNI-loket"
+    id="id-ccc943c53eb35f5591901dce3e5ffbbf"
+    documentation="Verantwoordelijkheid van een daartoe aangewezen gemeente om personen in de registratie niet-ingezetenen in te schrijven en hun gegevens te verstrekken.">
+  <properties
+      key="wiki-gemma-model id"
+      value="rni-loket"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rvig-hup-achtergronden-en-begrippen; 2026-utrecht-burgerzaken-registratie-niet-ingezetenen-rni-inschrijven; 2024-nvvb-schema-schriftelijke-gegevensverstrekking-brp"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Niet elke gemeente is RNI-loket; wie niet bij een loket terecht kan, gaat naar een ander loket (Utrecht RNI). Het college van het RNI-loket is bevoegd schriftelijk gegevens over niet-ingezetenen te verstrekken; andere gemeenten sturen zulke verzoeken door (NVVB Schema). De minister van BZK is verantwoordelijk voor de RNI (HUP Achtergronden). Het RNI-loket is een verantwoordelijkheid, geen kanaal."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/rollen/rni-loket.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="gemeente"/>
+</archimate:BusinessRole>

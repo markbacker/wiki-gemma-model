@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-a93ee37c5a465b2e99594edf4a9393c8"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="rijkswet-op-het-nederlanderschap#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-rijkswet-op-het-nederlanderschap-bwbr0003738; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 6; UPL nr. 262"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-4ea0ea099a0c5478aa0b691c99ee2115.xml#id-4ea0ea099a0c5478aa0b691c99ee2115"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-4abf3ab2d8e15c7ab6d41f1e839559cb.xml#id-4abf3ab2d8e15c7ab6d41f1e839559cb"/>
+</archimate:AssociationRelationship>

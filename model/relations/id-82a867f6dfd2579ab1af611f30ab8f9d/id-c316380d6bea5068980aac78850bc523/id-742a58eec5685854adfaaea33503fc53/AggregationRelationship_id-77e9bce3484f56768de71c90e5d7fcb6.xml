@@ -1,0 +1,30 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-77e9bce3484f56768de71c90e5d7fcb6"
+    documentation="De wiki gebruikt deze relatie 10× tussen Rol en Actor; het kennismodel heeft haar niet.">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#aggregation-relationship:business-role>business-actor:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model gebruikt in"
+      value="10"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-c2ebc94dbd2645608a4e789a014973eb.xml#id-c2ebc94dbd2645608a4e789a014973eb"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-81162.xml#id-81162"/>
+</archimate:AggregationRelationship>

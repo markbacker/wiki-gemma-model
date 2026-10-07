@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderzoekt het gedrag en beslist over de afgifte"
+    id="id-15afc220910558c1bf8f1618396f243a">
+  <properties
+      key="wiki-gemma-model id"
+      value="ketenpartner#5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-justitiele-en-strafvorderlijke-gegevens-bwbr0014194; 2026-utrecht-burgerzaken-verklaring-omtrent-het-gedrag-aanvragen-vog"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 30, 36, 37; Utrecht regel 59"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-e03a0402-1890-4a21-8143-c44a8ba53ea4.xml#id-e03a0402-1890-4a21-8143-c44a8ba53ea4"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-cd5c5e8475c8569abd1cb139b9e520f4.xml#id-cd5c5e8475c8569abd1cb139b9e520f4"/>
+</archimate:AssignmentRelationship>

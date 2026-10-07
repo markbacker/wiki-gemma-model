@@ -1,0 +1,26 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ceba3d7496bb530992854ba69288936b">
+  <properties
+      key="wiki-gemma-model id"
+      value="rijkswet-op-het-nederlanderschap#Beleidsdomeinindeling"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Beleidsdomeinindeling"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-a3f76d69c59b4907942b24410070b033.xml#id-a3f76d69c59b4907942b24410070b033"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-4ea0ea099a0c5478aa0b691c99ee2115.xml#id-4ea0ea099a0c5478aa0b691c99ee2115"/>
+</archimate:AggregationRelationship>

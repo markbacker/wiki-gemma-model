@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-4122b98b18ea5ed6af6e0d1182a6b387">
+  <properties
+      key="wiki-gemma-model id"
+      value="verzorgen-burgerzaken#3"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 26, 40, 42"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar taak"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="taak → bedrijfsproces"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-17cd0277d8255b70b97932d2c5d7fccd.xml#id-17cd0277d8255b70b97932d2c5d7fccd"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-02e07906868a53b98ed532460422c997.xml#id-02e07906868a53b98ed532460422c997"/>
+</archimate:AggregationRelationship>

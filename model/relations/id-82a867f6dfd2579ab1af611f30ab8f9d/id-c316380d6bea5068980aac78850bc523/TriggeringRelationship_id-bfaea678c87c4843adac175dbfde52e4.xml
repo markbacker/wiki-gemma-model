@@ -1,0 +1,26 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bfaea678c87c4843adac175dbfde52e4">
+  <properties
+      key="Object ID"
+      value="1976c8fa-59f5-4fba-8562-3a26077128aa"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-bfaea678c87c4843adac175dbfde52e4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-5bd137c910cd4964987a57aedcfe9a6e.xml#id-5bd137c910cd4964987a57aedcfe9a6e"/>
+  <target
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-5bd137c910cd4964987a57aedcfe9a6e.xml#id-5bd137c910cd4964987a57aedcfe9a6e"/>
+</archimate:TriggeringRelationship>

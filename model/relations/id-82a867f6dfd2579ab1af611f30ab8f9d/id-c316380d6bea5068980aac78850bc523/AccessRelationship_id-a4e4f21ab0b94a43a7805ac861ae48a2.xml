@@ -1,0 +1,27 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a4e4f21ab0b94a43a7805ac861ae48a2"
+    accessType="3">
+  <properties
+      key="Object ID"
+      value="cab76ad0-f6f0-44e1-9c71-cb066f6f06a2"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-a4e4f21ab0b94a43a7805ac861ae48a2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-81273.xml#id-81273"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-81269.xml#id-81269"/>
+</archimate:AccessRelationship>

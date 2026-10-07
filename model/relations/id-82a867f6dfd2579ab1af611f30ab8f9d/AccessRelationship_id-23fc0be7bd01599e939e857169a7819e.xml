@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt de gegevens van de geregistreerde kiezers vast"
+    id="id-23fc0be7bd01599e939e857169a7819e"
+    accessType="1">
+  <properties
+      key="wiki-gemma-model id"
+      value="verstrekken-stempas#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. J 7 lid 1"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-6ea9fef05e9c5a8e83e38ea3547c1974.xml#id-6ea9fef05e9c5a8e83e38ea3547c1974"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8576c90ac5104cf8ade8acadf2764432.xml#id-8576c90ac5104cf8ade8acadf2764432"/>
+</archimate:AccessRelationship>

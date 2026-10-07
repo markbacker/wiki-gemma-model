@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verklaring van afstand nederlandse nationaliteit"
+    id="id-a0ee5249c1385248b1bbdc64d1960f71"
+    documentation="Het afleggen van een verklaring van afstand bij de gemeente om de Nederlandse nationaliteit op te geven.">
+  <properties
+      key="wiki-gemma-model id"
+      value="verklaring-van-afstand-nederlandse-nationaliteit"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-nederlandse-nationaliteit-opgeven-of-verliezen; 2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Wie geen Nederlander meer wil zijn, legt bij de gemeente een verklaring van afstand af en levert het Nederlandse identiteitsbewijs en alle Nederlandse reisdocumenten in, ook die van kinderen die de nationaliteit verliezen. Voorwaarden: volwassen zijn, een andere nationaliteit hebben en de verklaring zelf ondertekenen (Utrecht). Grondslag art. 15 Rijkswet op het Nederlanderschap; doelgroep burger; niet digitaal, bewijs in persoon (UPL nr. 436)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Nederlandse nationaliteit opgeven (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/verklaring-van-afstand-nederlandse-nationaliteit.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

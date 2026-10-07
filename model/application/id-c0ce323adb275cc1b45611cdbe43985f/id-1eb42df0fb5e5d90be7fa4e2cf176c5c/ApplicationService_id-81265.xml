@@ -1,0 +1,24 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieservice"
+    id="id-81265"
+    documentation="In een service gebundelde functionaliteit die gebruikt kan worden middels één of meerdere Applicatie-interfaces.">
+  <properties
+      key="Object ID"
+      value="316e88db-d39c-447d-96fa-9093cf80703d"/>
+  <properties
+      key="Bron"
+      value="GEMMA"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-81265"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:ApplicationService>

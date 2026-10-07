@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-c967eab016bd51bf98150de10b19afbf">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-reisdocument#8"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-paspoort-of-identiteitskaart-aanvragen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 186"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1258ce900ddb538bbc333d1816fd932c.xml#id-1258ce900ddb538bbc333d1816fd932c"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-fafc6557fd355fee8002bdba3249fb2f.xml#id-fafc6557fd355fee8002bdba3249fb2f"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,42 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ouder"
+    id="id-02e3990e97385be4a5c95c41206d8973"
+    documentation="Hoedanigheid van wie juridisch moeder of andere ouder van een kind is, door geboorte, huwelijk, erkenning, vaststelling of adoptie.">
+  <properties
+      key="wiki-gemma-model id"
+      value="ouder"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-burgerlijk-wetboek-boek-1; 2026-rvig-hup-geboorte; 2026-utrecht-burgerzaken-geboorteaangifte-doen; 2026-rijk-wet-brp-bwbr0033715; 2026-utrecht-burgerzaken-kind-erkennen; 2026-utrecht-burgerzaken-levenloos-geboren-kind-of-overleden-pasgeboren-kind-aangifte-doen; 2026-utrecht-burgerzaken-achternaam-kind-kiezen; 2026-rijk-paspoortwet-bwbr0005212; 2026-utrecht-burgerzaken-paspoort-of-identiteitskaart-aanvragen; 2026-utrecht-burgerzaken-paspoort-of-identiteitskaart-vermissing-of-diefstal-doorgeven"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een kind heeft juridisch altijd een moeder, de vrouw uit wie het is geboren of de adoptiefmoeder, en hoogstens één andere ouder: de echtgenoot of partner van de moeder, de erkenner, de ouder van wie het ouderschap is vastgesteld of de adoptiefouder (BW 1 art. 198, 199; HUP Geboorte). In de gemeentelijke praktijk heet de vrouwelijke andere ouder duomoeder (Utrecht). De ouder doet aangifte van geboorte, erkent het kind, kiest samen met de andere ouder de achternaam en heeft gezag over een minderjarig kind (BW 1 art. 5, 19e, 203, 247).&#xA;&#xA;Voor een reisdocument van een minderjarige geeft iedere ouder met gezag toestemming, online of op een formulier; een ouder meldt de vermissing van het reisdocument van een kind tot en met elf jaar (Paspoortwet art. 34; Utrecht)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Moeder (wet); Vader (wet); Duomoeder (beleid); Erkenner (wet)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/rollen/ouder.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="inwoners en ondernemers"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessRole>

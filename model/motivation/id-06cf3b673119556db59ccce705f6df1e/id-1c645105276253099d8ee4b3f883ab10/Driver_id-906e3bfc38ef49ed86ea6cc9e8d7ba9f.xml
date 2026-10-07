@@ -1,0 +1,27 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleidskader"
+    id="id-906e3bfc38ef49ed86ea6cc9e8d7ba9f"
+    documentation="Beleidskader is gebaseerd op bestaand overheidsbeleid (Nationaal en Europees) en op de instrumenten die in het kader van dat beleid zijn ontwikkeld, zoals wetten, regelgeving, Kamerstukken en bestuursakkoorden">
+  <properties
+      key="Bron"
+      value="NORA"/>
+  <properties
+      key="URL"
+      value="https://www.noraonline.nl/wiki/Beleidskaders"/>
+  <properties
+      key="Object ID"
+      value="53a70ddc-35a1-439b-b012-28e72a82f59b"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-906e3bfc38ef49ed86ea6cc9e8d7ba9f"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:Driver>

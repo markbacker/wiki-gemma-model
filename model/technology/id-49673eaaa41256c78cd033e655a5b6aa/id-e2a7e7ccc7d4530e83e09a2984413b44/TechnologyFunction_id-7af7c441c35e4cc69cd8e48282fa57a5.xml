@@ -1,0 +1,24 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technologiefunctie"
+    id="id-7af7c441c35e4cc69cd8e48282fa57a5"
+    documentation="A technology function represents a collection of technology behavior that can be performed by a node.">
+  <properties
+      key="Object ID"
+      value="a6783b85-0c62-4a68-ac59-d5e5b543db73"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-7af7c441c35e4cc69cd8e48282fa57a5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:TechnologyFunction>

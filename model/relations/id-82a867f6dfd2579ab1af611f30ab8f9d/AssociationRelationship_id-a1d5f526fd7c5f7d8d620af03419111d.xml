@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-a1d5f526fd7c5f7d8d620af03419111d"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="wet-op-de-nederlandse-identiteitskaart#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-nederlandse-identiteitskaart-bwbr0052951"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 15-26, 28"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-b2211719c92f50ddb6fe5d842136a89c.xml#id-b2211719c92f50ddb6fe5d842136a89c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1258ce900ddb538bbc333d1816fd932c.xml#id-1258ce900ddb538bbc333d1816fd932c"/>
+</archimate:AssociationRelationship>

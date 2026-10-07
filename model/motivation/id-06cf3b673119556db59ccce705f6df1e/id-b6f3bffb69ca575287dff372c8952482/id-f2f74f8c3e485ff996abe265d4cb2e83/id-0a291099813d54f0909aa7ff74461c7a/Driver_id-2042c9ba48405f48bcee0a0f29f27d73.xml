@@ -1,0 +1,39 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reglement rijbewijzen"
+    id="id-2042c9ba48405f48bcee0a0f29f27d73"
+    documentation="Algemene maatregel van bestuur met de regels voor de aanvraag, afgifte en omwisseling van rijbewijzen en de verklaringen van rijvaardigheid en geschiktheid.">
+  <properties
+      key="wiki-gemma-model id"
+      value="reglement-rijbewijzen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-reglement-rijbewijzen-bwbr0008074; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het Reglement rijbewijzen (BWBR0008074) werkt de Wegenverkeerswet 1994 uit: de aanvraag bij de burgemeester van de gemeente van inschrijving (hoofdstuk II, art. 26 tot en met 45), de verklaringen van rijvaardigheid en geschiktheid die het CBR registreert (hoofdstuk III en IV, art. 97 en 100) en de afgifte (hoofdstuk V, art. 104a tot en met 121). De gezondheidsverklaring dient de aanvrager bij het CBR in (art. 100). Rijexamens, vakbekwaamheid en de registratie van gegevens vallen buiten dit onderwerp."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="motivatie/beleidskaders/reglement-rijbewijzen.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="rijk"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:Driver>

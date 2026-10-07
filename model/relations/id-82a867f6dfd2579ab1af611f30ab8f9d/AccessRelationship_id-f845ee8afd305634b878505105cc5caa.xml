@@ -1,0 +1,33 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="maakt akte van overlijden op"
+    id="id-f845ee8afd305634b878505105cc5caa">
+  <properties
+      key="wiki-gemma-model id"
+      value="opmaken-akte-van-overlijden#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 19f"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-be872e70cdcc5c8b9027a167096158da.xml#id-be872e70cdcc5c8b9027a167096158da"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-5489c376470c5ccab65753d474b5c645.xml#id-5489c376470c5ccab65753d474b5c645"/>
+</archimate:AccessRelationship>

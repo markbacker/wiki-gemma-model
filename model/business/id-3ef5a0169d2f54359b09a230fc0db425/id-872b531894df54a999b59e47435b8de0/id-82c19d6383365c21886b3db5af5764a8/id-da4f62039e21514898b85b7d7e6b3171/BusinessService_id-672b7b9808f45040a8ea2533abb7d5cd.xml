@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geboorteaangifte"
+    id="id-672b7b9808f45040a8ea2533abb7d5cd"
+    documentation="Het doen van aangifte van de geboorte van een kind bij de gemeente waar het is geboren, waarna de gemeente een geboorteakte opmaakt.">
+  <properties
+      key="wiki-gemma-model id"
+      value="geboorteaangifte"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-geboorteaangifte-doen; 2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Aangifte binnen drie dagen na de geboortedag (BW 1 art. 19e). Kanalen: online met DigiD voor de moeder of de andere ouder als die al juridisch ouder is, met controle bij ziekenhuis of verloskundige, of aan de balie op afspraak; een afwijkende of dubbele achternaam kan alleen aan de balie met beide ouders (Utrecht). Grondslag art. 19e BW 1; digitaal kanaal (UPL nr. 136)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Aangifte van geboorte (wet); Geboorteaangifte doen (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/geboorteaangifte.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

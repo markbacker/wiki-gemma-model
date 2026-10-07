@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="werkt uit"
+    id="id-fde407b7e6b153f9ac1b63fb55e0fceb"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="besluit-verkrijging-en-verlies-nederlanderschap#6"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="aanhef; art. 2"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-b78273a66b0f56519493d09772f5d839.xml#id-b78273a66b0f56519493d09772f5d839"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-4ea0ea099a0c5478aa0b691c99ee2115.xml#id-4ea0ea099a0c5478aa0b691c99ee2115"/>
+</archimate:AssociationRelationship>

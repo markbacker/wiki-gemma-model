@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-96f9745616ad52aa987098fbee9604ee">
+  <properties
+      key="wiki-gemma-model id"
+      value="stemrecht#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. D 5"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-1e814f61b8f156488b6dcee362bcc824.xml#id-1e814f61b8f156488b6dcee362bcc824"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d649e10e-d9a6-4ac7-b436-2d659cb4fdbf.xml#id-d649e10e-d9a6-4ac7-b436-2d659cb4fdbf"/>
+</archimate:ServingRelationship>

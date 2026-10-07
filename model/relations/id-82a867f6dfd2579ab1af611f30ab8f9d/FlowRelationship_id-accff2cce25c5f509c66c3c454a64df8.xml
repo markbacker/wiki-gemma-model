@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft inhouding of inlevering door aan"
+    id="id-accff2cce25c5f509c66c3c454a64df8">
+  <properties
+      key="wiki-gemma-model id"
+      value="inhouden-reisdocument#3"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rvig-hup-inhouding-inlevering-vermissing; 2026-rvig-hup-reisdocument"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="HUP Inhouding, inleiding; HUP Reisdocument"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-71c579676b7455eebfb72cf0f1e6c111.xml#id-71c579676b7455eebfb72cf0f1e6c111"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1f731112e5db53e0a1d0cfb864edc17a.xml#id-1f731112e5db53e0a1d0cfb864edc17a"/>
+</archimate:FlowRelationship>

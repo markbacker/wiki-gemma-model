@@ -1,0 +1,29 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-11e04f2930895a46b820e249a93d7609">
+  <properties
+      key="wiki-gemma-model id"
+      value="inschrijven-op-briefadres#gemma_generiek"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar soort werk"/>
+  <properties
+      key="wiki-gemma-model onderbouwing"
+      value="Een aanvraag die het college beoordeelt en honoreert (HUP Verblijfplaats; NVVB Beleidsregel briefadres)."/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c13031998c565bd9882281bc2ab4996c.xml#id-c13031998c565bd9882281bc2ab4996c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-49fe8555-b001-4c86-9a81-20491e16af75.xml#id-49fe8555-b001-4c86-9a81-20491e16af75"/>
+</archimate:SpecializationRelationship>

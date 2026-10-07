@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="legt vast"
+    id="id-fa08a6cf1d3e51f49d0a6948dc08a6ed"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="verwerken-adreswijziging#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rvig-hup-binnengemeentelijke-adreswijziging"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="inleiding"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8e8bd36b60d658e39e878025d8f3b7af.xml#id-8e8bd36b60d658e39e878025d8f3b7af"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-9a240ef1e16e476887b3c67526facb98.xml#id-9a240ef1e16e476887b3c67526facb98"/>
+</archimate:AccessRelationship>

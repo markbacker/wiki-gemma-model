@@ -1,0 +1,26 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-019e344234675dbe963332bcfa66806c">
+  <properties
+      key="wiki-gemma-model id"
+      value="bijhoudingsgemeente#Doelgroepindeling"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Doelgroepindeling"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-17a7441705094ba9b385c25497844778.xml#id-17a7441705094ba9b385c25497844778"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-21ee5aa7e6ad5b49802973485b3e3974.xml#id-21ee5aa7e6ad5b49802973485b3e3974"/>
+</archimate:AggregationRelationship>

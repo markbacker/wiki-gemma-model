@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-800fc2a3045d53b2b0408bbf11c1878b"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="burgerlijk-wetboek-boek-1#13"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-burgerlijk-wetboek-boek-1; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 185, art. 44"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-fd2488c7dce15a288a8b700f61b42b13.xml#id-fd2488c7dce15a288a8b700f61b42b13"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-0e667484cd7a5fa8b1c6915b42e6ab1e.xml#id-0e667484cd7a5fa8b1c6915b42e6ab1e"/>
+</archimate:AssociationRelationship>

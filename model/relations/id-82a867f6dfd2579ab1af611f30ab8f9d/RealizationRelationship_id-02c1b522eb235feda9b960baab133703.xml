@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-02c1b522eb235feda9b960baab133703">
+  <properties
+      key="wiki-gemma-model id"
+      value="opmaken-akte-van-overlijden#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 315; art. 19h"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-be872e70cdcc5c8b9027a167096158da.xml#id-be872e70cdcc5c8b9027a167096158da"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-a3e6b76874175c568dab9b9973ff9657.xml#id-a3e6b76874175c568dab9b9973ff9657"/>
+</archimate:RealizationRelationship>

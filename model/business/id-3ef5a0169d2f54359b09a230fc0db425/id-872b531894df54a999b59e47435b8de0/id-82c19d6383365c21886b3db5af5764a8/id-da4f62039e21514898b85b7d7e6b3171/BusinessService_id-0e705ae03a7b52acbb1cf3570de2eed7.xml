@@ -1,0 +1,42 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kiezerspas"
+    id="id-0e705ae03a7b52acbb1cf3570de2eed7"
+    documentation="Het aanvragen van een kiezerspas om bij een verkiezing in een stembureau naar keuze te stemmen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="kiezerspas"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De kiezer vraagt schriftelijk of mondeling een kiezerspas aan bij de burgemeester; daarmee kan hij stemmen in elk stembureau in het gebied van de verkiezing, en zijn stempas wordt ongeldig (Kieswet art. K 1, K 3, K 4, J 7a). Grondslag art. K 1 Kieswet; doelgroep burger; niet digitaal (UPL nr. 208)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/kiezerspas.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

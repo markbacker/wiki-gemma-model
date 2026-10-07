@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vraagt de kiezerspas aan"
+    id="id-d4b89e92d156598b9e4182b0027ec27b">
+  <properties
+      key="wiki-gemma-model id"
+      value="kiezer#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. K 3"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-d649e10e-d9a6-4ac7-b436-2d659cb4fdbf.xml#id-d649e10e-d9a6-4ac7-b436-2d659cb4fdbf"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e2e983038802557bb6fcd61d87f0d148.xml#id-e2e983038802557bb6fcd61d87f0d148"/>
+</archimate:AssignmentRelationship>

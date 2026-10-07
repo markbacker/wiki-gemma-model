@@ -1,0 +1,24 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability"
+    id="id-110929539adf4eda91f50d11bf5ad833"
+    documentation="Een vermogen waarover een organisatie, persoon of systeem beschikt.">
+  <properties
+      key="Bron"
+      value="Archimate"/>
+  <properties
+      key="Object ID"
+      value="bfa32ec3-1faa-4167-9bde-67b29109c618"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-110929539adf4eda91f50d11bf5ad833"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:Capability>

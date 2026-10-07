@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bedient"
+    id="id-35462f1a19a5525f9e9249a4848ea7c2">
+  <properties
+      key="wiki-gemma-model id"
+      value="burgerlijke-stand-diensten#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-burgerlijk-wetboek-boek-1; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="BW 1 art. 16a; UPL taakveld 0.2"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-c689b2cc-4672-4474-a82f-44273c60d384.xml#id-c689b2cc-4672-4474-a82f-44273c60d384"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1ec6bb6de74d5b8eb565c0f7367a1348.xml#id-1ec6bb6de74d5b8eb565c0f7367a1348"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,24 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatieproces"
+    id="id-5bd137c910cd4964987a57aedcfe9a6e"
+    documentation="An application process represents a sequence of application behaviors that achieves a specific outcome.">
+  <properties
+      key="Object ID"
+      value="d63abac1-d35f-4cd6-af07-f51b889ab710"/>
+  <properties
+      key="Bron"
+      value="ArchiMate"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-5bd137c910cd4964987a57aedcfe9a6e"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:ApplicationProcess>

@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-46cebf381a005a40a8a96f52ef1fcc61">
+  <properties
+      key="wiki-gemma-model id"
+      value="ontbinding-huwelijk-of-partnerschap#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-scheiden-of-geregistreerd-partnerschap-beeindigen; 2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Utrecht inleiding; art. 163"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-40c424b59cb05da8bfc97f0c8a4259e5.xml#id-40c424b59cb05da8bfc97f0c8a4259e5"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3120b4f9551e546c83b17b2a23e638bc.xml#id-3120b4f9551e546c83b17b2a23e638bc"/>
+</archimate:TriggeringRelationship>

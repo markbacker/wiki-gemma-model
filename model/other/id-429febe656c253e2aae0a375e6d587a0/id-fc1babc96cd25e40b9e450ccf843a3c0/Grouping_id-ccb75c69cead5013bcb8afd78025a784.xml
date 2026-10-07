@@ -1,0 +1,18 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennismodel-wiki"
+    id="id-ccb75c69cead5013bcb8afd78025a784"
+    documentation="Wat de inhoud van de wiki gebruikt en het GEMMA-kennismodel (nog) niet heeft: elementtypen en relaties tussen de concepten. Zie de map Kennismodel-wiki voor de relaties.">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:Kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:Grouping>

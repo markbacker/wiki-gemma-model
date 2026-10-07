@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-5d500203d3ef5c978c377a4f6477336c"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="wet-basisregistratie-personen#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-brp-bwbr0033715; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 88, art. 2.38"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-33d01296fc3c51c7ba551b7ad63d3675.xml#id-33d01296fc3c51c7ba551b7ad63d3675"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-ca0fde07cdc35c27b83d02c2a4598b86.xml#id-ca0fde07cdc35c27b83d02c2a4598b86"/>
+</archimate:AssociationRelationship>

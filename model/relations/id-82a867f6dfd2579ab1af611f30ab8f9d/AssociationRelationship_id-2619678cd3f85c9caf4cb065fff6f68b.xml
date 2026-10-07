@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="werkt uit"
+    id="id-2619678cd3f85c9caf4cb065fff6f68b"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="paspoortbesluit#5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortbesluit-bwbr0044308"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="aanhef"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-676399ff2e08523799e2bb00c1ffe6ba.xml#id-676399ff2e08523799e2bb00c1ffe6ba"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-65e99dda04575ed5b7b081a00d79b960.xml#id-65e99dda04575ed5b7b081a00d79b960"/>
+</archimate:AssociationRelationship>

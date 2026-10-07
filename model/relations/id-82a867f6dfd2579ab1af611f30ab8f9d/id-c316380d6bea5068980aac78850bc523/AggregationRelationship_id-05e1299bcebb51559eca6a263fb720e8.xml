@@ -1,0 +1,23 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-05e1299bcebb51559eca6a263fb720e8">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel#id-a1f13167aba74712b375947c6a9f116c"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-72aa1b01fa6d58199bbae32e56cc7ed2.xml#id-72aa1b01fa6d58199bbae32e56cc7ed2"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-a1f13167aba74712b375947c6a9f116c.xml#id-a1f13167aba74712b375947c6a9f116c"/>
+</archimate:AggregationRelationship>

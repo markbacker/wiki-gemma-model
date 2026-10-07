@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-1784bc7a590f5687abc294e6c794982b">
+  <properties
+      key="wiki-gemma-model id"
+      value="verstrekken-persoonsgegevens#6"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 62; Besluit art. 61"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f797baac19cd5ed9abdd82a96c2ba2ce.xml#id-f797baac19cd5ed9abdd82a96c2ba2ce"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-57b557212ec35d25ae7c486128d97cc5.xml#id-57b557212ec35d25ae7c486128d97cc5"/>
+</archimate:RealizationRelationship>

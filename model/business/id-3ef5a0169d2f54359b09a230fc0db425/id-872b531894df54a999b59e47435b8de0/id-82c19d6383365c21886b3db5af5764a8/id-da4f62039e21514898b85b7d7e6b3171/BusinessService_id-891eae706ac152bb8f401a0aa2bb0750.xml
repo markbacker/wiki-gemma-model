@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vermissing of diefstal rijbewijs doorgeven"
+    id="id-891eae706ac152bb8f401a0aa2bb0750"
+    documentation="Het melden bij de gemeente dat een rijbewijs kwijt of gestolen is, zodat het rijbewijs ongeldig wordt en misbruik wordt voorkomen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="vermissing-of-diefstal-rijbewijs-doorgeven"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-rijbewijs-aanvragen-of-verlengen; 2026-rijk-wegenverkeerswet-1994-bwbr0006622"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Gratis; online bij de RDW met DigiD, waar de vermissing direct wordt geregistreerd, of aan de balie met een eigen afspraak, waar men de vermissingsverklaring invult (Utrecht). Bij diefstal of beroving adviseert Utrecht ook aangifte te doen bij de politie. De UPL kent geen product voor deze melding; zie de terugmelding."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Vermissing Rijbewijs (beleid); Rijbewijs kwijt of gestolen (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/vermissing-of-diefstal-rijbewijs-doorgeven.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessService>

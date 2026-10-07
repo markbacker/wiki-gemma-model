@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-db78607753985ced9fadecd9ea07b65b">
+  <properties
+      key="wiki-gemma-model id"
+      value="naamswijziging#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-voornaam-of-achternaam-veranderen; 2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Utrecht inleiding; art. 20"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-9b87103f0ebf50c49fc2626885f9b5bd.xml#id-9b87103f0ebf50c49fc2626885f9b5bd"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f711533cf2f257b9a6535fa176194753.xml#id-f711533cf2f257b9a6535fa176194753"/>
+</archimate:TriggeringRelationship>

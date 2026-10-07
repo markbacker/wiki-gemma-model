@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft post door"
+    id="id-414d2b7e05135a0d85ccd9f883b313cc"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="briefadresgever#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rvig-hup-verblijfplaats"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Briefadres (art. 2.45)"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-339066946d2c5fd59ac2ad56f0263ba2.xml#id-339066946d2c5fd59ac2ad56f0263ba2"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-69e3c6f1bdcc4824a0af6b45213b5c31.xml#id-69e3c6f1bdcc4824a0af6b45213b5c31"/>
+</archimate:AccessRelationship>

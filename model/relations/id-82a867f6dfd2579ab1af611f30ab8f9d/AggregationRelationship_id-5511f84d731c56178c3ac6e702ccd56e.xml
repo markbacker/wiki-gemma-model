@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-5511f84d731c56178c3ac6e702ccd56e">
+  <properties
+      key="wiki-gemma-model id"
+      value="beheren-nederlanderschap#5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 60a, 60b"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar taak"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="ketenproces → deelproces"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1c1605dca7ff5e9d8a36a0279851e8b3.xml#id-1c1605dca7ff5e9d8a36a0279851e8b3"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-4e64dad3eea45ae283de949b8f9255ca.xml#id-4e64dad3eea45ae283de949b8f9255ca"/>
+</archimate:AggregationRelationship>

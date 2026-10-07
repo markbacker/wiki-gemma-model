@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-bfe394a083315b43aa242d20a78ee273">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-verzoek-om-volmacht#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-kieswet-bwbr0004627"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 453"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-26ecf3951a895700ba357a276a10f611.xml#id-26ecf3951a895700ba357a276a10f611"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-51096dd90f7e554a98c6519e9b0a787d.xml#id-51096dd90f7e554a98c6519e9b0a787d"/>
+</archimate:RealizationRelationship>

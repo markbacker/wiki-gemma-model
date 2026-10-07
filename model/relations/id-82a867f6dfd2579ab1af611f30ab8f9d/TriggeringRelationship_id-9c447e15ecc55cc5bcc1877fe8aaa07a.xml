@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-9c447e15ecc55cc5bcc1877fe8aaa07a">
+  <properties
+      key="wiki-gemma-model id"
+      value="geboorte#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-burgerlijk-wetboek-boek-1; 2026-utrecht-burgerzaken-geboorteaangifte-doen"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 19e"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-25c72a3457ff5a7888c759d0365b5536.xml#id-25c72a3457ff5a7888c759d0365b5536"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-d186796fcddd584e976e25ca49ebaac6.xml#id-d186796fcddd584e976e25ca49ebaac6"/>
+</archimate:TriggeringRelationship>

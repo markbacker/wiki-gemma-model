@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is grondslag voor"
+    id="id-07e615e9fbf1529aa819baefdb8273e2"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="besluit-basisregistratie-personen#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-besluit-brp-bwbr0034306"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 24, 30"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-a1295c99991754a891e3527247d98b99.xml#id-a1295c99991754a891e3527247d98b99"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3044d66d8ce65ffa81be0f88936c11e0.xml#id-3044d66d8ce65ffa81be0f88936c11e0"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot"
+    id="id-2d080ee79de9564cb238d9c0a4368bdd">
+  <properties
+      key="wiki-gemma-model id"
+      value="vestiging-vanuit-het-buitenland#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rvig-hup-immigratie; 2026-rvig-hup-hervestiging"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="inleiding"/>
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-ff55aaa5317851d7a3aab994579773c2.xml#id-ff55aaa5317851d7a3aab994579773c2"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3044d66d8ce65ffa81be0f88936c11e0.xml#id-3044d66d8ce65ffa81be0f88936c11e0"/>
+</archimate:TriggeringRelationship>

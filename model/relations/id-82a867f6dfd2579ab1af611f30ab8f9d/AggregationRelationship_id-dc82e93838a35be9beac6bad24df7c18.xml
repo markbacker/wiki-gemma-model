@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-dc82e93838a35be9beac6bad24df7c18">
+  <properties
+      key="wiki-gemma-model id"
+      value="bijhouden-persoonsgegevens#18"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-brp-bwbr0033715; 2026-rvig-hup-geboorte"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 2.56a"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar taak"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces → deelproces"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1f731112e5db53e0a1d0cfb864edc17a.xml#id-1f731112e5db53e0a1d0cfb864edc17a"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-0cdf10a6ecac5c559c40383e9b6aa4e2.xml#id-0cdf10a6ecac5c559c40383e9b6aa4e2"/>
+</archimate:AggregationRelationship>

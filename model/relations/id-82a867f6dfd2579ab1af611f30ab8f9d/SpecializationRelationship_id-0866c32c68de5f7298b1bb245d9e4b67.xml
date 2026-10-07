@@ -1,0 +1,29 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0866c32c68de5f7298b1bb245d9e4b67">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-rijbewijs#gemma_generiek"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar soort werk"/>
+  <properties
+      key="wiki-gemma-model onderbouwing"
+      value="Een aanvraag voor een product dat de gemeente na een toets op identiteit en voorwaarden afgeeft; GEMMA noemt het rijbewijs in de functie Officiële documenten verstrekking."/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1eb41737dee15d44a95a29e5a9879969.xml#id-1eb41737dee15d44a95a29e5a9879969"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-49fe8555-b001-4c86-9a81-20491e16af75.xml#id-49fe8555-b001-4c86-9a81-20491e16af75"/>
+</archimate:SpecializationRelationship>

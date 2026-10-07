@@ -1,0 +1,28 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-580cb1c9dfec4ec8b90ffa198dd9619c"
+    documentation="Het ene principe bouwt voort op het andere en zorgt voor samenhang in beleid en uitvoering"
+    directed="true">
+  <properties
+      key="Object ID"
+      value="b0147a3e-341f-4617-9ebc-6e2f2f14ee87"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-580cb1c9dfec4ec8b90ffa198dd9619c"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <source
+      xsi:type="archimate:Principle"
+      href="Principle_id-cc3f750d6eef43a2aa7dd335d2e3a5e8.xml#id-cc3f750d6eef43a2aa7dd335d2e3a5e8"/>
+  <target
+      xsi:type="archimate:Principle"
+      href="Principle_id-cc3f750d6eef43a2aa7dd335d2e3a5e8.xml#id-cc3f750d6eef43a2aa7dd335d2e3a5e8"/>
+</archimate:AssociationRelationship>

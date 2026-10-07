@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-4b90ea7c251b5b1a8b00d51235009bcb">
+  <properties
+      key="wiki-gemma-model id"
+      value="verwerken-adreswijziging#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-07T18:58:42"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-verhuizing-doorgeven"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="UPL nr. 424"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8e8bd36b60d658e39e878025d8f3b7af.xml#id-8e8bd36b60d658e39e878025d8f3b7af"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-eefcab86713757d1abc0b3eaac7025b0.xml#id-eefcab86713757d1abc0b3eaac7025b0"/>
+</archimate:RealizationRelationship>
