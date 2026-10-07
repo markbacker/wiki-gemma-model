@@ -2,4 +2,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="wiki-gemma-model"
     id="id-aa0857400bf44d1e9ac309c2bd79000b"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Referentiecomponent"
+      id="id-1f9e9c3840d241a28096d4a3a37c8986"
+      conceptType="ApplicationComponent"/>
+</archimate:ArchimateModel>
