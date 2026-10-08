@@ -1,0 +1,34 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="begraaft in, zet bij in of op"
+    id="id-3c81a9de3ac95fbea7d016dd940440fa"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="uitvoeren-lijkbezorging#3"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T12:07:07"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 23 lid 2; art. 62 lid 1 b, 3"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f3fef18c03185926a98c84015a0dae05.xml#id-f3fef18c03185926a98c84015a0dae05"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0c4079e5f4ac5b43b4ff3c59b6ce6ae8.xml#id-0c4079e5f4ac5b43b4ff3c59b6ce6ae8"/>
+</archimate:AccessRelationship>

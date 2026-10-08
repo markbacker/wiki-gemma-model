@@ -1,0 +1,33 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft uitgereikt reisdocument door aan"
+    id="id-b86157fdeb8b50fc9b5fa586b5f4a49a">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-reisdocument#10"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T12:07:07"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rvig-hup-uitreiking-registreren-van-een-reisdocument; 2026-rvig-hup-reisdocument"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="HUP Uitreiking, inleiding; HUP Reisdocument"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1258ce900ddb538bbc333d1816fd932c.xml#id-1258ce900ddb538bbc333d1816fd932c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1f731112e5db53e0a1d0cfb864edc17a.xml#id-1f731112e5db53e0a1d0cfb864edc17a"/>
+</archimate:FlowRelationship>

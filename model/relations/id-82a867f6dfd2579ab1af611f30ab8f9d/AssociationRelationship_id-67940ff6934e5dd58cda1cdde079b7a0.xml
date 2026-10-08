@@ -6,13 +6,13 @@
     directed="true">
   <properties
       key="wiki-gemma-model id"
-      value="paspoortwet#9"/>
+      value="paspoortwet#8"/>
   <properties
       key="wiki-gemma-model herkomst"
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T08:42:26"/>
+      value="2026-10-08T12:07:07"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -24,7 +24,7 @@
       value="2026-rijk-paspoortwet-bwbr0005212"/>
   <properties
       key="wiki-gemma-model vindplaats"
-      value="art. 50b-57"/>
+      value="art. 50b-57; art. 44-46"/>
   <source
       xsi:type="archimate:Driver"
       href="Driver_id-65e99dda04575ed5b7b081a00d79b960.xml#id-65e99dda04575ed5b7b081a00d79b960"/>

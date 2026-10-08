@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Behandelen optieverklaring"
     id="id-c1fb8ca9be3654178a7e13c12cfc45d2"
-    documentation="Het in ontvangst nemen en beoordelen van een optieverklaring, tot bevestiging of weigering van de verkrijging van het Nederlanderschap.">
+    documentation="Het in ontvangst nemen en beoordelen van een optieverklaring, tot de uitreiking van de bevestiging van het Nederlanderschap of de weigering.">
   <properties
       key="wiki-gemma-model id"
       value="behandelen-optieverklaring"/>
@@ -11,7 +11,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T08:42:26"/>
+      value="2026-10-08T12:07:07"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -24,6 +24,9 @@
   <properties
       key="wiki-gemma-model beschrijving"
       value="De optant legt de optieverklaring in persoon af bij de burgemeester van de gemeente waar hij als ingezetene is ingeschreven of zijn hoofdverblijf heeft, op afspraak aan de balie, en betaalt het optiegeld (Besluit verkrijging en verlies Nederlanderschap art. 3, 7, 8; Utrecht). De burgemeester toetst de gegevens aan de basisregistratie personen en laat zo nodig andere autoriteiten toetsen, onderzoekt de verblijfsrechtelijke status en of er ernstige vermoedens bestaan van gevaar voor de openbare orde, en vraagt bij herkrijging advies aan de minister (art. 9, 10; Rijkswet op het Nederlanderschap art. 6 lid 3).&#xA;&#xA;Hij beslist binnen dertien weken na ontvangst, eenmaal te verlengen met ten hoogste dertien weken (Rijkswet art. 6 lid 5). Tegenspraak: Utrecht noemt een uitslag binnen 13 tot 26 weken; formeel geldt de wettelijke termijn, de praktijkbron geeft de termijn met verlenging als bandbreedte (besluit redacteur 2026-10-06). Daarna bericht de burgemeester de optant hoe de bevestiging wordt bekendgemaakt en weigert hij haar voor wie niet aan de vereisten voldoet; hij zendt een afschrift aan de minister en archiveert verklaring en bevestiging twaalf jaar (Besluit art. 11, 12).&#xA;&#xA;De bevestiging is een beschikking van de burgemeester en treedt in werking door de uitreiking, tijdens de naturalisatieceremonie (Besluit art. 60a; Utrecht)."/>
+  <properties
+      key="wiki-gemma-model deelprocessen"
+      value="1. Verklaring innemen: De optant legt de optieverklaring in persoon af en betaalt het optiegeld. (art. 3, 7, 8)&#xA;2. Beoordelen en beslissen: De burgemeester toetst en onderzoekt en beslist binnen dertien weken, eenmaal te verlengen, tot bevestiging of weigering. (Rijkswet art. 6; Besluit art. 9-11)&#xA;3. Naturalisatieceremonie: De bevestiging wordt binnen negen weken uitgereikt, na de verklaring van verbondenheid; daarmee gaat de verkrijging in. (art. 60a)"/>
   <properties
       key="wiki-gemma-model synoniemen"
       value="Optie (wet)"/>

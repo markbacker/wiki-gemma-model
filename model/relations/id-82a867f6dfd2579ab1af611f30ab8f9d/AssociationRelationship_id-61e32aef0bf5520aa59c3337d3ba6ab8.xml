@@ -12,7 +12,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T08:42:26"/>
+      value="2026-10-08T12:07:07"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -24,7 +24,7 @@
       value="2026-rijk-paspoortbesluit-bwbr0044308"/>
   <properties
       key="wiki-gemma-model vindplaats"
-      value="art. 2.1, 3.1, 3.2, 3.6"/>
+      value="art. 2.1, 3.1, 3.2, 3.6; art. 4.6, 7.1"/>
   <source
       xsi:type="archimate:Driver"
       href="Driver_id-676399ff2e08523799e2bb00c1ffe6ba.xml#id-676399ff2e08523799e2bb00c1ffe6ba"/>

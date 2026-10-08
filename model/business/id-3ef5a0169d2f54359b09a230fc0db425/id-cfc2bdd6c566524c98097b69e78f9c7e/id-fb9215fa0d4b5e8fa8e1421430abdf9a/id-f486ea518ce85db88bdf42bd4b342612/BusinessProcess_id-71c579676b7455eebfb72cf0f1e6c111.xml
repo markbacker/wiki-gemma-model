@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inhouden reisdocument"
     id="id-71c579676b7455eebfb72cf0f1e6c111"
-    documentation="Het innemen van een vervallen, beschadigd of te weigeren reisdocument en het definitief aan het verkeer onttrekken ervan.">
+    documentation="Het innemen van een ingeleverd of in te houden reisdocument, zo nodig het vervallen verklaren ervan, tot de onttrekking aan het verkeer of de teruggave.">
   <properties
       key="wiki-gemma-model id"
       value="inhouden-reisdocument"/>
@@ -11,7 +11,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T08:42:26"/>
+      value="2026-10-08T12:07:07"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -23,7 +23,10 @@
       value="2026-rijk-paspoortwet-bwbr0005212; 2026-rvig-hup-inhouding-inlevering-vermissing; 2026-rvig-hup-van-rechtswege-vervallen-reisdocument; 2026-rijk-paspoortbesluit-bwbr0044308; 2026-rvig-hup-reisdocument"/>
   <properties
       key="wiki-gemma-model beschrijving"
-      value="Een reisdocument wordt ingehouden als het van rechtswege is vervallen, zo is beschadigd dat beveiligingskenmerken zijn aangetast of gegevens onleesbaar zijn, onbevoegd is gewijzigd, de gezichtsopname niet meer lijkt of er fouten in staan (Paspoortwet art. 54 lid 1). Een document dat vervallen kan worden verklaard, houdt de burgemeester in na een mededeling van de minister en hij beslist daarna over de vervallenverklaring (art. 44 lid 2, 53). Ook de politie en de grensbewaking zijn bevoegd tot inhouding (art. 50b).&#xA;&#xA;Inhouding gebeurt door een bevoegde autoriteit, inlevering op initiatief van de houder; een teruggevonden vermist document wordt ingeleverd en niet meer teruggegeven (HUP Inhouding). De gemeente registreert de inhouding of inlevering in de BRP en meldt een inhouding na een mededeling aan de minister (Paspoortwet art. 54 lid 5; Paspoortbesluit art. 6.1 lid 3). Het ingehouden document wordt terstond definitief aan het verkeer onttrokken, vernietigd of op verzoek van de houder ongeldig gemaakt en teruggegeven, tenzij het nog nodig is in een procedure (art. 1 onder j, 54 lid 3; Paspoortbesluit art. 7.1; HUP Inhouding)."/>
+      value="Een reisdocument wordt ingehouden als het van rechtswege is vervallen, zo is beschadigd dat beveiligingskenmerken zijn aangetast of gegevens onleesbaar zijn, onbevoegd is gewijzigd, de gezichtsopname niet meer lijkt of er fouten in staan (Paspoortwet art. 54 lid 1). Een document dat vervallen kan worden verklaard, houdt de burgemeester in na een mededeling van de minister en hij beslist daarna over de vervallenverklaring (art. 44 lid 2, 53). Ook de politie en de grensbewaking zijn bevoegd tot inhouding (art. 50b).&#xA;&#xA;Inhouding gebeurt door een bevoegde autoriteit, inlevering op initiatief van de houder; een teruggevonden vermist document wordt ingeleverd en niet meer teruggegeven (HUP Inhouding). De gemeente registreert de inhouding of inlevering in de BRP en meldt een inhouding na een mededeling aan de minister (Paspoortwet art. 54 lid 5; Paspoortbesluit art. 6.1 lid 3). Het ingehouden document wordt terstond definitief aan het verkeer onttrokken, vernietigd of op verzoek van de houder ongeldig gemaakt en teruggegeven, tenzij het nog nodig is in een procedure (art. 1 onder j, 54 lid 3; Paspoortbesluit art. 7.1; HUP Inhouding).&#xA;&#xA;Na de inhouding gaat de burgemeester na of de gronden nog bestaan en kondigt hij binnen vier weken zijn voornemen aan; de houder kan vragen de beslissing acht weken aan te houden om met de autoriteit bij wie de gronden bestaan overeenstemming te bereiken. Zonder overeenstemming verklaart hij het document vervallen, tenzij de houder onevenredig wordt benadeeld; dan geeft hij het terug of verstrekt hij een document met beperkte geldigheid (Paspoortwet art. 44, 45). Hij deelt zijn beslissing mee aan de minister, die haar opneemt in het register paspoortsignaleringen (art. 45 lid 3).&#xA;&#xA;De gronden liggen bij andere organen: het openbaar ministerie, de minister van Justitie en Veiligheid, de rechter-commissaris, een minister of een tot invordering bevoegd orgaan zoals het college van burgemeester en wethouders (Paspoortwet art. 18 tot en met 24). Dezelfde gronden kunnen leiden tot weigering bij een aanvraag (art. 44).&#xA;&#xA;De burgemeester kan als met de uitvoering van de Paspoortwet belaste autoriteit zelf om weigering of vervallenverklaring verzoeken bij het gegronde vermoeden van fraude met reisdocumenten of Nederlandse identiteitskaarten (Paspoortwet art. 24 onder b); het college doet dat als tot invordering bevoegd orgaan (art. 22)."/>
+  <properties
+      key="wiki-gemma-model deelprocessen"
+      value="1. Innemen: De houder levert het reisdocument in, of de burgemeester houdt het in: het is van rechtswege vervallen, beschadigd of foutief, of de minister heeft een signalering meegedeeld. (art. 53, 54 lid 1, 56)&#xA;2. Vervallen verklaren: Alleen na een signalering: de burgemeester gaat na of de gronden nog bestaan, kondigt binnen vier weken zijn voornemen aan en verklaart het document vervallen of geeft het terug. (art. 44, 45)&#xA;3. Onttrekken aan het verkeer: Het ingehouden document wordt definitief aan het verkeer onttrokken, of ongeldig gemaakt teruggegeven; de gemeente registreert de inhouding of inlevering in de basisregistratie personen. (Paspoortwet art. 54 lid 3; Paspoortbesluit art. 7.1; HUP Inhouding)"/>
   <properties
       key="wiki-gemma-model synoniemen"
       value="Inhouding (wet); Inleveren reisdocument (beleid)"/>
