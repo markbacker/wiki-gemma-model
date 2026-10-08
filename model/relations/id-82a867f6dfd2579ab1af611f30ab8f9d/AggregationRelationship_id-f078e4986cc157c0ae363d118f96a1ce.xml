@@ -1,0 +1,26 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f078e4986cc157c0ae363d118f96a1ce">
+  <properties
+      key="wiki-gemma-model id"
+      value="bezorgen-stoffelijk-overschot#Beleidsdomeinindeling"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Beleidsdomeinindeling"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-b0bcb164f35e5c85b7b6e7ef61223aed.xml#id-b0bcb164f35e5c85b7b6e7ef61223aed"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-67035f5bdb7e5a2db35d490ce6d4b5fd.xml#id-67035f5bdb7e5a2db35d490ce6d4b5fd"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,45 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen verzoek om geheimhouding"
+    id="id-2fb8a0f54f775b1980b9b7047ba889d1"
+    documentation="Het verwerken van een verzoek om persoonsgegevens niet aan bepaalde derden te verstrekken, of om die geheimhouding te beëindigen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-verzoek-om-geheimhouding"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-persoonsgegevens-geheimhouden; 2026-rvig-hup-verstrekkingsbeperking; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De burger kan verstrekking aan overheidsorganen op grond van een autorisatiebesluit niet tegenhouden, maar wel schriftelijk verzoeken geen gegevens te verstrekken aan bepaalde derden (HUP Verstrekkingsbeperking). Het verzoek is vormvrij en hoeft niet te worden gemotiveerd; de gemeente stelt de identiteit vast, verwerkt het binnen vier weken, bevestigt het schriftelijk en weigert het niet als de juiste persoon het doet (HUP Verstrekkingsbeperking). Online kan het met DigiD binnen vijf werkdagen; de geheimhouding verhuist mee naar een nieuwe gemeente (Utrecht Persoonsgegevens geheimhouden)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/behandelen-verzoek-om-geheimhouding.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="ingeschreven-persoon"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessProcess>

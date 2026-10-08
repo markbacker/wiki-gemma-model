@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-99c8b75a2a6e54f7b02f110dfc9baaac"
-    documentation="De wiki gebruikt deze relatie 90× tussen Bedrijfsproces en Bedrijfsproces; het kennismodel heeft haar niet (Over GEMMA heeft haar wel in een andere view).">
+    documentation="De wiki gebruikt deze relatie 76× tussen Bedrijfsproces en Bedrijfsproces; het kennismodel heeft haar niet (Over GEMMA heeft haar wel in een andere view).">
   <properties
       key="wiki-gemma-model id"
       value="kennismodel-wiki#aggregation-relationship:business-process>business-process:"/>
@@ -11,13 +11,13 @@
       value="kennismodel-wiki"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-07T18:58:42"/>
+      value="2026-10-08T08:42:26"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
   <properties
       key="wiki-gemma-model gebruikt in"
-      value="90"/>
+      value="76"/>
   <properties
       key="wiki-gemma-model in Over GEMMA"
       value="ja, andere view"/>

@@ -1,0 +1,33 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verleent verlof voor"
+    id="id-3e22d4b3e7d65ce2815ef48fbc2aa163">
+  <properties
+      key="wiki-gemma-model id"
+      value="toestaan-lijkbezorging#10"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 3, 10, 11, 12"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-bf2beb74813c5544b7d509dfd4a25aca.xml#id-bf2beb74813c5544b7d509dfd4a25aca"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-67035f5bdb7e5a2db35d490ce6d4b5fd.xml#id-67035f5bdb7e5a2db35d490ce6d4b5fd"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,45 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sluiten begraafplaats"
+    id="id-d0fd7ec403a853aa853532a68ae58530"
+    documentation="Het besluit dat op een begraafplaats niet meer wordt begraven, of de geslotenverklaring na tien jaar zonder begraving.">
+  <properties
+      key="wiki-gemma-model id"
+      value="sluiten-begraafplaats"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een begraafplaats kan worden gesloten; voor een gemeentelijke begraafplaats neemt het college het besluit, en van de sluiting van een andere begraafplaats wordt het college direct op de hoogte gesteld (Wet op de lijkbezorging art. 43). Is er tien jaar niet begraven, dan kan het college de begraafplaats gesloten verklaren (art. 44). Belanghebbenden kunnen in beroep bij gedeputeerde staten, die de rechthebbende op een particulier graf een schadeloosstelling ten laste van de gemeente kunnen toekennen (art. 45)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/sluiten-begraafplaats.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="begraafplaats"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:BusinessProcess>

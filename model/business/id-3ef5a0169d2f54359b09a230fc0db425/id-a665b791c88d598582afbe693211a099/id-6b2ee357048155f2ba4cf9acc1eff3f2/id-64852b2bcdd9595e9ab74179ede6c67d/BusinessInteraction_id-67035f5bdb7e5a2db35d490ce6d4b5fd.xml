@@ -1,0 +1,45 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bezorgen stoffelijk overschot"
+    id="id-67035f5bdb7e5a2db35d490ce6d4b5fd"
+    documentation="De samenwerking van gemeente, houder van begraafplaats of crematorium en officier van justitie bij de bezorging van een stoffelijk overschot.">
+  <properties
+      key="wiki-gemma-model id"
+      value="bezorgen-stoffelijk-overschot"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst; 2026-vng-gemma-proceshierarchie; 2026-vng-gemma-impact-ketensamenwerking"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Na het overlijden wordt het stoffelijk overschot geschouwd, verleent de ambtenaar van de burgerlijke stand verlof tot begraving of crematie, en wordt het binnen de wettelijke termijn begraven, gecremeerd of ontleed (Wet op de lijkbezorging art. 3, 11, 16, 67). Zorgt niemand anders voor de bezorging, dan draagt de burgemeester er zorg voor (art. 21); bij een besmet stoffelijk overschot kan hij maatregelen treffen (art. 22a). Ook een latere opgraving hoort bij de levensloop van het stoffelijk overschot (art. 29).&#xA;&#xA;Het is een ketensamenwerking: bij een niet-natuurlijke dood brengt de gemeentelijke lijkschouwer verslag uit aan de officier van justitie, die een verklaring van geen bezwaar afgeeft voordat verlof kan worden verleend (art. 10, 12); een vervroegde uitvaart vraagt ook zijn instemming (art. 17). De uitvaartondernemer regelt de uitvaart namens de nabestaanden (RVO).&#xA;&#xA;Elke partij voert haar deel uit in een eigen levensloopproces, dat de ketensamenwerking bedient: Toestaan lijkbezorging door de gemeente als overheid, Begraven en cremeren stoffelijk overschot door de houder van de begraafplaats of het crematorium, en Verzorgen gemeentebegrafenis, waarin de burgemeester de bezorging regelt als niemand anders dat doet. Niemand stuurt het geheel aan (estafette); het ketenproces erboven is geen element (besluit redacteur 2026-10-08)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Bezorgen lijken (wet)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsinteracties/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/bezorgen-stoffelijk-overschot.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="stoffelijk-overschot"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="7 Volksgezondheid en Milieu"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Begraafplaatsen en crematoria"/>
+</archimate:BusinessInteraction>

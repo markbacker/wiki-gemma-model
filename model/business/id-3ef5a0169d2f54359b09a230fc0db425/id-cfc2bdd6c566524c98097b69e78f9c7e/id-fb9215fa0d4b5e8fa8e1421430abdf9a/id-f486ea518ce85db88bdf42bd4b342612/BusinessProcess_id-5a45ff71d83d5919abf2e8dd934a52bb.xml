@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen verklaring van afstand"
+    id="id-5a45ff71d83d5919abf2e8dd934a52bb"
+    documentation="Het in ontvangst nemen en bevestigen van een verklaring waarmee een persoon afstand doet van het Nederlanderschap.">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-verklaring-van-afstand"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-nederlandse-nationaliteit-opgeven-of-verliezen; 2025-vng-upl-producten-en-diensten-extern; 2026-rijk-rijkswet-op-het-nederlanderschap-bwbr0003738; 2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605; 2026-vng-gemma-2026-10-02"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een meerderjarige met een andere nationaliteit legt de verklaring van afstand af voor de burgemeester; die stelt eerst de identiteit vast en bepaalt welke andere personen, zoals minderjarige kinderen, door de afstand het Nederlanderschap verliezen (Rijkswet op het Nederlanderschap art. 15, 16; Besluit verkrijging en verlies Nederlanderschap art. 63 lid 1-2). Kinderen van 12 tot 16 jaar mogen hun mening geven; vanaf 16 jaar legt een kind zelf een verklaring af (Utrecht).&#xA;&#xA;De persoon ontvangt onverwijld een bevestiging (Besluit art. 63 lid 3). De burgemeester zendt de verklaring en een afschrift van de bevestiging aan de minister en aan de bijhoudingsgemeente, en bevordert dat de afstand in de basisregistratie personen wordt verwerkt en de Nederlandse reisdocumenten en identiteitskaarten worden ingenomen (art. 64). Weigert de gemeente het verlies te bevestigen, dan staat beroep open bij de rechtbank Den Haag en daarna cassatie bij de Hoge Raad (Utrecht)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Afstand van het Nederlanderschap (wet)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/behandelen-verklaring-van-afstand.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="nederlanderschap"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessProcess>

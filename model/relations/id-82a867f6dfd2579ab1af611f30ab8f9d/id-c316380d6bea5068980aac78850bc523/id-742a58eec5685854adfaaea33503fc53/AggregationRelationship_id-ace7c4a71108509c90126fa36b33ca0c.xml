@@ -1,0 +1,30 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ace7c4a71108509c90126fa36b33ca0c"
+    documentation="De wiki gebruikt deze relatie 1× tussen Groep en Bedrijfsinteractie; het kennismodel heeft haar niet.">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#aggregation-relationship:grouping>business-interaction:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model gebruikt in"
+      value="1"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-bd33c6c868514f7780d80f62179cb315.xml#id-bd33c6c868514f7780d80f62179cb315"/>
+  <target
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_id-1dddc23d68b5576ab574ca5393f21b48.xml#id-1dddc23d68b5576ab574ca5393f21b48"/>
+</archimate:AggregationRelationship>

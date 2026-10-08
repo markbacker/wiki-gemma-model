@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-965533175b545dbbb588bbe27d3cf14a">
+  <properties
+      key="wiki-gemma-model id"
+      value="begraven-en-cremeren-stoffelijk-overschot#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 1, 16"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar kernobject"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="levensloopproces → bedrijfsproces"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e8c7ddb2faf7584d9df021d820ef9f8b.xml#id-e8c7ddb2faf7584d9df021d820ef9f8b"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f3fef18c03185926a98c84015a0dae05.xml#id-f3fef18c03185926a98c84015a0dae05"/>
+</archimate:AggregationRelationship>

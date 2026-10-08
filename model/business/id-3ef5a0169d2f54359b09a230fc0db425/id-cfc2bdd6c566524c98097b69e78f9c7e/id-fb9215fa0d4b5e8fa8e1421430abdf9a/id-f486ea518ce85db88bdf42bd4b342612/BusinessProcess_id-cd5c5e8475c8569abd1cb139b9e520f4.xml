@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afgeven verklaring omtrent het gedrag"
+    id="id-cd5c5e8475c8569abd1cb139b9e520f4"
+    documentation="Het ontvangen en onderzoeken van een aanvraag voor een verklaring omtrent het gedrag en het afgeven of weigeren ervan, door gemeente en minister.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsproces (cluster)"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="afgeven-verklaring-omtrent-het-gedrag"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-justitiele-en-strafvorderlijke-gegevens-bwbr0014194; 2025-vng-upl-producten-en-diensten-extern; 2026-utrecht-burgerzaken-verklaring-omtrent-het-gedrag-aanvragen-vog; 2026-rijk-besluit-justitiele-en-strafvorderlijke-gegevens-bwbr0016544"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="In het Europese deel van Nederland ontvangt de burgemeester de aanvraag van een natuurlijk persoon die als ingezetene in zijn gemeente staat, onderzoekt hij de volledigheid van de gegevens, verschaft hij zich zekerheid over de identiteit en zendt hij de aanvraag terstond door aan de minister; de gemeente kan een vergoeding verlangen en is de minister een vergoeding verschuldigd (Wet justitiële en strafvorderlijke gegevens art. 30, 39).&#xA;&#xA;Het is een keten in het orkestratiemodel: de minister van Justitie en Veiligheid, in de praktijk Justis, onderzoekt de justitiële gegevens en politiegegevens, neemt de aanvraag zo nodig niet in behandeling, weigert of geeft af, en beslist binnen vier weken (art. 34 tot en met 37; Utrecht). Een aanvraag van een rechtspersoon, van wie niet als inwoner in de BRP staat ingeschreven of die een werkgever rechtstreeks bij Justis doet, loopt buiten de gemeente om (art. 30 lid 1, 31; Utrecht).&#xA;&#xA;Het deel van de gemeente is het bedrijfsproces Behandelen aanvraag verklaring omtrent het gedrag; het deel van de minister staat alleen in deze beschrijving (besluit redacteur 2026-10-07)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/afgeven-verklaring-omtrent-het-gedrag.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="levensloopproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="verklaring-omtrent-het-gedrag"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessProcess>

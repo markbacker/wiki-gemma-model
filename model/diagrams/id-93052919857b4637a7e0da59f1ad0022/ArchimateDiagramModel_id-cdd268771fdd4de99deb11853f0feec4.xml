@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Burgerzaken"
+    id="id-cdd268771fdd4de99deb11853f0feec4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9a8e91fc8f4f40eca0b6bd79c5e3ddf0"
+      textAlignment="1">
+    <bounds
+        x="10"
+        y="10"
+        width="180"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-a3f76d69c59b4907942b24410070b033.xml#id-a3f76d69c59b4907942b24410070b033"/>
+  </children>
+</archimate:ArchimateDiagramModel>

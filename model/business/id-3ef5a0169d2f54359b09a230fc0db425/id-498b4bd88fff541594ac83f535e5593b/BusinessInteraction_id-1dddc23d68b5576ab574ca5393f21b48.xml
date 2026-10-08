@@ -1,0 +1,18 @@
+<archimate:BusinessInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsinteractie"
+    id="id-1dddc23d68b5576ab574ca5393f21b48"
+    documentation="Gezamenlijk gedrag van twee of meer partijen of rollen, zoals een ketensamenwerking waarin de bedrijfsprocessen van de partijen samenkomen (GEMMA Online, Proceshiërarchie; in het GEMMA-model het element Ketensamenwerking). Het GEMMA-kennismodel kent het type (nog) niet.">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel:id-1dddc23d68b5576ab574ca5393f21b48"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+</archimate:BusinessInteraction>

@@ -1,0 +1,39 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat"
+    id="id-64e7148cee97552eb60e8869d79f9e6c">
+  <properties
+      key="wiki-gemma-model id"
+      value="toestaan-lijkbezorging#6"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-groningen-algemene-plaatselijke-verordening"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 5:27 lid 3"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Procesindeling naar kernobject"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="levensloopproces → bedrijfsproces"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-bf2beb74813c5544b7d509dfd4a25aca.xml#id-bf2beb74813c5544b7d509dfd4a25aca"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-230de6a7ba9e53e0a76ee579c8196885.xml#id-230de6a7ba9e53e0a76ee579c8196885"/>
+</archimate:AggregationRelationship>

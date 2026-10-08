@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen naturalisatieverzoek"
+    id="id-8bacbc2ad25c5bccbf272bcb391221c2"
+    documentation="Het in ontvangst nemen en onderzoeken van een verzoek om naturalisatie, tot het advies van de burgemeester aan de minister.">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-naturalisatieverzoek"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-nederlander-worden-door-naturalisatie-of-optie; 2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605; 2025-vng-upl-producten-en-diensten-extern; 2026-rijk-rijkswet-op-het-nederlanderschap-bwbr0003738"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De verzoeker dient het naturalisatieverzoek in persoon in bij de burgemeester van zijn woongemeente, op afspraak aan de balie, en betaalt het naturalisatiegeld; de geboorteakten van de aanvragers moeten eerst in de basisregistratie personen staan (Besluit verkrijging en verlies Nederlanderschap art. 3, 33, 34; Utrecht). De burgemeester toetst de gegevens aan de basisregistratie personen, onderzoekt de verblijfsrechtelijke status, informeert de verzoeker over de toetsing door de minister en brengt advies uit over het verzoek en een eventuele naamsvaststelling (art. 35, 36).&#xA;&#xA;Hij zendt het verzoek met zijn advies aan de minister van Justitie en Veiligheid, die beslist; de Koning verleent het Nederlanderschap op voordracht van de minister (art. 37, 38; Rijkswet op het Nederlanderschap art. 7). In de praktijk beoordeelt de IND de aanvraag en stuurt zij de verzoeker het resultaat; bij een online aanvraag via de IND controleert de gemeente bij de afspraak de identiteit en de geboorteakte, laat betalen en meldt dit aan de IND (Utrecht). Na een positief besluit volgt de uitreiking van het uittreksel tijdens de naturalisatieceremonie (Besluit art. 38, 60b)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Naturalisatie (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/behandelen-naturalisatieverzoek.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="nederlanderschap"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessProcess>

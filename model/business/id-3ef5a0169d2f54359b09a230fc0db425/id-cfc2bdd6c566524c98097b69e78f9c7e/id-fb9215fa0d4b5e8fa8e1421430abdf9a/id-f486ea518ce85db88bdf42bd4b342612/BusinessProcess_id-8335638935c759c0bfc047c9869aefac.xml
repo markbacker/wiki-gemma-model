@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inschrijven niet-ingezetene"
+    id="id-8335638935c759c0bfc047c9869aefac"
+    documentation="Het inschrijven van een persoon die niet in Nederland woont in de registratie niet-ingezetenen, door een gemeente die RNI-loket is.">
+  <properties
+      key="wiki-gemma-model id"
+      value="inschrijven-niet-ingezetene"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-08T08:42:26"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-utrecht-burgerzaken-registratie-niet-ingezetenen-rni-inschrijven; 2025-vng-upl-producten-en-diensten-extern; 2026-rvig-hup-achtergronden-en-begrippen"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Wie niet in Nederland woont maar een relatie heeft met de Nederlandse overheid, of hooguit vier maanden in Nederland blijft, laat zich inschrijven in de RNI en krijgt een BSN (Utrecht RNI). De inschrijving gebeurt op verzoek bij een RNI-loket of op voordracht van een aangewezen bestuursorgaan; de minister van BZK is verantwoordelijk voor de RNI (HUP Achtergronden; LO BRP 1.5.2). Utrecht schrijft sinds 2026 alleen personen met een Europees paspoort in; anderen gaan naar andere RNI-loketten (Utrecht RNI)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Inschrijving in de RNI (beleid)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/inschrijven-niet-ingezetene.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="ingeschreven-persoon"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Burgerzaken"/>
+</archimate:BusinessProcess>
