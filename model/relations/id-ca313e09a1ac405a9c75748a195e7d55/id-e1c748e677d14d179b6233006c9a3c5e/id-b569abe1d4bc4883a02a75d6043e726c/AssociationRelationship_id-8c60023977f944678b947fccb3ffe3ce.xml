@@ -30,7 +30,7 @@
       value="gekoppeld"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T12:07:07"/>
+      value="2026-10-09T21:28:14"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -39,10 +39,10 @@
       value="ggm-exact"/>
   <properties
       key="wiki-gemma-model bronnen"
-      value="2025-rvig-logisch-ontwerp-brp-2025q1; 2026-rvig-hup-reisdocument"/>
+      value="2025-rvig-logisch-ontwerp-brp-2025q1; 2026-rvig-hup-reisdocument; 2026-rijk-besluit-brp-bwbr0034306; 2026-rijk-paspoortwet-bwbr0005212"/>
   <properties
       key="wiki-gemma-model vindplaats"
-      value="LO 4.4, categorie 12; HUP Reisdocument"/>
+      value="LO 4.4, categorie 12; HUP Reisdocument; Besluit BRP bijlage 1 (gegevens omtrent het reisdocument); Paspoortwet art. 1 onder f (houder)"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-8576c90ac5104cf8ade8acadf2764432.xml#id-8576c90ac5104cf8ade8acadf2764432"/>

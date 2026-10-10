@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kennismodel-wiki"
     id="id-ccb75c69cead5013bcb8afd78025a784"
-    documentation="Wat de inhoud van de wiki gebruikt en het GEMMA-kennismodel (nog) niet heeft: elementtypen en relaties tussen de concepten. Zie de map Kennismodel-wiki voor de relaties.">
+    documentation="Het kennismodel van de wiki (tools/kennismodel.py): een concept per elementtype, een relatie per toegestaan relatietype en de indelingen. Eigenschap kernrelatie: de relatie die het kenmerk van het type waarmaakt. Eigenschap in Over GEMMA: ja of nee.">
   <properties
       key="wiki-gemma-model id"
       value="kennismodel:Kennismodel-wiki"/>
@@ -11,7 +11,7 @@
       value="kennismodel"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T12:07:07"/>
+      value="2026-10-09T21:28:14"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>

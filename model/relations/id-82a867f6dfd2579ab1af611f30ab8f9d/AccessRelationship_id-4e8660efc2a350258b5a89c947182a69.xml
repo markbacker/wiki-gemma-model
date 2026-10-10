@@ -12,7 +12,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T12:07:07"/>
+      value="2026-10-09T21:28:14"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -21,10 +21,10 @@
       value="bron"/>
   <properties
       key="wiki-gemma-model bronnen"
-      value="2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen"/>
   <properties
       key="wiki-gemma-model vindplaats"
-      value="art. 14"/>
+      value="Wlb art. 23 lid 2, 28 lid 1; Groningen art. 14"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-72c234ccca9b5464811e0474bcd782ce.xml#id-72c234ccca9b5464811e0474bcd782ce"/>

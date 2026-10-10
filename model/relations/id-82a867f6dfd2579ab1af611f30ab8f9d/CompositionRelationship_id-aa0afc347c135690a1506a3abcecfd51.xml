@@ -11,7 +11,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-08T12:07:07"/>
+      value="2026-10-09T21:28:14"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -20,10 +20,10 @@
       value="bron"/>
   <properties
       key="wiki-gemma-model bronnen"
-      value="2025-rvig-logisch-ontwerp-brp-2025q1"/>
+      value="2025-rvig-logisch-ontwerp-brp-2025q1; 2026-rijk-wet-brp-bwbr0033715"/>
   <properties
       key="wiki-gemma-model vindplaats"
-      value="4.4, categorie 08 Verblijfplaats"/>
+      value="4.4, categorie 08 Verblijfplaats; Wet BRP art. 2.7 lid 1 onder a 7°"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-8576c90ac5104cf8ade8acadf2764432.xml#id-8576c90ac5104cf8ade8acadf2764432"/>

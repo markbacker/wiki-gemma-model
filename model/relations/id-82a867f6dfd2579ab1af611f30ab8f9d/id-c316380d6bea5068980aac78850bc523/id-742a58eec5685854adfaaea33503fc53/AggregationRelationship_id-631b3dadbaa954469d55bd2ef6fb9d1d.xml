@@ -1,0 +1,30 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-631b3dadbaa954469d55bd2ef6fb9d1d"
+    documentation="Groep → Afspraak. Beleidsdomeinindeling">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#aggregatie:groepering>afspraak:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-09T21:28:14"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model kernrelatie"
+      value="nee"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-bd33c6c868514f7780d80f62179cb315.xml#id-bd33c6c868514f7780d80f62179cb315"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-8fcf2c9a1bb243fe8ca901b5f663ca5d.xml#id-8fcf2c9a1bb243fe8ca901b5f663ca5d"/>
+</archimate:AggregationRelationship>

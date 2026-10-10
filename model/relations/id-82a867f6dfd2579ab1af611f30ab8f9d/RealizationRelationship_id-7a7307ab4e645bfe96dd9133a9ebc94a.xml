@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-7a7307ab4e645bfe96dd9133a9ebc94a">
+  <properties
+      key="wiki-gemma-model id"
+      value="exploiteren-van-begraafplaatsen#14"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-09T21:28:14"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model grondslag"
+      value="bron"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2010-vng-model-beheersverordening-begraafplaatsen; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="VNG-model art. 19; UPL nr. 142"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-30deba14-c60a-49b2-b6d2-740a6d2539f5.xml#id-30deba14-c60a-49b2-b6d2-740a6d2539f5"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-a8bd91490cd855889da99a459bcaeb02.xml#id-a8bd91490cd855889da99a459bcaeb02"/>
+</archimate:RealizationRelationship>
