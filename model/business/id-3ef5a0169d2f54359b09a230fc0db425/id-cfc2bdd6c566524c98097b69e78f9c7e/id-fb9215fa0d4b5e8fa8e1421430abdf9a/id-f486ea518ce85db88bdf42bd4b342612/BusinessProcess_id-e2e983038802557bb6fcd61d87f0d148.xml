@@ -11,7 +11,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-09T21:28:14"/>
+      value="2026-10-11T18:15:01"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -20,13 +20,13 @@
       value="goedgekeurd"/>
   <properties
       key="wiki-gemma-model bronnen"
-      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-kieswet-bwbr0004627; 2026-vng-gemma-2026-10-02"/>
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-kieswet-bwbr0004627"/>
   <properties
       key="wiki-gemma-model beschrijving"
       value="De kiezer richt zijn verzoek schriftelijk, tot de vijfde dag voor de stemming, of mondeling in persoon, tot de dag voor de stemming om twaalf uur, aan de burgemeester van de gemeente waar hij op de dag van de kandidaatstelling als kiezer is geregistreerd, met een kopie van een identiteitsbewijs; de burgemeester maakt de termijnen bekend in het gemeenteblad (Kieswet art. K 3, K 6). Als bewijs krijgt de kiezer een kiezerspas, waarmee hij in het hele gebied van de verkiezing kan stemmen; een kwijtgeraakte kiezerspas wordt niet vervangen en de stempas wordt ongeldig (art. K 1, K 4, J 7a)."/>
   <properties
       key="wiki-gemma-model pagina"
-      value="bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/behandelen-verzoek-om-kiezerspas.md"/>
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/burgerzaken/behandelen-verzoek-om-kiezerspas.md"/>
   <properties
       key="wiki-gemma-model procesniveau"
       value="bedrijfsproces"/>

@@ -11,7 +11,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-09T21:28:14"/>
+      value="2026-10-11T18:15:01"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -23,13 +23,13 @@
       value="2025-vng-upl-producten-en-diensten-extern; 2026-rijk-kieswet-bwbr0004627"/>
   <properties
       key="wiki-gemma-model beschrijving"
-      value="Een kiezer die niet in persoon kan stemmen, vraagt met een formulier bij de burgemeester een volmacht aan en wijst een gemachtigde aan; bij inwilliging krijgt de gemachtigde een volmachtbewijs. De kiezer kan ook zijn stempas of kiezerspas omzetten in een volmachtbewijs en aan de gemachtigde overdragen (Kieswet art. L 1, L 2, L 6, L 8, L 11, L 14). Grondslag art. L 14 en L 8 Kieswet; doelgroep burger; niet digitaal (UPL nr. 453). De volmacht is de dienst, het volmachtbewijs een onderdeel (besluit redacteur 2026-10-06)."/>
+      value="Een kiezer die niet in persoon kan stemmen, vraagt met een formulier bij de burgemeester een volmacht aan en wijst een gemachtigde aan; bij inwilliging krijgt de gemachtigde een volmachtbewijs. De kiezer kan ook zijn stempas of kiezerspas omzetten in een volmachtbewijs en aan de gemachtigde overdragen (Kieswet art. L 1, L 2, L 6, L 8, L 11, L 14). Grondslag art. L 14 en L 8 Kieswet; doelgroep burger; niet digitaal (UPL nr. 453). De volmacht is de dienst, het volmachtbewijs een onderdeel (besluit 2026-10-06)."/>
   <properties
       key="wiki-gemma-model synoniemen"
       value="Stemmen bij volmacht (wet)"/>
   <properties
       key="wiki-gemma-model pagina"
-      value="bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/volmachtbewijs-verkiezingen.md"/>
+      value="elementpaginas/bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/burgerzaken/volmachtbewijs-verkiezingen.md"/>
   <properties
       key="wiki-gemma-model afnemer"
       value="extern"/>

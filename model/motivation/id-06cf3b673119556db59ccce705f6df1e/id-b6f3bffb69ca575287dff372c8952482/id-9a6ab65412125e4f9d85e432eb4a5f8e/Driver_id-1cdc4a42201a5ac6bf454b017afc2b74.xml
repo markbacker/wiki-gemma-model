@@ -11,7 +11,7 @@
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-09T21:28:14"/>
+      value="2026-10-11T18:15:01"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -23,10 +23,10 @@
       value="2026-rijk-kieswet-bwbr0004627; 2025-vng-upl-producten-en-diensten-extern"/>
   <properties
       key="wiki-gemma-model beschrijving"
-      value="De Kieswet (BWBR0004627) regelt wie kiesgerechtigd is (hoofdstuk B), de registratie van de kiesgerechtigdheid door burgemeester en wethouders (D), de stempas (J), de kiezerspas (K) en het stemmen bij volmacht (L), en daarnaast de kandidaatstelling, de stembureaus, de stemming en de uitslag, die buiten dit onderwerp vallen (besluit redacteur 2026-10-06, Afbakening Burgerzaken)."/>
+      value="De Kieswet (BWBR0004627) regelt wie kiesgerechtigd is (hoofdstuk B), de registratie van de kiesgerechtigdheid door burgemeester en wethouders (D), de stempas (J), de kiezerspas (K) en het stemmen bij volmacht (L), en daarnaast de kandidaatstelling, de stembureaus, de stemming en de uitslag, die buiten dit onderwerp vallen (besluit 2026-10-06, Afbakening Burgerzaken)."/>
   <properties
       key="wiki-gemma-model pagina"
-      value="motivatie/beleidskaders/rijksregelgeving/kieswet.md"/>
+      value="elementpaginas/motivatie/beleidskaders/rijksregelgeving/kieswet.md"/>
   <properties
       key="wiki-gemma-model regelgever"
       value="rijk"/>

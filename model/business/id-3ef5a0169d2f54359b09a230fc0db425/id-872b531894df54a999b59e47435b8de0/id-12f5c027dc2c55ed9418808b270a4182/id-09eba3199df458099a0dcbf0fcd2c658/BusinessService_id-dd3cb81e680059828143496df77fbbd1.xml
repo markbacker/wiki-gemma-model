@@ -1,17 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Graf aanvragen"
+    name="Grafuitgifte"
     id="id-dd3cb81e680059828143496df77fbbd1"
     documentation="Een particulier graf, urnengraf of urnennis laten uitgeven, met het grafrecht daarop.">
   <properties
       key="wiki-gemma-model id"
-      value="graf-aanvragen"/>
+      value="grafuitgifte"/>
   <properties
       key="wiki-gemma-model herkomst"
       value="nieuw"/>
   <properties
       key="wiki-gemma-model exportdatum"
-      value="2026-10-09T21:28:14"/>
+      value="2026-10-11T18:15:01"/>
   <properties
       key="wiki-gemma-model soort export"
       value="definitief"/>
@@ -20,16 +20,16 @@
       value="goedgekeurd"/>
   <properties
       key="wiki-gemma-model bronnen"
-      value="2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen; 2010-vng-model-beheersverordening-begraafplaatsen; 2026-vng-retributies; 2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+      value="2025-vng-upl-producten-en-diensten-extern; 2010-vng-model-beheersverordening-begraafplaatsen; 2023-groningen-beheersverordening-gemeentelijke-begraafplaatsen; 2026-vng-retributies; 2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
   <properties
       key="wiki-gemma-model beschrijving"
-      value="Wie een graf wil, dient een schriftelijke aanvraag in; het college verleent het recht voor een vaste termijn, voor zover er ruimte is, en de gemeente heft er lijkbezorgingsrechten voor (Groningen art. 16; VNG-model art. 15; VNG retributies). Het VNG-model beveelt aan aanvragen in te dienen bij de beheerder van de begraafplaats (toelichting 2)."/>
+      value="De gemeente geeft op haar begraafplaatsen particuliere graven, urnengraven en urnennissen uit (VNG-model art. 11, 13–15; Groningen art. 14, 16). Wie een graf wil, dient een schriftelijke aanvraag in; het college verleent het recht voor een vaste termijn, voor zover er ruimte is, en de gemeente heft er lijkbezorgingsrechten voor (Groningen art. 16; VNG-model art. 15; VNG retributies); die staan in de UPL als het product grafrechten (Gemeentewet art. 229; VNG retributies). Het VNG-model beveelt aan aanvragen in te dienen bij de beheerder van de begraafplaats (toelichting 2).&#xA;&#xA;De UPL geeft als grondslag art. 11 van de model-beheersverordening (indeling graven en asbezorging); de uitgifte zelf staat in art. 13 tot 15 van dat model (UPL)."/>
   <properties
       key="wiki-gemma-model synoniemen"
-      value="Grafrecht aanvragen (beleid)"/>
+      value="Graf aanvragen (beleid); Grafrecht aanvragen (beleid)"/>
   <properties
       key="wiki-gemma-model pagina"
-      value="bedrijfsarchitectuur/diensten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/graf-aanvragen.md"/>
+      value="elementpaginas/bedrijfsarchitectuur/diensten/7-volksgezondheid-en-milieu/begraafplaatsen-en-crematoria/grafuitgifte.md"/>
   <properties
       key="wiki-gemma-model afnemer"
       value="extern"/>
