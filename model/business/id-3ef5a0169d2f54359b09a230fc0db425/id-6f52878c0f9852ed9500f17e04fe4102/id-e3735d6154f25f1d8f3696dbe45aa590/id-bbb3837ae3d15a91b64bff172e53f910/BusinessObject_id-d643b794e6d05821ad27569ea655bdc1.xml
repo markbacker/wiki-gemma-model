@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzoek uitdaagrecht"
+    id="id-d643b794e6d05821ad27569ea655bdc1"
+    documentation="Verzoek van inwoners of maatschappelijke partijen aan het college om een gemeentelijke taak over te nemen of de gemeente bij hun initiatief te betrekken.">
+  <properties
+      key="wiki-gemma-model id"
+      value="verzoek-uitdaagrecht"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-vng-implementatiehandleiding-model-participatieverordening; 2026-rijk-gemeentewet-wettekst; 2026-rijk-algemene-wet-bestuursrecht-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het verzoek wordt altijd bij het college ingediend en bevat een omschrijving van de taak of van de gewenste overheidsparticipatie, de reden en het beoogde resultaat. De gemeente kan meer vragen (de betrokkenheid, kennis en ervaring van de indiener, de kosten of middelen, en hoe de indiener de kwaliteit en de uitvoering van de taak waarborgt) en een formulier vaststellen (2024-vng-model-participatieverordening, var. 1 art. 6; var. 2 art. [11]).&#xA;&#xA;Het bevoegde bestuursorgaan wijst het verzoek toe of af en maakt de reactie met de onderbouwing openbaar; bij toewijzing volgen afspraken over de uitvoering (2024-vng-model-participatieverordening, var. 1 art. [8], [9]; var. 2 art. [13], [14]).&#xA;&#xA;In variant 1 van de VNG-modelverordening is het een verzoek om toepassing van het uitdaagrecht: het recht van inwoners en maatschappelijke partijen om de feitelijke uitvoering van een gemeentelijke taak over te nemen (2026-rijk-gemeentewet-wettekst, art. 150 lid 3; 2024-vng-model-participatieverordening, var. 1 art. 1, 6). In variant 2 is het een verzoek om overheidsparticipatie en is het breder: het vraagt de gemeente te betrekken bij de voorbereiding, uitvoering of evaluatie van beleid, met het uitdaagrecht als onderdeel (2024-vng-model-participatieverordening, var. 2 art. 1, [11])."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Verzoek toepassing uitdaagrecht (beleid, variant 1); Verzoek om overheidsparticipatie (beleid, variant 2); Overheidsparticipatieverzoek (beleid, toelichting variant 2)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsobjecten/0-bestuur-en-ondersteuning/participatie/verzoek-uitdaagrecht.md"/>
+  <properties
+      key="wiki-gemma-model objectniveau"
+      value="kernobject"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Participatie"/>
+</archimate:BusinessObject>

@@ -1,0 +1,42 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participatieplan"
+    id="id-1e70eff8033e5f319fa9f5942fe405c6"
+    documentation="Openbaar plan waarin een bestuursorgaan vooraf vastlegt waarom, hoe en wanneer het inwoners betrekt bij de voorbereiding, uitvoering of evaluatie van beleid.">
+  <properties
+      key="wiki-gemma-model id"
+      value="participatieplan"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-vng-implementatiehandleiding-model-participatieverordening; 2026-rijk-gemeentewet-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het bestuursorgaan stelt het plan op voordat het beleid wordt voorbereid, uitgevoerd of geëvalueerd, en maakt het openbaar; bereidt het college een besluit van de raad voor, dan stelt het college het op en informeert het de raad over de inhoud (2024-vng-model-participatieverordening, var. 1 art. 3 lid 1, 3; var. 2 art. [7] lid 1, 3).&#xA;&#xA;Het plan bevat in elk geval een omschrijving van het beleid, het doel, het proces en de planning van de participatie, en de ambtelijke en bestuurlijke besluitvorming over het beleid; in variant 2 ook het oogmerk en de vorm van participatie, van informeren tot beslissen, en de te betrekken doelgroepen (2024-vng-model-participatieverordening, var. 1 art. 3 lid 2; var. 2 art. [7] lid 2). Het kan worden opgesteld aan de hand van het participatiebeleid van de raad.&#xA;&#xA;De vorm is vrij: het plan kan deel zijn van een voordracht, projectplan of beleidsstuk, of een losstaand document (2024-vng-model-participatieverordening, toelichting var. 1 art. 3). De wet schrijft het plan niet voor; de raad regelt in de participatieverordening hoe inwoners worden betrokken (2026-rijk-gemeentewet-wettekst, art. 150 lid 1)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Plan voor inwonersparticipatie (VNG-modelverordening); Plan voor participatie (VNG-modelverordening, variant 2)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsobjecten/0-bestuur-en-ondersteuning/participatie/participatieplan.md"/>
+  <properties
+      key="wiki-gemma-model objectniveau"
+      value="kernobject"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Participatie"/>
+</archimate:BusinessObject>

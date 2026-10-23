@@ -1,0 +1,36 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inwoner"
+    id="id-fa41ce06f2ae5665833b1a87a4228f3d"
+    documentation="Persoon die ingezetene is van de gemeente.">
+  <properties
+      key="wiki-gemma-model id"
+      value="inwoner"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-gemeentewet-wettekst; 2024-vng-implementatiehandleiding-model-participatieverordening; 2024-vng-model-participatieverordening"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De Model Participatieverordening definieert inwoners als ingezetenen als bedoeld in artikel 2 van de Gemeentewet; een gemeente kan daar ondernemers aan toevoegen (2024-vng-model-participatieverordening, var. 1 art. 1). De wet spreekt van ingezetenen (2026-rijk-gemeentewet-wettekst, art. 150).&#xA;&#xA;De gegevens van de ingezetene staan in het bedrijfsobject Ingeschreven persoon, met de specialisatie Ingezetene."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Ingezetene (wet)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/actoren/inwoner.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="inwoners en ondernemers"/>
+</archimate:BusinessActor>

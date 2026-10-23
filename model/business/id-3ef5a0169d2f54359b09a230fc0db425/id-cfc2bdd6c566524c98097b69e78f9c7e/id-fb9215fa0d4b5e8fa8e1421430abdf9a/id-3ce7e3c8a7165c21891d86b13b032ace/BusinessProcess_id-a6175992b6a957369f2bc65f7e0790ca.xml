@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststellen dwangsom bij niet tijdig beslissen"
+    id="id-a6175992b6a957369f2bc65f7e0790ca"
+    documentation="Het vaststellen en betalen van de dwangsom die de gemeente verschuldigd is als zij na een ingebrekestelling niet tijdig op een aanvraag beslist.">
+  <properties
+      key="wiki-gemma-model id"
+      value="vaststellen-dwangsom-bij-niet-tijdig-beslissen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst; 2026-logius-upl-actueel"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Is de beslistermijn voor een beschikking op aanvraag verstreken, dan kan de aanvrager het bestuursorgaan schriftelijk in gebreke stellen. Vanaf twee weken na ontvangst verbeurt het bestuursorgaan een dwangsom per dag, ten hoogste 42 dagen (Awb art. 4:17). Het stelt verschuldigdheid en hoogte bij beschikking vast binnen twee weken na de laatste dag waarover de dwangsom verschuldigd was (art. 4:18). Bezwaar tegen de beschikking op de aanvraag geldt ook voor deze beschikking, voor zover de belanghebbende haar betwist (art. 4:19); een onverschuldigd betaalde dwangsom kan binnen vijf jaar worden teruggevorderd (art. 4:20). De ingebrekestelling start het proces en is geen eigen element."/>
+  <properties
+      key="wiki-gemma-model deelprocessen"
+      value="1. Ontvangen ingebrekestelling: Het bestuursorgaan ontvangt de schriftelijke ingebrekestelling na het verstrijken van de beslistermijn; twee weken later begint de dwangsom te lopen (art. 4:17 lid 3).&#xA;2. Vaststellen dwangsom: Het bestuursorgaan stelt verschuldigdheid en hoogte bij beschikking vast binnen twee weken na de laatste dag, rekening houdend met de uitzonderingen (art. 4:17 lid 5, 4:18)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/besluitvorming/vaststellen-dwangsom-bij-niet-tijdig-beslissen.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="beschikking"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:BusinessProcess>

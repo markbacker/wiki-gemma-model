@@ -1,0 +1,30 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-21dc9dc3fcee5816a4c980de5cec15aa"
+    documentation="Capability → Capability. Namen: omvat. capability → deelcapability">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#aggregatie:capability>capability:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model kernrelatie"
+      value="nee"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-110929539adf4eda91f50d11bf5ad833.xml#id-110929539adf4eda91f50d11bf5ad833"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-110929539adf4eda91f50d11bf5ad833.xml#id-110929539adf4eda91f50d11bf5ad833"/>
+</archimate:AggregationRelationship>

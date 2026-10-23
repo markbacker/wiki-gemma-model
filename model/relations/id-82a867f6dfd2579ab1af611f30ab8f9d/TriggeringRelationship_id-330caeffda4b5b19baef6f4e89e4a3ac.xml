@@ -1,0 +1,33 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leidt tot (bij inspraak)"
+    id="id-330caeffda4b5b19baef6f4e89e4a3ac">
+  <properties
+      key="wiki-gemma-model id"
+      value="betrekken-inwoners-bij-beleid#2"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-gemeentewet-wettekst; 2024-vng-model-participatieverordening"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="Gemeentewet art. 150 lid 2; var. 1 art. 4; var. 2 art. [8]"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-20f66f5b7c2a5eddbeaa50f60d1bee7a.xml#id-20f66f5b7c2a5eddbeaa50f60d1bee7a"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-9c753366cef7556ebbad76e96d0fa7c6.xml#id-9c753366cef7556ebbad76e96d0fa7c6"/>
+</archimate:TriggeringRelationship>

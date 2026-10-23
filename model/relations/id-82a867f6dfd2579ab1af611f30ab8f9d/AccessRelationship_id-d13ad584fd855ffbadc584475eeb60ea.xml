@@ -1,0 +1,37 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="raadpleegt"
+    id="id-d13ad584fd855ffbadc584475eeb60ea"
+    accessType="1">
+  <properties
+      key="wiki-gemma-model id"
+      value="vaststellen-dwangsom-bij-niet-tijdig-beslissen#3"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 4:17 lid 1, 5"/>
+  <properties
+      key="wiki-gemma-model toegang"
+      value="raadplegen"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-a6175992b6a957369f2bc65f7e0790ca.xml#id-a6175992b6a957369f2bc65f7e0790ca"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4c995e53fd534fb1895e557ad513c729.xml#id-4c995e53fd534fb1895e557ad513c729"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,51 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voeren verweer in beroep"
+    id="id-ccf76c2324ea5fc6acd11d1632d90f56"
+    documentation="Het optreden van de gemeente als partij in een beroep bij de bestuursrechter: stukken en verweer leveren en de uitspraak uitvoeren.">
+  <properties
+      key="wiki-gemma-model id"
+      value="voeren-verweer-in-beroep"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Stelt een belanghebbende beroep in bij de bestuursrechter tegen een besluit van de gemeente, dan zendt de rechter de gronden van het beroepschrift aan het bestuursorgaan dat het besluit nam. Dat zendt binnen vier weken de stukken die op de zaak betrekking hebben aan de bestuursrechter en kan een verweerschrift indienen; heeft de rechter erom gevraagd, dan moet het (Awb art. 8:42). Verklaart de rechter het beroep gegrond, dan vernietigt hij het besluit; hij kan het bestuursorgaan opdragen binnen een termijn een nieuw besluit te nemen met inachtneming van zijn aanwijzingen (art. 8:72). Op het beroep beslist de bestuursrechter, niet de gemeente."/>
+  <properties
+      key="wiki-gemma-model deelprocessen"
+      value="1. Indienen verweer: Het bestuursorgaan zendt binnen vier weken de stukken aan de bestuursrechter en dient zo nodig een verweerschrift in (art. 8:42).&#xA;2. Uitvoeren uitspraak: Na een gegrond beroep neemt het bestuursorgaan zo nodig binnen de gestelde termijn een nieuw besluit met inachtneming van de aanwijzingen van de rechter (art. 8:72 lid 4)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Behandelen beroep (GEMMA)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/besluitvorming/voeren-verweer-in-beroep.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="besluit"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:BusinessProcess>

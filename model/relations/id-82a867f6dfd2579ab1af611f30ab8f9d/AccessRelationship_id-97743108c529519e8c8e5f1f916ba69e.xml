@@ -1,0 +1,37 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="plaatst in het gemeenteblad"
+    id="id-97743108c529519e8c8e5f1f916ba69e"
+    accessType="1">
+  <properties
+      key="wiki-gemma-model id"
+      value="bekendmaken-besluit#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-bekendmakingswet-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 6, 8"/>
+  <properties
+      key="wiki-gemma-model toegang"
+      value="verstrekken"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-95184086f6515191aa28e4cd107c2674.xml#id-95184086f6515191aa28e4cd107c2674"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-e5771904f7a442de8f07744a66d37ef0.xml#id-e5771904f7a442de8f07744a66d37ef0"/>
+</archimate:AccessRelationship>

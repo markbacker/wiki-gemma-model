@@ -1,0 +1,31 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9dd7e19e4f4a5aa3ae3ac07713180f04"
+    documentation="Beleidskader → Bedrijfsobject. Namen: is grondslag voor, is model voor. de regeling die het object regelt; *is model voor*: een VNG-modelverordening voor de soort regeling (Regeling)"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="kennismodel-wiki#associatie (gericht):beleidskader>bedrijfsobject:"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="kennismodel-wiki"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model kernrelatie"
+      value="nee"/>
+  <properties
+      key="wiki-gemma-model in Over GEMMA"
+      value="nee"/>
+  <source
+      xsi:type="archimate:Driver"
+      href="Driver_id-906e3bfc38ef49ed86ea6cc9e8d7ba9f.xml#id-906e3bfc38ef49ed86ea6cc9e8d7ba9f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-81158.xml#id-81158"/>
+</archimate:AssociationRelationship>

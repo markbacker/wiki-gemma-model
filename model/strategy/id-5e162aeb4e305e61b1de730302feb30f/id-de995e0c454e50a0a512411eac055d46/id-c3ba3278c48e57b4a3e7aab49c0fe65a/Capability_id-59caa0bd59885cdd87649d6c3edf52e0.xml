@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identiteit vaststellen"
+    id="id-59caa0bd59885cdd87649d6c3edf52e0"
+    documentation="Het vermogen om met voldoende zekerheid vast te stellen dat iemand is wie hij zegt te zijn.">
+  <properties
+      key="wiki-gemma-model id"
+      value="identiteit-vaststellen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-paspoortwet-bwbr0005212; 2026-rijk-wet-brp-bwbr0033715; 2026-rijk-besluit-verkrijging-verlies-nederlanderschap-bwbr0013605"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De gemeente stelt de identiteit vast voordat zij iemand in de BRP inschrijft (Wet BRP art. 2.4 lid 3), voordat zij een reisdocument verstrekt (Paspoortwet art. 28 lid 1) en voordat zij een verklaring van afstand van het Nederlanderschap in ontvangst neemt (Besluit verkrijging en verlies Nederlanderschap art. 63 lid 2). Drie bedrijfsfuncties realiseren het vermogen, Officiële documenten verstrekking, Bevolkingsadministratie bijhouding en Nederlanderschap diensten.&#xA;&#xA;In de processen is het vaststellen van de identiteit een processtap zonder pagina (Vaststellen identiteit, bij Inschrijven ingezetene); als capability is het het vermogen dat over die processen heen ontwikkeld en beoordeeld wordt."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/strategie/capabilities/publieksdiensten/identiteit-vaststellen.md"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+</archimate:Capability>

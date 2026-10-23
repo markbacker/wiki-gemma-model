@@ -1,0 +1,26 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-58f10810a0225dbb903416cebb4b240e">
+  <properties
+      key="wiki-gemma-model id"
+      value="lijkbezorging-waarborgen#Capabilitykaart"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Capabilitykaart"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-32fe79dd-1e19-4dc0-8018-1ed28ef5abe3.xml#id-32fe79dd-1e19-4dc0-8018-1ed28ef5abe3"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-d9972f6ffe735bcbad36efbc8bc339b9.xml#id-d9972f6ffe735bcbad36efbc8bc339b9"/>
+</archimate:AggregationRelationship>

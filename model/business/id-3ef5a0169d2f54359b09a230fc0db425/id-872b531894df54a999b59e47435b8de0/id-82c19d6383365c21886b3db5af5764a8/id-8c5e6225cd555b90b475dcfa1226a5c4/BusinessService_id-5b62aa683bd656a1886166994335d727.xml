@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikking aanvragen"
+    id="id-5b62aa683bd656a1886166994335d727"
+    documentation="Het aanvragen van een besluit van de gemeente in een concreet geval, zoals een vergunning of ontheffing.">
+  <properties
+      key="wiki-gemma-model id"
+      value="beschikking-aanvragen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern; 2026-logius-upl-actueel"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een belanghebbende kan het bestuursorgaan vragen een beschikking te geven: een besluit in een concreet geval, zoals een vergunning (Awb art. 1:3). De aanvraag is schriftelijk, ondertekend en bevat ten minste naam en adres, dagtekening en de gevraagde beschikking (art. 4:1, 4:2). Het bestuursorgaan laat een onvolledige aanvraag aanvullen, hoort de aanvrager bij een voorgenomen afwijzing op afwijkende gegevens en geeft de beschikking binnen de wettelijke termijn of anders binnen acht weken (art. 4:5, 4:7, 4:13, 4:14). Het is het algemene aanbod waarvan de diensten op aanvraag in de onderwerpen, zoals een verlof of een reisdocument, gevallen zijn. De UPL noemt de dienst voor burgers en bedrijven (nr. 55)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Beschikking (UPL)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/besluitvorming/beschikking-aanvragen.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Bestuur"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:BusinessService>

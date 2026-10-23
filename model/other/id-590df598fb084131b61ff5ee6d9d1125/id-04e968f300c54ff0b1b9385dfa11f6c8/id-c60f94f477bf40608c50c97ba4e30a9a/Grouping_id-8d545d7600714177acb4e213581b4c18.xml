@@ -1,0 +1,33 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Participatie"
+    id="id-8d545d7600714177acb4e213581b4c18"
+    documentation="Groep van bedrijfsobjecten die burgerparticipatie en betrokkenheid bij gemeentelijk beleid bevorderen.">
+  <properties
+      key="GEMMA type"
+      value="Beleidsdomein"/>
+  <properties
+      key="GGM-datum-tijd-export"
+      value="10122024-112046"/>
+  <properties
+      key="GGM-type"
+      value="Beleidsdomein"/>
+  <properties
+      key="Latest Sync Date"
+      value="11/12/2024 11:05:02"/>
+  <properties
+      key="Object ID"
+      value="41c1404b-facb-4a6d-8c39-d6f3a6d8c0f1"/>
+  <properties
+      key="layout direction BO"
+      value="LR"/>
+  <properties
+      key="layout direction DO"
+      value="LR"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De raad stelt een verordening vast over de wijze waarop ingezetenen en belanghebbenden bij de voorbereiding, uitvoering en evaluatie van gemeentelijk beleid worden betrokken, in elk beleidsdomein; inspraak verloopt via afdeling 3.4 Awb, tenzij de verordening anders bepaalt. De verordening regelt ook de voorwaarden waaronder ingezetenen en maatschappelijke partijen de uitvoering van een gemeentelijke taak kunnen overnemen (Gemeentewet art. 150 lid 1–3). Participatie op grond van andere wetten, zoals de Participatiewet, cliëntenparticipatie in het sociaal domein en participatie bij het omgevingsplan, valt erbuiten."/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-gemeentewet-wettekst"/>
+</archimate:Grouping>

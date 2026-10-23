@@ -1,0 +1,48 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen aanvraag beschikking"
+    id="id-30671dfe38915638841b77eb831bb2e1"
+    documentation="Het beslissen op een aanvraag om een beschikking: de aanvraag ontvangen en zo nodig laten aanvullen, het besluit voorbereiden en binnen de termijn beslissen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-beschikking"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een belanghebbende dient een aanvraag om een beschikking schriftelijk in bij het bevoegde bestuursorgaan (Awb art. 1:3 lid 3, 4:1, 4:2). Is de aanvraag onvolledig, dan krijgt de aanvrager gelegenheid haar aan te vullen; anders kan het bestuursorgaan besluiten haar niet te behandelen (art. 4:5). Steunt een voorgenomen afwijzing op gegevens die afwijken van wat de aanvrager zelf gaf, of heeft een andere belanghebbende naar verwachting bedenkingen, dan kan die vooraf zijn zienswijze geven (art. 4:7–4:9). Het bestuursorgaan geeft de beschikking binnen de wettelijke termijn, of anders binnen een redelijke termijn van ten hoogste acht weken; lukt dat niet, dan meldt het een nieuwe termijn, en de termijn wordt opgeschort tijdens het aanvullen (art. 4:13–4:15). Is een wettelijk voorschrift of het bestuursorgaan dat zo bepaalt, dan wordt het besluit voorbereid met de uniforme openbare voorbereidingsprocedure (art. 3:10). De beslisprocessen op aanvraag in de onderwerpen, zoals Behandelen aanvraag reisdocument, zijn gevallen van dit generieke proces."/>
+  <properties
+      key="wiki-gemma-model deelprocessen"
+      value="1. Ontvangen aanvraag: Het bestuursorgaan ontvangt de aanvraag, toetst de indieningseisen en laat haar zo nodig aanvullen, of besluit haar niet te behandelen (art. 4:1–4:5).&#xA;2. Voorbereiden beschikking: Het bestuursorgaan verzamelt de kennis over feiten en belangen en stelt de aanvrager of een derde-belanghebbende zo nodig in de gelegenheid zijn zienswijze te geven (art. 3:2, 4:7–4:9).&#xA;3. Beslissen op aanvraag: Het bestuursorgaan geeft de beschikking binnen de beslistermijn, of meldt een nieuwe termijn (art. 4:13–4:15)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/besluitvorming/behandelen-aanvraag-beschikking.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="beschikking"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:BusinessProcess>

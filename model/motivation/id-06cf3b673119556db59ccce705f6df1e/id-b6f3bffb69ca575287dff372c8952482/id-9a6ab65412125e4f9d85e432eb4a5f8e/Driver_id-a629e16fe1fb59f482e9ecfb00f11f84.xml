@@ -1,0 +1,39 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gemeentewet"
+    id="id-a629e16fe1fb59f482e9ecfb00f11f84"
+    documentation="Wet die de inrichting, de bestuursorganen, de bevoegdheden en de financiën van de gemeente regelt.">
+  <properties
+      key="wiki-gemma-model id"
+      value="gemeentewet"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-gemeentewet-wettekst; 2024-rijk-gemeentewet-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De Gemeentewet regelt de gemeenteraad, het college van burgemeester en wethouders en de burgemeester, hun bevoegdheden en de verordeningen van de raad (2026-rijk-gemeentewet-wettekst)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/motivatie/beleidskaders/rijksregelgeving/gemeentewet.md"/>
+  <properties
+      key="wiki-gemma-model regelgever"
+      value="rijk"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:Driver>

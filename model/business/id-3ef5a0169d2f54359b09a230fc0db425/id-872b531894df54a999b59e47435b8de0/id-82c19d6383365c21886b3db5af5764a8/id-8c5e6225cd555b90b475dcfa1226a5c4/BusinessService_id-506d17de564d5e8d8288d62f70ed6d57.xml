@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beroep"
+    id="id-506d17de564d5e8d8288d62f70ed6d57"
+    documentation="Het instellen van beroep bij de bestuursrechter tegen een besluit van de gemeente.">
+  <properties
+      key="wiki-gemma-model id"
+      value="beroep"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een belanghebbende kan tegen een besluit beroep instellen bij de bestuursrechter, door binnen zes weken een beroepschrift bij die rechter in te dienen (Awb art. 8:1, 6:4 lid 3, 6:7). Meestal gaat bezwaar vooraf; tegen de beslissing op bezwaar staat dan beroep open, en na de uniforme openbare voorbereidingsprocedure gaat de belanghebbende direct in beroep (art. 7:1). Bij de bekendmaking van een besluit vermeldt de gemeente of en waar beroep openstaat (art. 3:45). De bestuursrechter behandelt het beroep; de gemeente is partij: zij zendt binnen vier weken de stukken, kan een verweerschrift indienen, en neemt een nieuw besluit als de rechter het besluit vernietigt en dat opdraagt (art. 8:42, 8:72). De UPL noemt de dienst voor burgers en bedrijven (nr. 54)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Beroep instellen (wet)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/besluitvorming/beroep.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Bestuur"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:BusinessService>

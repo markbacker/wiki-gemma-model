@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="reageert op het verzoek en wijst het toe of af"
+    id="id-de02e4982c265b8eae195411cda738b3">
+  <properties
+      key="wiki-gemma-model id"
+      value="beslisser#40"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-vng-model-participatieverordening"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="var. 1 art. [8]; var. 2 art. [13]"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-8ee6ba79-47ed-47d5-8fc4-a707fbea233e.xml#id-8ee6ba79-47ed-47d5-8fc4-a707fbea233e"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-2fe58f86b7f1575e90632a24a33b95df.xml#id-2fe58f86b7f1575e90632a24a33b95df"/>
+</archimate:AssignmentRelationship>

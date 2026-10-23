@@ -1,0 +1,33 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stelt beroep in"
+    id="id-686765c9c64257e88a37674540e6f7c5">
+  <properties
+      key="wiki-gemma-model id"
+      value="belanghebbende#4"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 8:1"/>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-bd369f13-44a4-41f0-8b95-7925a0c0eaa9.xml#id-bd369f13-44a4-41f0-8b95-7925a0c0eaa9"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-ccf76c2324ea5fc6acd11d1632d90f56.xml#id-ccf76c2324ea5fc6acd11d1632d90f56"/>
+</archimate:AssignmentRelationship>

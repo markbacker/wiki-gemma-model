@@ -1,0 +1,33 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klager"
+    id="id-488a2a6e75a557e9997403976e394da4"
+    documentation="Hoedanigheid van degene die een klacht indient over de manier waarop een bestuursorgaan zich heeft gedragen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="klager"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Ieder heeft het recht een klacht in te dienen over de manier waarop een bestuursorgaan zich jegens hem of een ander heeft gedragen (Awb art. 9:1); wie dat doet, is klager. De klager krijgt een ontvangstbevestiging, wordt gehoord en krijgt een gemotiveerd oordeel, met de ombudsman bij wie hij daarna terecht kan (art. 9:6, 9:10, 9:12). Anders dan een belanghebbende hoeft de klager geen belang bij een besluit te hebben."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/rollen/klager.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="inwoners en ondernemers"/>
+</archimate:BusinessRole>

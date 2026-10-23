@@ -1,0 +1,37 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="geeft af; reikt uit en neemt het eerdere rijbewijs in"
+    id="id-0d4c8506d1a0527e8bf619ad72fe40cb"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-aanvraag-rijbewijs#1+5"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wegenverkeerswet-1994-bwbr0006622"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 116, 118a; art. 119 lid 2, 120a"/>
+  <properties
+      key="wiki-gemma-model toegang"
+      value="registreren, bijwerken"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-1eb41737dee15d44a95a29e5a9879969.xml#id-1eb41737dee15d44a95a29e5a9879969"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-2156e633a4835524810bcd1b4ededd45.xml#id-2156e633a4835524810bcd1b4ededd45"/>
+</archimate:AccessRelationship>

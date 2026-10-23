@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Heffingsverordening-data"
+    id="id-3c424ac2774d5edbac3b74273f5ba438"
+    documentation="Een *heffingsverordening* is een door de gemeenteraad vastgestelde verordening die de **heffing en invordering van gemeentelijke belastingen en rechten** regelt, zoals afvalstoffenheffing, precariobelasting of marktgelden.">
+  <properties
+      key="wiki-gemma-model id"
+      value="heffingsverordening-data"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model element"
+      value="heffingsverordening"/>
+  <properties
+      key="wiki-gemma-model GGM-entiteit"
+      value="Heffingsverordening"/>
+  <properties
+      key="wiki-gemma-model GGM-guid"
+      value="EAID_C29CCD49_04E2_44b4_A6B0_AD8B10552628"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="exact"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/applicatiearchitectuur/data-objecten/heffingsverordening-data.md"/>
+</archimate:DataObject>

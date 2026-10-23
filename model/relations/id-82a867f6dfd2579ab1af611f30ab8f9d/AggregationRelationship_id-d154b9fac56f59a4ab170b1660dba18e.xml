@@ -1,0 +1,26 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d154b9fac56f59a4ab170b1660dba18e">
+  <properties
+      key="wiki-gemma-model id"
+      value="aanvraag#Beleidsdomeinindeling"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model indeling"
+      value="Beleidsdomeinindeling"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-ca3a65a4fd1c56d2a85ff97cccb933c7.xml#id-ca3a65a4fd1c56d2a85ff97cccb933c7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4c995e53fd534fb1895e557ad513c729.xml#id-4c995e53fd534fb1895e557ad513c729"/>
+</archimate:AggregationRelationship>

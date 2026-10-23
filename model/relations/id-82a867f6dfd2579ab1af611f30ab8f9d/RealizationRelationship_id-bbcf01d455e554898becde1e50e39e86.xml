@@ -1,0 +1,33 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiseert"
+    id="id-bbcf01d455e554898becde1e50e39e86">
+  <properties
+      key="wiki-gemma-model id"
+      value="uitvoeren-uniforme-openbare-voorbereidingsprocedure#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 3:15; UPL nr. 497"/>
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-9c753366cef7556ebbad76e96d0fa7c6.xml#id-9c753366cef7556ebbad76e96d0fa7c6"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-0396a6e2c8a254a096459aee10e6b8d2.xml#id-0396a6e2c8a254a096459aee10e6b8d2"/>
+</archimate:RealizationRelationship>

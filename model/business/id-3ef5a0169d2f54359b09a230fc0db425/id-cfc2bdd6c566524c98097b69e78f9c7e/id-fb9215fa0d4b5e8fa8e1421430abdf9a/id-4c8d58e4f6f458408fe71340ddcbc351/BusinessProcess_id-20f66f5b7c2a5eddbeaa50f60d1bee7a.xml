@@ -1,0 +1,54 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betrekken inwoners bij beleid"
+    id="id-20f66f5b7c2a5eddbeaa50f60d1bee7a"
+    documentation="Het op initiatief van de gemeente betrekken van inwoners en maatschappelijke partijen bij de voorbereiding, uitvoering of evaluatie van gemeentelijk beleid.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsproces (cluster)"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="betrekken-inwoners-bij-beleid"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-vng-implementatiehandleiding-model-participatieverordening; 2026-rijk-gemeentewet-wettekst; 2024-vng-model-participatieverordening"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De raad regelt in een verordening hoe ingezetenen en belanghebbenden bij de voorbereiding, uitvoering en evaluatie van gemeentelijk beleid worden betrokken (2026-rijk-gemeentewet-wettekst, art. 150 lid 1). Elk bestuursorgaan (raad, college of burgemeester) besluit over zijn eigen beleid of inwonersparticipatie plaatsvindt (2024-vng-model-participatieverordening, var. 1 art. 2 lid 1).&#xA;&#xA;Vooraf stelt het bestuursorgaan een participatieplan op en maakt het openbaar; daarna betrekt het inwoners en maatschappelijke partijen in de gekozen vorm, van informeren tot beslissen; na afloop stelt het een eindverslag op en maakt het openbaar (2024-vng-model-participatieverordening, var. 1 art. 3–5; var. 2 art. [7], [10]). Bereidt het college een besluit van de raad voor, dan stelt het college plan en eindverslag op en informeert het de raad (var. 1 art. 3 lid 3, 5 lid 3).&#xA;&#xA;Kiest het bestuursorgaan voor inspraak, of is inspraak wettelijk verplicht, dan verloopt de inspraak via de uniforme openbare voorbereidingsprocedure van afdeling 3.4 Awb, tenzij de verordening of het bestuursorgaan een ander proces vaststelt (2026-rijk-gemeentewet-wettekst, art. 150 lid 2; 2024-vng-model-participatieverordening, var. 1 art. 4, var. 2 art. [8]).&#xA;&#xA;De VNG-modelverordening sluit inwonersparticipatie facultatief uit, onder meer bij spoed, bij uitvoering van hogere regelgeving zonder beleidsvrijheid, bij interne aangelegenheden en bij begroting, tarieven en belastingen; haar termijnen zijn voorbeeldwaarden die de gemeente zelf invult (2024-vng-model-participatieverordening, var. 1 art. 2 lid 3, 3 lid 1, 5 lid 1)."/>
+  <properties
+      key="wiki-gemma-model deelprocessen"
+      value="1. Opstellen participatieplan: Het bestuursorgaan stelt vóór de voorbereiding, uitvoering of evaluatie van het beleid een plan op met het beleid, het doel, het proces en de planning van de participatie, en maakt het openbaar; bij een besluit van de raad doet het college dat en informeert het de raad. (var. 1 art. 3; var. 2 art. [7])&#xA;2. Betrekken inwoners en maatschappelijke partijen: Het bestuursorgaan betrekt inwoners en maatschappelijke partijen in de vorm uit het plan; bij inspraak volgt het de uniforme openbare voorbereidingsprocedure, tenzij het een ander proces vaststelt. Het college zorgt voor laagdrempelige ondersteuning van deelnemers. (var. 1 art. 4; var. 2 art. [8], [9])&#xA;3. Opstellen eindverslag: Na afloop stelt het bestuursorgaan een eindverslag op met het gevolgde proces, de uitkomsten, een onderbouwde reactie daarop en een evaluatie, en maakt het openbaar. (var. 1 art. 5; var. 2 art. [10])"/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Inwonersparticipatie (beleid); Uitvoeren inwonersparticipatie (wiki)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/participatie/betrekken-inwoners-bij-beleid.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="levensloopproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="participatieplan"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Participatie"/>
+</archimate:BusinessProcess>

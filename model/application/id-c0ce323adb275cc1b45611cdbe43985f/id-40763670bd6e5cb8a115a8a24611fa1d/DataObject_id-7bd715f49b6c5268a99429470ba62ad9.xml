@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Briefadres-data"
+    id="id-7bd715f49b6c5268a99429470ba62ad9"
+    documentation="Een briefadres is een adres waar door de overheid verzonden stukken voor een persoon in ontvangst wordt genomen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="briefadres-data"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model element"
+      value="briefadres"/>
+  <properties
+      key="wiki-gemma-model GGM-entiteit"
+      value="Briefadres"/>
+  <properties
+      key="wiki-gemma-model GGM-guid"
+      value="EAID_3015DCE3_7C05_4160_A717_533553258C15"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="exact"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/applicatiearchitectuur/data-objecten/briefadres-data.md"/>
+</archimate:DataObject>

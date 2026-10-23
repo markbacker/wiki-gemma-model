@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reisdocument-data"
+    id="id-80c0bffe5af352fe9e1236eb8e24f12c"
+    documentation="Een document dat vereist is voor reizen naar het buitenland">
+  <properties
+      key="wiki-gemma-model id"
+      value="reisdocument-data"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model element"
+      value="reisdocument"/>
+  <properties
+      key="wiki-gemma-model GGM-entiteit"
+      value="Reisdocument"/>
+  <properties
+      key="wiki-gemma-model GGM-guid"
+      value="EAID_CA9BC1BB_D572_4e47_BECF_17CFD379BD6A"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="sterk"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/applicatiearchitectuur/data-objecten/reisdocument-data.md"/>
+</archimate:DataObject>

@@ -1,0 +1,42 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dwangsom bij niet tijdig beslissen"
+    id="id-41d9d1fcb2a754d3af4b7aaefcb67186"
+    documentation="Een geldbedrag per dag dat de gemeente de aanvrager betaalt als zij na een ingebrekestelling niet tijdig op zijn aanvraag beslist.">
+  <properties
+      key="wiki-gemma-model id"
+      value="dwangsom-bij-niet-tijdig-beslissen"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-logius-upl-actueel"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Geeft een bestuursorgaan een beschikking op aanvraag niet binnen de beslistermijn, dan kan de aanvrager het schriftelijk in gebreke stellen. Twee weken daarna verbeurt het bestuursorgaan een dwangsom voor elke dag dat het in gebreke is, ten hoogste 42 dagen, oplopend van € 23 tot € 45 per dag (Awb art. 4:17). Geen dwangsom is verschuldigd als de aanvrager geen belanghebbende is, of de aanvraag kennelijk niet-ontvankelijk of ongegrond is (art. 4:17 lid 5). Het bestuursorgaan stelt de dwangsom bij beschikking vast binnen twee weken na de laatste dag (art. 4:18). De UPL van Logius noemt de dienst voor burgers en bedrijven (rij 330); de UPL-lijst van GEMMA noemt haar niet."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/besluitvorming/dwangsom-bij-niet-tijdig-beslissen.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Bestuur"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:BusinessService>

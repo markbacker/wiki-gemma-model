@@ -1,0 +1,33 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personen registreren"
+    id="id-4fd45d1b6b4d5d6ca2d30fdf0c0f7ddb"
+    documentation="Het vermogen om personen en hun burgerlijke staat betrouwbaar en actueel vast te leggen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="personen-registreren"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-brp-bwbr0033715; 2026-rijk-burgerlijk-wetboek-boek-1"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="De gemeente houdt de basisregistratie personen bij voor de ingezetenen (Wet BRP art. 1.2) en de registers van geboorten, huwelijken, geregistreerde partnerschappen en overlijden (Burgerlijk Wetboek boek 1 art. 17). Twee bedrijfsfuncties realiseren dit vermogen, Bevolkingsadministratie bijhouding en Burgerlijke stand diensten; samen leveren ze onder meer de inschrijving in de BRP, de verhuismelding en de akten."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/strategie/capabilities/publieksdiensten/personen-registreren.md"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Publieksdiensten"/>
+</archimate:Capability>

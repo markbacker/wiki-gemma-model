@@ -1,0 +1,34 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is gericht tegen"
+    id="id-05c90307aa7a5b70ae83084d968610e0"
+    directed="true">
+  <properties
+      key="wiki-gemma-model id"
+      value="bezwaarschrift#1"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 6:5 lid 1 onder c, 7:11"/>
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-d97b18dde2e75f479f36be559af1e0c9.xml#id-d97b18dde2e75f479f36be559af1e0c9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-865c7c57c41b41b6847a258458c8421d.xml#id-865c7c57c41b41b6847a258458c8421d"/>
+</archimate:AssociationRelationship>

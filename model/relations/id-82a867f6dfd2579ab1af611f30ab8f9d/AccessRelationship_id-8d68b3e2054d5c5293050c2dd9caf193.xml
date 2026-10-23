@@ -1,0 +1,37 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="werkt bij"
+    id="id-8d68b3e2054d5c5293050c2dd9caf193"
+    accessType="3">
+  <properties
+      key="wiki-gemma-model id"
+      value="exploiteren-van-begraafplaatsen#20"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="geen"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-wet-op-de-lijkbezorging-wettekst"/>
+  <properties
+      key="wiki-gemma-model vindplaats"
+      value="art. 23, 27, 28"/>
+  <properties
+      key="wiki-gemma-model toegang"
+      value="bijwerken"/>
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-30deba14-c60a-49b2-b6d2-740a6d2539f5.xml#id-30deba14-c60a-49b2-b6d2-740a6d2539f5"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4ecb72536f3755cea1b5d6611a1aa65e.xml#id-4ecb72536f3755cea1b5d6611a1aa65e"/>
+</archimate:AccessRelationship>

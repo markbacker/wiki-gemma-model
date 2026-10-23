@@ -1,0 +1,36 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikking-data"
+    id="id-e8af38bc9432547d8dc26ccaf1169045"
+    documentation="In het bestuursrecht: Een beslissing van een overheidsorgaan in een concreet geval, bijvoorbeeld het verlenen van een bouwvergunning. In het civiele recht: een rechterlijke uitspraak in een procedure die begint met een verzoekschrift.">
+  <properties
+      key="wiki-gemma-model id"
+      value="beschikking-data"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model element"
+      value="beschikking"/>
+  <properties
+      key="wiki-gemma-model GGM-entiteit"
+      value="Beschikking"/>
+  <properties
+      key="wiki-gemma-model GGM-guid"
+      value="EAID_71D7E96D_641A_4b6a_A325_DED07C3B5836"/>
+  <properties
+      key="wiki-gemma-model GGM-match"
+      value="sterk"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/applicatiearchitectuur/data-objecten/beschikking-data.md"/>
+</archimate:DataObject>

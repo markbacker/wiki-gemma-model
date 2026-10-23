@@ -1,0 +1,60 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen klacht"
+    id="id-904ab005-ae79-48be-8200-14ccb6676a53"
+    documentation="Het behandelen van een klacht over een gedraging van een bestuursorgaan: de klager horen, de klacht onderzoeken en een oordeel geven.">
+  <properties
+      key="GEMMA type"
+      value="Bedrijfsproces"/>
+  <properties
+      key="Object ID"
+      value="904ab005-ae79-48be-8200-14ccb6676a53"/>
+  <properties
+      key="wiki-gemma-model id"
+      value="behandelen-klacht"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="gekoppeld"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model GEMMA-match"
+      value="sterk"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2026-rijk-algemene-wet-bestuursrecht-wettekst; 2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Het bestuursorgaan draagt zorg voor een behoorlijke behandeling van mondelinge en schriftelijke klachten over zijn gedragingen en die van wie onder zijn verantwoordelijkheid werkt (Awb art. 9:1, 9:2). Voor een schriftelijke klacht bevestigt het de ontvangst, laat het de klacht behandelen door iemand die niet bij de gedraging betrokken was, hoort het de klager en degene over wie geklaagd wordt en maakt het een verslag (art. 9:4, 9:6, 9:7, 9:10). Het kan een klacht onder voorwaarden niet behandelen, bijvoorbeeld als bezwaar of beroep openstond (art. 9:8). Het handelt de klacht af binnen zes weken, of tien weken als een klachtadviescommissie adviseert, en meldt de klager schriftelijk en gemotiveerd zijn bevindingen en oordeel, met de ombudsman bij wie hij daarna terecht kan (art. 9:11, 9:12, afdeling 9.1.3). Het houdt de schriftelijke klachten bij en publiceert ze jaarlijks (art. 9:12a)."/>
+  <properties
+      key="wiki-gemma-model deelprocessen"
+      value="1. Ontvangen klacht: Het bestuursorgaan bevestigt de ontvangst van de schriftelijke klacht en beoordeelt of het de klacht behandelt (art. 9:4, 9:6, 9:8).&#xA;2. Onderzoeken klacht: Iemand die niet bij de gedraging betrokken was, onderzoekt de klacht en hoort de klager en degene over wie geklaagd wordt, met een verslag; eventueel adviseert een klachtadviescommissie (art. 9:7, 9:9, 9:10, afdeling 9.1.3).&#xA;3. Afhandelen klacht: Het bestuursorgaan meldt de klager schriftelijk en gemotiveerd de bevindingen, het oordeel en de conclusies, met de ombudsman; de klacht komt in het jaarlijkse overzicht (art. 9:11, 9:12, 9:12a)."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/bedrijfsprocessen/0-bestuur-en-ondersteuning/besluitvorming/behandelen-klacht.md"/>
+  <properties
+      key="wiki-gemma-model procesniveau"
+      value="bedrijfsproces"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model kernobject"
+      value="schriftelijke-klacht"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+  <properties
+      key="wiki-gemma-model vorige definitie"
+      value="Het afhandelen van klachten tegen het &quot;gedrag of een houding&quot; van een gemeentelijke ambtenaar. Elke blijk van onvrede over gedrag en/of houding met betrekking tot dienstverlening, tussen een klant en een of meer ambtenaren in functie."/>
+</archimate:BusinessProcess>

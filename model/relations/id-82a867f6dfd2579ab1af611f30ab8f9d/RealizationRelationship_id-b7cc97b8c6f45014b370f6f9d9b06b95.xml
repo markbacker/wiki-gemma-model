@@ -1,0 +1,23 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b7cc97b8c6f45014b370f6f9d9b06b95">
+  <properties
+      key="wiki-gemma-model id"
+      value="verblijfstitel-data#realisatie"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-67f715b42a915156a02867c36729b85c.xml#id-67f715b42a915156a02867c36729b85c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8576c90ac5104cf8ade8acadf2764432.xml#id-8576c90ac5104cf8ade8acadf2764432"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,45 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bezwaar"
+    id="id-de7ebd2461fe50cf872c137ad4b355b9"
+    documentation="Het maken van bezwaar tegen een besluit bij het bestuursorgaan dat het nam, zodat het het besluit heroverweegt.">
+  <properties
+      key="wiki-gemma-model id"
+      value="bezwaar"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2025-vng-upl-producten-en-diensten-extern"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Een belanghebbende die het niet eens is met een besluit, maakt bezwaar door binnen zes weken na de bekendmaking een bezwaarschrift in te dienen bij het bestuursorgaan dat het besluit nam (Awb art. 6:4 lid 1, 6:7, 6:8). Bezwaar gaat in de regel vooraf aan beroep bij de bestuursrechter; dat geldt niet voor een besluit dat met de uniforme openbare voorbereidingsprocedure is voorbereid (art. 7:1). Het bestuursorgaan hoort de belanghebbenden, heroverweegt het besluit en beslist binnen zes weken, of binnen twaalf weken als een adviescommissie adviseert (art. 7:2, 7:10, 7:11). De UPL noemt de dienst voor burgers en bedrijven (nr. 64)."/>
+  <properties
+      key="wiki-gemma-model synoniemen"
+      value="Bezwaar maken (wet)"/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/diensten/0-bestuur-en-ondersteuning/besluitvorming/bezwaar.md"/>
+  <properties
+      key="wiki-gemma-model afnemer"
+      value="extern"/>
+  <properties
+      key="wiki-gemma-model domein"
+      value="Bestuur"/>
+  <properties
+      key="wiki-gemma-model taakveld"
+      value="0 Bestuur en Ondersteuning"/>
+  <properties
+      key="wiki-gemma-model beleidsdomein"
+      value="Besluitvorming"/>
+</archimate:BusinessService>

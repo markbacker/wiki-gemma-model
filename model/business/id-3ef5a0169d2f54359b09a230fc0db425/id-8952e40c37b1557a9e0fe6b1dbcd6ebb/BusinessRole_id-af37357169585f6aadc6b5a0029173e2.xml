@@ -1,0 +1,33 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indiener"
+    id="id-af37357169585f6aadc6b5a0029173e2"
+    documentation="Hoedanigheid van de inwoner of maatschappelijke partij die bij het college een verzoek uitdaagrecht indient of wil indienen.">
+  <properties
+      key="wiki-gemma-model id"
+      value="indiener"/>
+  <properties
+      key="wiki-gemma-model herkomst"
+      value="nieuw"/>
+  <properties
+      key="wiki-gemma-model exportdatum"
+      value="2026-10-18T17:40:33"/>
+  <properties
+      key="wiki-gemma-model soort export"
+      value="definitief"/>
+  <properties
+      key="wiki-gemma-model status"
+      value="goedgekeurd"/>
+  <properties
+      key="wiki-gemma-model bronnen"
+      value="2024-vng-implementatiehandleiding-model-participatieverordening; 2024-vng-model-participatieverordening; 2026-rijk-gemeentewet-wettekst; 2026-rijk-algemene-wet-bestuursrecht-wettekst"/>
+  <properties
+      key="wiki-gemma-model beschrijving"
+      value="Inwoners en maatschappelijke partijen kunnen bij het college een verzoek indienen; de indiener omschrijft de taak of de gewenste overheidsparticipatie, de reden en het beoogde resultaat, en verstrekt desgevraagd aanvullende informatie (2024-vng-model-participatieverordening, var. 1 art. 6; var. 2 art. [11]). Het college ondersteunt wie een verzoek wil indienen of heeft ingediend op een laagdrempelige manier in de buurt, bijvoorbeeld via een (buurt)loket (var. 1 art. 7; var. 2 art. [12] en toelichting).&#xA;&#xA;Het college informeert de indiener over de doorzending aan het bevoegde bestuursorgaan; bij toewijzing maakt het bestuursorgaan met de indiener afspraken over de uitvoering (2024-vng-model-participatieverordening, var. 1 art. [8] lid 1, [9]; var. 2 art. [13] lid 1, [14])."/>
+  <properties
+      key="wiki-gemma-model pagina"
+      value="elementpaginas/bedrijfsarchitectuur/rollen/indiener.md"/>
+  <properties
+      key="wiki-gemma-model doelgroep"
+      value="inwoners en ondernemers"/>
+</archimate:BusinessRole>
